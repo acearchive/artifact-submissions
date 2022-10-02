@@ -1,0 +1,13 @@
+name: "Upload Submissions"
+
+on:
+  workflow_dispatch:
+  push:
+    paths: ["submissions/*.json"]
+    branches: ["main"]
+
+jobs:
+  upload:
+    uses: ./.github/workflows/submit.yaml
+    with:
+      upload: true

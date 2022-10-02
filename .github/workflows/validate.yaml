@@ -1,0 +1,12 @@
+name: "Validate Submissions"
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths: ["submissions/*.json"]
+
+jobs:
+  validate:
+    uses: ./.github/workflows/submit.yaml
+    with:
+      upload: false
