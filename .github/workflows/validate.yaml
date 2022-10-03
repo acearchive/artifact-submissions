@@ -10,3 +10,4 @@ jobs:
     uses: ./.github/workflows/submit.yaml
     with:
       upload: false
+    secrets: inherit
