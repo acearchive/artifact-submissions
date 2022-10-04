@@ -6,12 +6,14 @@
     {
       "name": "Digital Scan",
       "fileName": "the-asexual-manifesto.pdf",
+      "mediaType": "application/pdf",
       "multihash": "c0e40240de0f279aee520a6e5e3b6dac8c48b9e6b81fced4876041607a599d07a0354aae03d6d1692b357361e5d13eb9abd67a487b3493f1df3c6c4078f400e13a38e8f7",
       "sourceUrl": "https://archive.org/download/asexualmanifestolisaorlando/Asexual-Manifesto-Lisa-Orlando.pdf"
     },
     {
       "name": "Transcript",
       "fileName": "the-asexual-manifesto-transcript/index.html",
+      "mediaType": "text/html",
       "multihash": "c0e40240b9519bd396cb1580304fff88e7d8f6189cf6c969d6f14786ac41c2869fe809092aad2e7b634082a63c31cf3f55b8bcee251e40ddfed545910a3f68561e75d973",
       "sourceUrl": "https://bafybeib2fu4qf44xiyduvhadog5raukc3ajdnd4qpsavyxaa2umzjeif5y.ipfs.w3s.link/"
     }
