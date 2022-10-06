@@ -19,12 +19,12 @@ jobs:
           upload: ${{ inputs.upload }}
           path: "submissions/"
           base_url: "https://files.acearchive.lgbt/artifacts"
-          s3_endpoint: "https://9d143afa60e911e9904e835bd1db8504.r2.cloudflarestorage.com"
-          s3_bucket: "acearchive-lgbt-artifacts"
+          s3_endpoint: ${{ secrets.ARTIFACTS_R2_ENDPOINT }}
+          s3_bucket: ${{ secrets.ARTIFACTS_R2_BUCKET }}
           s3_prefix: "artifacts/"
           s3_region: "auto"
           s3_access_key_id: ${{ secrets.R2_ACCESS_KEY_ID }}
           s3_secret_access_key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          cloudflare_account_id: "9d143afa60e911e9904e835bd1db8504"
+          cloudflare_account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           cloudflare_api_token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          kv_namespace_id: "17d335a0392045a499e5b7b2af8e4321"
+          kv_namespace_id: ${{ secrets.ARTIFACTS_KV_NAMESPACE_ID }}
