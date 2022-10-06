@@ -15,6 +15,7 @@ on:
 
 jobs:
   submit:
+    name: "Submit"
     runs-on: ubuntu-latest
     outputs:
       artifacts: ${{ steps.submit.outputs.artifacts }}
