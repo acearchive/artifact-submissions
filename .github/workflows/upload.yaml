@@ -20,7 +20,9 @@ jobs:
     steps:
       - name: "Generate Token"
         id: token
-        uses: tibdex/github-app-token@v1
+        # This action is being passed secrets, so we're pinning it to a specific
+        # rev for security. This action is very simple, so it's easy to audit.
+        uses: tibdex/github-app-token@f717b5ecd4534d3c4df4ce9b5c1c2214f0f7cd06
         with:
           app_id: ${{ secrets.GH_APP_ID }}
           permissions: >-
