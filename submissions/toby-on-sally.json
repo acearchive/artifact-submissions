@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "title": "Toby on *Sally*",
+  "summary": "Toby (Jim Sinclair) being interviewed on the talk show *Sally*",
+  "files": [
+    {
+      "name": "Toby on Sally - Part 1",
+      "fileName": "toby-on-sally-part-1.mp4",
+      "mediaType": "video/mp4",
+      "multihash": "c0e4024097f2d4630da5692bc57dce6b38ee4abdfc55f8934ddf63fb4f8ee0a9ed18e6af241e7321855e3d9eaa3bdb2fddc9d0d0da84b43c0a7f1f719878fef0e050a4ca",
+      "sourceUrl": "https://bafybeiarwvaspffmljr7ksvnefeclizmnbt37feeh2pnkej7xgbrvb7mzq.ipfs.w3s.link/"
+    },
+    {
+      "name": "Toby on Sally - Part 2",
+      "fileName": "toby-on-sally-part-2.mp4",
+      "mediaType": "video/mp4",
+      "multihash": "c0e40240fdd1cf6c58720a2127a43bcc0c8fb7c37bea4f9424b6298d7df3dc653081731098458bf6a36f7647e010d723966c816e340f8219d91132e3742424496dc37cbf",
+      "sourceUrl": "https://bafybeifipxdxj2n2ua5dfvqw254mmujcckb7nauhc3vnlmizj32towfqbq.ipfs.w3s.link/"
+    },
+    {
+      "name": "Toby on Sally - Part 3",
+      "fileName": "toby-on-sally-part-3.mp4",
+      "mediaType": "video/mp4",
+      "multihash": "c0e4024042d24da8195f790f82d6885db4550d1dcf46b9bf80ec5abf2db91cd1fcfea04438313aabba099a25155dcf996fbfc2228e289dd1121762302af94ea673f1aa50",
+      "sourceUrl": "https://bafybeibkug76jjo6mxjffuz36vlsi4hmgcwv256v2rtwcgdcffedonke2y.ipfs.w3s.link/"
+    },
+    {
+      "name": "Toby on Sally - Part 4",
+      "fileName": "toby-on-sally-part-4.mp4",
+      "mediaType": "video/mp4",
+      "multihash": "c0e40240209fb58842f0f5a818c199b8f4e10a46abb631281c1c6fbc5b2df4e2bd8115fcf4043d4f6df10d83b9d3cdc0f50f778fcacb618074f83e7139558b658d8eeaac",
+      "sourceUrl": "https://bafybeigyoglfohmefq3sbs6qlr65l2hgpw7bvyboaa4h2xc37giety5igu.ipfs.w3s.link/"
+    },
+    {
+      "name": "Toby on Sally - Part 5",
+      "filename": "toby-on-sally-part-5.mp4",
+      "mediaType": "video/mp4",
+      "multihash": "c0e40240e130658f4c3ef46d682c360bf40199e88724f674a6154ac998eaf1a848f7bbd8817b9d9e6ddbc4f856b997683fbece275bf4a9408f3afe3e88305fe631a0594f",
+      "sourceUrl": "https://bafybeiafaztnfftd3oiuk65uuiremyxcyee4davleu234gmzvix2i3hywi.ipfs.w3s.link/"
+    }
+  ],
+  "links": [
+    {
+      "name": "YouTube Playlist",
+      "url": "https://youtube.com/playlist?list=PLb6InlHRpvBMFIHiXGhmEdPS29DE5Q58d"
+    }
+  ],
+  "people": ["Jim Sinclair"],
+  "identities": ["asexual", "neuter"],
+  "fromYear": 1989,
+  "decades": [1980]
+}
