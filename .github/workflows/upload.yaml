@@ -7,8 +7,28 @@ on:
     branches: ["main"]
 
 jobs:
-  upload:
+  submit:
+    name: "Submit Artifacts"
     uses: ./.github/workflows/submit.yaml
     with:
       upload: true
     secrets: inherit
+  generate:
+    name: "Generate Hugo Files"
+    needs: submit
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v3
+        with:
+          repository: "acearchive/hugo-artifacts"
+      - name: "Generate Files"
+        uses: "acearchive/hugo-artifact-action@main"
+        with:
+          path: "artifacts/"
+          artifacts: ${{ needs.submit.outputs.artifacts }}
+      - name: "Commit Changes"
+        uses: "stefanzweifel/git-auto-commit-action@v4"
+        with:
+          commit_message: "Apply automatic changes"
+          file_pattern: "artifacts/*.md"

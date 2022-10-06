@@ -7,6 +7,7 @@ on:
 
 jobs:
   validate:
+    name: "Validate Submissions"
     uses: ./.github/workflows/submit.yaml
     with:
       upload: false
