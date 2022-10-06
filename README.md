@@ -12,11 +12,8 @@ When a PR is opened, the GitHub Action in
 [acearchive/artifact-submit-action](https://github.com/acearchive/artifact-submit-action)
 validates that the JSON submission files match the expected schema.
 
-When a PR is merged, that same action downloads the files linked in the
-submission from the included URLs, validates their hashes against the included
-checksums, and if the checksums match, uploads them to Cloudflare R2 and uploads
-the metadata to Cloudflare KV.
-
-Double-checking the hashes before uploading them to R2 ensures that the files
-returned from the included URLs have not changed since they were manually
-reviewed.
+When a PR is merged, that same action uploads the linked files to Ace Archive.
+Additionally,
+[acearchive/hugo-artifact-action](https://github.com/acearchive/hugo-artifact-action)
+is used to automatically generate static assets from the artifact submissions
+which are used to build the static site.
