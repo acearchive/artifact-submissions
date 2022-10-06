@@ -18,11 +18,20 @@ jobs:
     needs: submit
     runs-on: ubuntu-latest
     steps:
+      - name: "Generate Token"
+        id: token
+        uses: tibdex/github-app-token@v1
+        with:
+          app_id: ${{ secrets.GH_APP_ID }}
+          permissions: >-
+            {"contents": "write"}
+          private_key: ${{ secrets.GH_APP_PRIVATE_KEY }}
+          repository: "acearchive/hugo-artifacts"
       - name: "Checkout"
         uses: actions/checkout@v3
         with:
           repository: "acearchive/hugo-artifacts"
-          token: ${{ secrets.REPO_COMMIT_PAT }}
+          token: ${{ steps.token.outputs.token }}
       - name: "Generate Files"
         uses: "acearchive/hugo-artifact-action@main"
         with:
