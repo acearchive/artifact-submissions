@@ -3,9 +3,9 @@ name: "Submit Artifacts"
 on:
   workflow_call:
     inputs:
-      upload:
+      mode:
         required: true
-        type: boolean
+        type: string
     outputs:
       artifacts:
         description: >
@@ -20,13 +20,25 @@ jobs:
     outputs:
       artifacts: ${{ steps.submit.outputs.artifacts }}
     steps:
+      - name: "Generate Token"
+        id: token
+        # This action is being passed secrets, so we're pinning it to a specific
+        # rev for security. This action is very simple, so it's easy to audit.
+        uses: tibdex/github-app-token@f717b5ecd4534d3c4df4ce9b5c1c2214f0f7cd06
+        with:
+          app_id: ${{ secrets.GH_APP_ID }}
+          permissions: >-
+            {"contents": "write"}
+          private_key: ${{ secrets.GH_APP_PRIVATE_KEY }}
       - name: "Checkout"
         uses: actions/checkout@v3
+        with:
+          token: ${{ steps.token.outputs.token }}
       - name: "Submit"
         id: submit
         uses: acearchive/artifact-submit-action@main
         with:
-          upload: ${{ inputs.upload }}
+          mode: ${{ inputs.mode }}
           path: "submissions/"
           base_url: "https://files.acearchive.lgbt/artifacts"
           s3_endpoint: ${{ secrets.ARTIFACTS_R2_ENDPOINT }}
@@ -38,3 +50,8 @@ jobs:
           cloudflare_account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           cloudflare_api_token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           kv_namespace_id: ${{ secrets.ARTIFACTS_KV_NAMESPACE_ID }}
+      - name: "Commit Changes"
+        uses: "stefanzweifel/git-auto-commit-action@v4"
+        with:
+          commit_message: "Apply automatic changes"
+          file_pattern: "submissions/*.json"

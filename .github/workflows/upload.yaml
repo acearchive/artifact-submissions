@@ -11,7 +11,7 @@ jobs:
     name: "Submit Artifacts"
     uses: ./.github/workflows/submit.yaml
     with:
-      upload: true
+      mode: "upload"
     secrets: inherit
   generate:
     name: "Generate Hugo Files"

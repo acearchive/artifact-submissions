@@ -10,5 +10,5 @@ jobs:
     name: "Validate Submissions"
     uses: ./.github/workflows/submit.yaml
     with:
-      upload: false
+      mode: "validate"
     secrets: inherit
