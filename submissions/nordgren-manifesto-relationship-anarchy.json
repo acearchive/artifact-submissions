@@ -3,21 +3,24 @@
   "slug": "nordgren-manifesto-relationship-anarchy",
   "title": "*The short instructional manifesto for relationship anarchy*",
   "summary": "A pamphlet which first introduced the concept of relationship anarchy",
-  "description": "",
   "files": [
     {
       "name": "PDF",
       "fileName": "short-instructional-manifesto-for-relationship-anarchy.pdf",
       "sourceUrl": "https://theanarchistlibrary.org/library/andie-nordgren-the-short-instructional-manifesto-for-relationship-anarchy.pdf",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "1220fcf2a3624f8e86b818875ec7fd8f8c8ccc53cf530454a9c3abec3e4b379494be"
     },
     {
       "name": "Standalone HTML",
       "fileName": "short-instructional-manifesto-for-relationship-anarchy.html",
       "sourceUrl": "https://theanarchistlibrary.org/library/andie-nordgren-the-short-instructional-manifesto-for-relationship-anarchy.html",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "1220a53d3667e98e61a144ecd1c7247fcec1447b291251425b8c039d75b6e908c3a2"
     }
   ],
   "links": [
