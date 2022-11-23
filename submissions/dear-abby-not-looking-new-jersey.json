@@ -17,11 +17,9 @@
     {
       "name": "Transcript",
       "fileName": "dear-abby-not-looking-transcript/index.html",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeid5y2klzypxv7flvzlbwj7xzoxmwlrjrkhwvha5k2jrkaqbvbhuu4",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreihhf7bd4hxyvc6nrfkfmnprbikekcm2so3aauujnbl7ddcjydm42m",
       "hidden": false,
-      "aliases": [],
-      "mediaType": "text/html",
-      "multihash": "1220e72fc23e1ef8a8bcd89545635f10a1445099a93b60052896857f18c49c0d9cd3"
+      "aliases": []
     },
     {
       "name": "Citation",
@@ -39,15 +37,9 @@
       "url": "https://news.google.com/newspapers?id=7q8_AAAAIBAJ&sjid=31YMAAAAIBAJ&pg=6814%2C6344642"
     }
   ],
-  "people": [
-    "Abigail Van Buren"
-  ],
-  "identities": [
-    "asexual"
-  ],
+  "people": ["Abigail Van Buren"],
+  "identities": ["asexual"],
   "fromYear": 1995,
-  "decades": [
-    1990
-  ],
+  "decades": [1990],
   "aliases": []
 }
