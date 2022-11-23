@@ -10,9 +10,15 @@
       "url": "https://web.archive.org/web/19990429195445/http://members.tripod.com/~asexual/coalition.html"
     }
   ],
-  "people": ["Brian Kelliher"],
-  "identities": ["asexual"],
+  "people": [
+    "Brian Kelliher"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1997,
-  "decades": [1990],
+  "decades": [
+    1990
+  ],
   "aliases": []
 }

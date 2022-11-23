@@ -11,8 +11,12 @@
     }
   ],
   "people": [],
-  "identities": ["asexual"],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1998,
-  "decades": [1990],
+  "decades": [
+    1990
+  ],
   "aliases": []
 }

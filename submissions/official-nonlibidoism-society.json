@@ -11,8 +11,13 @@
     }
   ],
   "people": [],
-  "identities": ["asexual", "nonlibidoist"],
+  "identities": [
+    "asexual",
+    "nonlibidoist"
+  ],
   "fromYear": 2003,
-  "decades": [2000],
+  "decades": [
+    2000
+  ],
   "aliases": []
 }

@@ -11,14 +11,17 @@
       "mediaType": "application/pdf",
       "sourceUrl": "https://w3s.link/ipfs/bafybeig6ozrk3xoeq5hvwwm2qoge7davfr5u5whusco6gc57txii3mcmje",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "multihash": "1220d631f2e0ca6ef8d7e7b6ce7da82757d2d005e608a2645d71a30cf6d8f5660494"
     },
     {
       "name": "Citation",
       "fileName": "kertbeny-paragraph-143.bib",
       "sourceUrl": "https://w3s.link/ipfs/bafkreicojzjtartqz2mvyqxln3fddi5pvnrrrpgrl6npin75f3kijs4whq",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/plain",
+      "multihash": "12204e4e53304670ce995c42eb6eca31a3afab6318bcd15f9af437fd2ed484cb963c"
     }
   ],
   "links": [
@@ -27,9 +30,13 @@
       "url": "https://katalog.ub.uni-leipzig.de/Record/0-1657911586"
     }
   ],
-  "people": ["Karl-Maria Kertbeny"],
+  "people": [
+    "Karl-Maria Kertbeny"
+  ],
   "identities": [],
   "fromYear": 1869,
-  "decades": [1860],
+  "decades": [
+    1860
+  ],
   "aliases": []
 }

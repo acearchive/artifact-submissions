@@ -10,9 +10,15 @@
       "url": "https://web.archive.org/web/19970626042139/http://dispatches.azstarnet.com/zoe/amoeba.htm"
     }
   ],
-  "people": ["Zoe O'Reilly"],
-  "identities": ["asexual"],
+  "people": [
+    "Zoe O'Reilly"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1997,
-  "decades": [1990],
+  "decades": [
+    1990
+  ],
   "aliases": []
 }
