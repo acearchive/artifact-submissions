@@ -4,7 +4,7 @@ labels: ["submission"]
 body:
   - type: markdown
     attributes:
-      value: >
+      value: |
         Thanks for your interest in Ace Archive! This is a form for submitting
         an artifact to be added to the archive.
 
@@ -18,12 +18,13 @@ body:
         This text box contains your artifact submission as code (JSON). If you
         came here from the [submission form](https://acearchive.lgbt/submit/) on
         Ace Archive, this should be pre-filled and you don't need to touch it.
-      placeholder: >
+      placeholder: |
         It looks like there's nothing here!
 
-        If you came here from GitHub and this box is empty, go check out the
-        submission form linked above first. Once you fill out that form, it'll
-        send you back here and fill out this box for you.
+        Go check out the submission form linked above first.
+
+        Once you fill out that form, it'll send you back here and fill out this
+        box for you.
       render: JSON
     validations:
       required: true
