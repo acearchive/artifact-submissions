@@ -55,7 +55,9 @@
       "fileName": "off-our-backs-vol-3-no-6.bib",
       "sourceUrl": "https://w3s.link/ipfs/bafkreig4ajyljxdak327crngseok3ujnaazktmsmtorbc2dzfimbe5ew5u",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/plain",
+      "multihash": "1220dc0270b4dc6056f5f145a6911cadd12d0032a9b24c9ba21168792a18127496ed"
     }
   ],
   "links": [
@@ -65,8 +67,15 @@
     }
   ],
   "people": [],
-  "identities": ["asexual", "lesbian"],
+  "identities": [
+    "asexual",
+    "lesbian"
+  ],
   "fromYear": 1973,
-  "decades": [1970],
-  "aliases": ["choose-your-label-bernard-college"]
+  "decades": [
+    1970
+  ],
+  "aliases": [
+    "choose-your-label-bernard-college"
+  ]
 }
