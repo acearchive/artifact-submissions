@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "slug": "bogaert-asexuality-prevalence",
+  "title": "\"Asexuality: Prevalence and Associated Factors in a National Probability Sample\"",
+  "summary": "An early study on the prevalence of asexuality",
+  "description": "One of the first studies on the prevalence of asexuality which defines asexuality in terms of sexual attraction and does not pathologize asexuals",
+  "files": [
+    {
+      "name": "Paper",
+      "fileName": "bogaert-asexuality-prevalence.pdf",
+      "mediaType": "application/pdf",
+      "sourceUrl": "https://w3s.link/ipfs/bafybeielzbrslhpkviunin2lboizvqfmxbh3fhbliwivd5tipr3rnypoby",
+      "hidden": false,
+      "aliases": [],
+      "multihash": "1220393368d7d235b00556ed22d0596581327e52496cae4117268f8981baaf98fcde"
+    },
+    {
+      "name": "Citation",
+      "fileName": "bogaert-asexuality-prevalence.bib",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreid6kvmjqet2gfmdiccqmqmh4lnwrfy3p53lfsfneuvnld7ko6jkji",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "text/plain",
+      "multihash": "12207e555898127a315834085064187e2db68971b7f76b2c8ad252ad58fea7792a4a"
+    }
+  ],
+  "links": [
+    {
+      "name": "Journal Page",
+      "url": "https://doi.org/10.1080/00224490409552235"
+    },
+    {
+      "name": "Journal Page",
+      "url": "https://web.archive.org/web/20220430153700/https://www.tandfonline.com/doi/abs/10.1080/00224490409552235"
+    }
+  ],
+  "people": [
+    "Anthony Bogaert"
+  ],
+  "identities": [
+    "asexual"
+  ],
+  "fromYear": 2004,
+  "decades": [
+    2000
+  ],
+  "aliases": []
+}

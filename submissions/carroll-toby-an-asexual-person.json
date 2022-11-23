@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "slug": "carroll-toby-an-asexual-person",
+  "title": "\"Toby: An Asexual Person\"",
+  "summary": "An excerpt from a textbook describing a neuter person",
+  "description": "An excerpt from the book *Sexuality Now: Embracing Diversity*, which describes Toby (Jim Sinclair) as neuter and asexual",
+  "files": [
+    {
+      "name": "Toby: An Asexual Person",
+      "fileName": "toby-an-asexual-person.png",
+      "mediaType": "image/png",
+      "sourceUrl": "https://graphicexplanations.files.wordpress.com/2017/10/worldpride-004.png",
+      "hidden": false,
+      "aliases": [],
+      "multihash": "12201ff999058ea3211ab21515060777cc88a9bedfaf320f954a2d8f3338089d1172"
+    },
+    {
+      "name": "Toby: An Asexual Person (Transcript)",
+      "fileName": "toby-an-asexual-person-transcript/index.html",
+      "mediaType": "text/html",
+      "sourceUrl": "https://w3s.link/ipfs/bafybeibiedyr57dtyyyt6nrzqgayla7sjd4obamuswi27qc3zard7owegy",
+      "hidden": false,
+      "aliases": [],
+      "multihash": "122078300092dec761437958446965081f265a54b0aef1c274b8cc50297f9c6ac4ea"
+    },
+    {
+      "name": "Sexuality Now: Embracing Diversity (Citation)",
+      "fileName": "sexuality-now-embracing-diversity.bib",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreihtgeuushj4zbd3ur74amf5oq6sv2esgdin44z7el5ci6rzvosh2i",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "text/plain",
+      "multihash": "1220f33129491d3cc847ba47fc030bd743d2ae89230d0de733f22fa247a39aba47d2"
+    }
+  ],
+  "links": [
+    {
+      "name": "Google Books",
+      "url": "https://www.google.com/books/edition/Sexuality_Now_Embracing_Diversity/nKwJzgEACAAJ?hl=en"
+    }
+  ],
+  "people": [
+    "Jim Sinclair"
+  ],
+  "identities": [
+    "intersex",
+    "non-binary",
+    "neuter",
+    "asexual"
+  ],
+  "fromYear": 2006,
+  "decades": [
+    2000
+  ],
+  "aliases": []
+}
