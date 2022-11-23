@@ -19,35 +19,45 @@
       "fileName": "choose-your-label-transcript/index.html",
       "sourceUrl": "https://w3s.link/ipfs/bafkreianxqmiddoq2eabynt6n4rkdpp2h3cp6zgcml37oc3pahan6i7j4y",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "12200dbc18818dd0d1001c367e6f22a1bdfa3ec4ff64c262f7f70b6f01c0df23e9e6"
     },
     {
       "name": "Photo",
       "fileName": "choose-your-label-transcript/choose-your-label.png",
       "sourceUrl": "https://w3s.link/ipfs/bafkreigwewroyf4yokdjayboaxhr3nxrqp3543jwxdoda2zvjm3phtlup4",
       "hidden": true,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "image/png",
+      "multihash": "1220d625a2ec1798728690602e05cf1db6f183f7de6d36b8dc306b354b36f3cd747f"
     },
     {
       "name": "Photo",
       "fileName": "choose-your-label-transcript/margaret-sloan-and-gloria-steinem.png",
       "sourceUrl": "https://w3s.link/ipfs/bafybeidr2dcqyiqhtq6xprwtyr4gfsiqomu33hyyii3cm6o4nyjdyeum3m",
       "hidden": true,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "image/png",
+      "multihash": "1220050aeb4a92fcd9708cd09c5e0ffb7a2afca21d016acfc7127cad3cb38fbb89d6"
     },
     {
       "name": "Off Our Backs, vol. 3, no. 6",
       "fileName": "off-our-backs-vol-3-no-6.pdf",
       "sourceUrl": "https://w3s.link/ipfs/bafybeibfzohg3yto2heodyxs7ug4cuul3qadohizkelzbxjrbfpoeqioo4",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "12200c90cbfe0a298589573ea87a1caa432e0cc1644ec16de9553c5153080c15a266"
     },
     {
       "name": "Off Our Backs, vol. 3, no. 6 (Citation)",
       "fileName": "off-our-backs-vol-3-no-6.bib",
       "sourceUrl": "https://w3s.link/ipfs/bafkreifmy3tsel3ooaqdnna5t35q2azdctsb2dp4d4qxuahkp7ddi4kgae",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/plain",
+      "multihash": "1220acc6e7222f6e702036b41d9efb0d032314e41d0dfc1f217a00ea7fc634714601"
     }
   ],
   "links": [
@@ -57,8 +67,15 @@
     }
   ],
   "people": [],
-  "identities": ["asexual", "lesbian"],
+  "identities": [
+    "asexual",
+    "lesbian"
+  ],
   "fromYear": 1973,
-  "decades": [1970],
-  "aliases": ["choose-your-label-bernard-college"]
+  "decades": [
+    1970
+  ],
+  "aliases": [
+    "choose-your-label-bernard-college"
+  ]
 }
