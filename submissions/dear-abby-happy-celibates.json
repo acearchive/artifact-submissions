@@ -19,7 +19,9 @@
       "fileName": "dear-abby-happy-celibates-transcript/index.html",
       "sourceUrl": "https://w3s.link/ipfs/bafkreifzijrb4abwapzf3meezfc4fw2ocwdxjt6ys32qbbxzscb7ipfd3u",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "1220b942621e003603f25db084c945c2db4e158774cfd896f50086f99083f43ca3dd"
     },
     {
       "name": "Citation",
@@ -37,9 +39,15 @@
       "url": "https://news.google.com/newspapers?id=u0dBAAAAIBAJ&sjid=6qgMAAAAIBAJ&pg=6478%2C148486"
     }
   ],
-  "people": ["Abigail Van Buren"],
-  "identities": ["asexual"],
+  "people": [
+    "Abigail Van Buren"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1981,
-  "decades": [1980],
+  "decades": [
+    1980
+  ],
   "aliases": []
 }

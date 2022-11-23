@@ -19,7 +19,9 @@
       "fileName": "toby-an-asexual-person-transcript/index.html",
       "sourceUrl": "https://w3s.link/ipfs/bafkreidygaajfxwhmfbxswcenfsqqhzgljklblxryj2lrtcqff7zy2we5i",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "122078300092dec761437958446965081f265a54b0aef1c274b8cc50297f9c6ac4ea"
     },
     {
       "name": "Sexuality Now: Embracing Diversity (Citation)",
@@ -37,9 +39,18 @@
       "url": "https://www.google.com/books/edition/Sexuality_Now_Embracing_Diversity/nKwJzgEACAAJ?hl=en"
     }
   ],
-  "people": ["Jim Sinclair"],
-  "identities": ["intersex", "non-binary", "neuter", "asexual"],
+  "people": [
+    "Jim Sinclair"
+  ],
+  "identities": [
+    "intersex",
+    "non-binary",
+    "neuter",
+    "asexual"
+  ],
   "fromYear": 2006,
-  "decades": [2000],
+  "decades": [
+    2000
+  ],
   "aliases": []
 }
