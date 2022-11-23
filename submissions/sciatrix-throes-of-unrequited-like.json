@@ -14,9 +14,16 @@
       "url": "https://web.archive.org/web/20220319131355/https://writingfromfactorx.wordpress.com/2011/05/22/writhing-in-the-throes-of-unrequited-like/"
     }
   ],
-  "people": ["Sciatrix"],
-  "identities": ["aromantic", "WTFromantic"],
+  "people": [
+    "Sciatrix"
+  ],
+  "identities": [
+    "aromantic",
+    "WTFromantic"
+  ],
   "fromYear": 2011,
-  "decades": [2010],
+  "decades": [
+    2010
+  ],
   "aliases": []
 }

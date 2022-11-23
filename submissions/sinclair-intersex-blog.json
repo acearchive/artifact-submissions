@@ -10,10 +10,17 @@
       "url": "https://web.archive.org/web/20090207012135/http://web.syr.edu/~jisincla/intersex.htm"
     }
   ],
-  "people": ["Jim Sinclair"],
-  "identities": ["intersex"],
+  "people": [
+    "Jim Sinclair"
+  ],
+  "identities": [
+    "intersex"
+  ],
   "fromYear": 1987,
   "toYear": 1999,
-  "decades": [1980, 1990],
+  "decades": [
+    1980,
+    1990
+  ],
   "aliases": []
 }

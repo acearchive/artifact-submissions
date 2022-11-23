@@ -10,7 +10,8 @@
       "mediaType": "video/mp4",
       "sourceUrl": "https://w3s.link/ipfs/bafybeibs32ms6srvkzn2cabgz36n7b34tb2yf4tkwt2m7jzitucnvpoahu",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "multihash": "12201196ee67338389103bdf6ad5aef3cad937caf43ad5c6546dbf46e92438c79966"
     },
     {
       "name": "Full Talk",
@@ -18,7 +19,8 @@
       "mediaType": "video/mp4",
       "sourceUrl": "https://w3s.link/ipfs/bafybeibzt2sy2mn7wga6h625c4chrua6bqque7rkeckad242xn3yenkhci",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "multihash": "1220fe59eb36f2b61dd641b77b1b1f3f03bf961843e735489b68505ee97a05ebf6a0"
     }
   ],
   "links": [
@@ -31,9 +33,15 @@
       "url": "https://youtu.be/geelOJoc1rc"
     }
   ],
-  "people": ["Nat Titman"],
-  "identities": ["asexual"],
+  "people": [
+    "Nat Titman"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 2012,
-  "decades": [2010],
+  "decades": [
+    2010
+  ],
   "aliases": []
 }

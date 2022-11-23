@@ -10,9 +10,16 @@
       "url": "https://web.archive.org/web/20021005123031/http://www.geocities.com/smidgen110/nonsexual.html"
     }
   ],
-  "people": ["smidgen110"],
-  "identities": ["asexual", "nonsexual"],
+  "people": [
+    "smidgen110"
+  ],
+  "identities": [
+    "asexual",
+    "nonsexual"
+  ],
   "fromYear": 2001,
-  "decades": [2000],
+  "decades": [
+    2000
+  ],
   "aliases": []
 }

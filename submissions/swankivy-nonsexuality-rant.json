@@ -10,9 +10,16 @@
       "url": "https://web.archive.org/web/20061204110608/http://members.aol.com/swankivy/nonsex.html"
     }
   ],
-  "people": ["Swankivy"],
-  "identities": ["asexual", "nonsexual"],
+  "people": [
+    "Swankivy"
+  ],
+  "identities": [
+    "asexual",
+    "nonsexual"
+  ],
   "fromYear": 2002,
-  "decades": [2000],
+  "decades": [
+    2000
+  ],
   "aliases": []
 }

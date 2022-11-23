@@ -11,8 +11,12 @@
     }
   ],
   "people": [],
-  "identities": ["antisexual"],
+  "identities": [
+    "antisexual"
+  ],
   "fromYear": 1998,
-  "decades": [1990],
+  "decades": [
+    1990
+  ],
   "aliases": []
 }

@@ -10,9 +10,16 @@
       "url": "https://web.archive.org/web/20020407104252/http://www.geocities.com/tngirltech/asexual.htm"
     }
   ],
-  "people": ["TNGirlTech"],
-  "identities": ["asexual", "nonsexual"],
+  "people": [
+    "TNGirlTech"
+  ],
+  "identities": [
+    "asexual",
+    "nonsexual"
+  ],
   "fromYear": 2001,
-  "decades": [2000],
+  "decades": [
+    2000
+  ],
   "aliases": []
 }
