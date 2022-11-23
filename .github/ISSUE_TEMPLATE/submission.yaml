@@ -1,0 +1,36 @@
+name: Submit an Artifact
+description: Submit a new artifact to the archive.
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Thanks for your interest in Ace Archive! This is a form for submitting
+        an artifact to be added to the archive.
+
+        Just press the "Submit new issue" button below to submit your artifact
+        for approval.
+  - type: textarea
+    id: artifact
+    attributes:
+      label: "Artifact submission"
+      description: >
+        This text box contains your artifact submission as code (JSON). If you
+        came here from the [submission form](https://acearchive.lgbt/submit/) on
+        Ace Archive, this should be pre-filled and you don't need to touch it.
+      placeholder: >
+        It looks like there's nothing here!
+
+        If you came here from GitHub and this box is empty, go check out the
+        submission form linked above first. Once you fill out that form, it'll
+        send you back here and fill out this box for you.
+      render: JSON
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: "Anything else?"
+      description: >
+        Is there anything else you want to mention alongside your submission?
+        This is optional.

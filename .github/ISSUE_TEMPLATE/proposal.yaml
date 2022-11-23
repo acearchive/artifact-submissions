@@ -1,6 +1,6 @@
 name: Suggest Content
 description: Suggest content to be added to the archive.
-labels: ["artifact"]
+labels: ["proposal"]
 body:
   - type: markdown
     attributes:
@@ -59,6 +59,6 @@ body:
   - type: textarea
     id: extra
     attributes:
-      label: "Anything else"
+      label: "Anything else?"
       description: >
         Is there anything else you want to mention?
