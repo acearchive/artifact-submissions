@@ -8,8 +8,7 @@
     {
       "name": "Photo",
       "fileName": "choose-your-label.png",
-      "mediaType": "image/png",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreigwewroyf4yokdjayboaxhr3nxrqp3543jwxdoda2zvjm3phtlup4",
+      "sourceUrl": "https://64.media.tumblr.com/f6fd83f78ae910bf1c0bd2b5ebf2eb37/3fd5f0a1606507fc-af/s1280x1920/383c5adadae6e19dfe184f2fe474c0f85573faf8.png",
       "hidden": false,
       "aliases": []
     },
@@ -25,14 +24,14 @@
       "name": "Off Our Backs, vol. 3, no. 6",
       "fileName": "off-our-backs-vol-3-no-6.pdf",
       "mediaType": "application/pdf",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeibfzohg3yto2heodyxs7ug4cuul3qadohizkelzbxjrbfpoeqioo4",
+      "sourceUrl": "https://www.jstor.org/stable/pdf/community.28041797.pdf",
       "hidden": false,
       "aliases": []
     },
     {
       "name": "Off Our Backs, vol. 3, no. 6 (Citation)",
       "fileName": "off-our-backs-vol-3-no-6.bib",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreifmy3tsel3ooaqdnna5t35q2azdctsb2dp4d4qxuahkp7ddi4kgae",
+      "sourceUrl": "https://www.jstor.org/citation/text/community.28041797",
       "hidden": false,
       "aliases": []
     }
