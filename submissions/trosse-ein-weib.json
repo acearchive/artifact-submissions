@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "slug": "trosse-ein-weib",
+  "title": "*Ein Weib?*",
+  "summary": "An early academic paper on queer identities where the author self-identities as asexual",
+  "description": "An early academic paper on queer identities where the author discusses asexuality using the label *sinnlichkeitslosigkeit* (asensuality) and self-identifies as such",
+  "files": [
+    {
+      "name": "Original Paper (Deutsch)",
+      "fileName": "ein-weib.pdf",
+      "mediaType": "application/pdf",
+      "sourceUrl": "https://w3s.link/ipfs/bafybeia2zyybfvw5otbo6aslptiq44d7mrc35gybbnhwerxrbihpak5evu",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "fileName": "ein-weib.bib",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreigtux5xnoezmau2v4ibu35xhdozgo5jpivluvkcyl7p6wsafx6k2q",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Google Books",
+      "url": "https://www.google.com/books/edition/Ein_Weib/rKzISmJ3YuYC?hl=en"
+    }
+  ],
+  "people": ["Emma Trosse"],
+  "identities": ["asexual"],
+  "fromYear": 1897,
+  "decades": [1890],
+  "aliases": []
+}
