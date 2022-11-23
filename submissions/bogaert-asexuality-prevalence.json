@@ -17,11 +17,9 @@
     {
       "name": "Citation",
       "fileName": "bogaert-asexuality-prevalence.bib",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreid6kvmjqet2gfmdiccqmqmh4lnwrfy3p53lfsfneuvnld7ko6jkji",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreibe4thbzpbab3b6aslmypmegdcseliq2zyk3n6iuz3mxf2autqqsm",
       "hidden": false,
-      "aliases": [],
-      "mediaType": "text/plain",
-      "multihash": "12207e555898127a315834085064187e2db68971b7f76b2c8ad252ad58fea7792a4a"
+      "aliases": []
     }
   ],
   "links": [
@@ -34,15 +32,9 @@
       "url": "https://web.archive.org/web/20220430153700/https://www.tandfonline.com/doi/abs/10.1080/00224490409552235"
     }
   ],
-  "people": [
-    "Anthony Bogaert"
-  ],
-  "identities": [
-    "asexual"
-  ],
+  "people": ["Anthony Bogaert"],
+  "identities": ["asexual"],
   "fromYear": 2004,
-  "decades": [
-    2000
-  ],
+  "decades": [2000],
   "aliases": []
 }

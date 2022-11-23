@@ -17,11 +17,9 @@
     {
       "name": "Citation",
       "fileName": "hirschfeld-sappho-und-sokrates.bib",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreiby4jzmo5q5q5ltvx2ie22xv3k4eig5yiaj7tvvtzw7w6ihlokdzi",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreiai37ueuplcw3qfqjwdxl45hipdr5onjokxtdygfbswzikiolae7m",
       "hidden": false,
-      "aliases": [],
-      "mediaType": "text/plain",
-      "multihash": "122038e272c7761d87573adf4826b57aed5c220ddc2009fceb59e6dfb79075b943ca"
+      "aliases": []
     }
   ],
   "links": [
@@ -38,15 +36,9 @@
       "url": "https://web.archive.org/web/20220120124921/https://www.asexuality.org/en/topic/98639-indirect-mentions-of-asexuality-in-magnus-hirschfelds-books/"
     }
   ],
-  "people": [
-    "Magnus Hirschfeld"
-  ],
-  "identities": [
-    "asexual"
-  ],
+  "people": ["Magnus Hirschfeld"],
+  "identities": ["asexual"],
   "fromYear": 1896,
-  "decades": [
-    1890
-  ],
+  "decades": [1890],
   "aliases": []
 }
