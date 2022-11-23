@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "slug": "storms-sexual-orientation-self-perception",
+  "title": "\"Sexual Orientation and Self-Perception\"",
+  "summary": "A study that reimagines the Kinsey Scale as a two-dimensional spectrum that accounts for asexuality",
+  "files": [
+    {
+      "name": "Paper",
+      "fileName": "sexual-orientation-and-self-perception.pdf",
+      "sourceUrl": "https://w3s.link/ipfs/QmVZehsVQh7gAM8jFssUtx6q56M2thCs5hajo8NhLE1nnZ",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "1220bb83c74308dabff59769208afca8203e654b36e292f3bb8139c5b26baafe8d6e"
+    },
+    {
+      "name": "Citation",
+      "fileName": "sexual-orientation-and-self-perception.bib",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreiecql7ru3l4hqjl4ahzcm6qg76ev53wcnp6txjevrpddv7i2xtg2m",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "text/plain",
+      "multihash": "12208282ff1a6d7c3c12be00f9133d037fc4af776135fe9dd24ac5e31d7e8d5e66d3"
+    }
+  ],
+  "links": [
+    {
+      "name": "Journal Page",
+      "url": "https://doi.org/10.1007/978-1-4684-3548-1_7"
+    }
+  ],
+  "people": [
+    "Michael D. Storms"
+  ],
+  "identities": [
+    "asexual"
+  ],
+  "fromYear": 1979,
+  "decades": [
+    1970
+  ],
+  "aliases": []
+}
