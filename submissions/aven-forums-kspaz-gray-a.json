@@ -14,9 +14,16 @@
       "url": "https://web.archive.org/web/20220328213011/https://www.asexuality.org/en/topic/15539-gray-as/"
     }
   ],
-  "people": ["KSpaz"],
-  "identities": ["asexual", "gray-asexual"],
+  "people": [
+    "KSpaz"
+  ],
+  "identities": [
+    "asexual",
+    "gray-asexual"
+  ],
   "fromYear": 2006,
-  "decades": [2000],
+  "decades": [
+    2000
+  ],
   "aliases": []
 }

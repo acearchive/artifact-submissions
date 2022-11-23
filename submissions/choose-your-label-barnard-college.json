@@ -10,7 +10,9 @@
       "fileName": "choose-your-label.png",
       "sourceUrl": "https://64.media.tumblr.com/f6fd83f78ae910bf1c0bd2b5ebf2eb37/3fd5f0a1606507fc-af/s1280x1920/383c5adadae6e19dfe184f2fe474c0f85573faf8.png",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "image/png",
+      "multihash": "122080b4a18f95a1044ca533fd1f03263112e93bf1f42f52048214677ab57542b7eb"
     },
     {
       "name": "Article Transcript",
@@ -18,7 +20,8 @@
       "mediaType": "text/html",
       "sourceUrl": "https://w3s.link/ipfs/bafybeibcqnvnslchlhxwnifrmljf6sskijatbgh6rpkqnjsnmmfz7oatui",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "multihash": "12200dbc18818dd0d1001c367e6f22a1bdfa3ec4ff64c262f7f70b6f01c0df23e9e6"
     },
     {
       "name": "Off Our Backs, vol. 3, no. 6",
@@ -26,14 +29,17 @@
       "mediaType": "application/pdf",
       "sourceUrl": "https://www.jstor.org/stable/pdf/community.28041797.pdf",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "multihash": "12206799b808fe78b96e9b957f0368641f8e669e4ac4424078312297067bdaead1b5"
     },
     {
       "name": "Off Our Backs, vol. 3, no. 6 (Citation)",
       "fileName": "off-our-backs-vol-3-no-6.bib",
       "sourceUrl": "https://www.jstor.org/citation/text/community.28041797",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/plain",
+      "multihash": "1220dc0270b4dc6056f5f145a6911cadd12d0032a9b24c9ba21168792a18127496ed"
     }
   ],
   "links": [
@@ -43,8 +49,15 @@
     }
   ],
   "people": [],
-  "identities": ["asexual", "lesbian"],
+  "identities": [
+    "asexual",
+    "lesbian"
+  ],
   "fromYear": 1973,
-  "decades": [1970],
-  "aliases": ["choose-your-label-bernard-college"]
+  "decades": [
+    1970
+  ],
+  "aliases": [
+    "choose-your-label-bernard-college"
+  ]
 }

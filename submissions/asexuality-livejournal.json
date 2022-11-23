@@ -11,9 +11,15 @@
       "url": "https://asexuality.livejournal.com/"
     }
   ],
-  "people": ["Nat Titman"],
-  "identities": ["asexual"],
+  "people": [
+    "Nat Titman"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 2002,
-  "decades": [2000],
+  "decades": [
+    2000
+  ],
   "aliases": []
 }

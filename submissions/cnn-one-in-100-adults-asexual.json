@@ -15,9 +15,15 @@
       "url": "https://web.archive.org/web/20220401030329/http://www.cnn.com/2004/TECH/science/10/14/asexual.study/index.html"
     }
   ],
-  "people": ["Anthony Bogaert"],
-  "identities": ["asexual"],
+  "people": [
+    "Anthony Bogaert"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 2004,
-  "decades": [2000],
+  "decades": [
+    2000
+  ],
   "aliases": []
 }

@@ -14,9 +14,15 @@
       "url": "https://web.archive.org/web/20210716012607/https://www.asexuality.org/en/topic/62278-a-history-of-asexuality/"
     }
   ],
-  "people": ["hexaquark"],
-  "identities": ["asexual"],
+  "people": [
+    "hexaquark"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 2011,
-  "decades": [2010],
+  "decades": [
+    2010
+  ],
   "aliases": []
 }
