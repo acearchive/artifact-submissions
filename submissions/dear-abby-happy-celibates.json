@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "slug": "dear-abby-happy-celibates",
+  "title": "\"Happy Celibates Want No Change\"",
+  "summary": "An asexual *Dear Abby* letter writer responds to a statement Abby made about abstinence",
+  "description": "An asexual *Dear Abby* letter writer responds to Abby's statement that \"no healthy normal man (or woman) is supposed to be 'happy' in abstinence\"",
+  "files": [
+    {
+      "name": "Digital Scan",
+      "fileName": "dear-abby-happy-celibates.png",
+      "mediaType": "image/png",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreibekbj4ukysmo4nh5htwwkxnodmntxfd5gh4q2pqrulrm4i7hczii",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Transcript",
+      "fileName": "dear-abby-happy-celibates-transcript/index.html",
+      "mediaType": "text/html",
+      "sourceUrl": "https://w3s.link/ipfs/bafybeibq4two6evf6snk325mkhmmoau2t6yuiq56dqzlpntgc2hog363au",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "fileName": "dear-abby-happy-celibates.bib",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreic4i33iclomrkrynptgevzukgztnsj54kaatgnaalihynv3aijx2y",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/newspapers?id=u0dBAAAAIBAJ&sjid=6qgMAAAAIBAJ&pg=6478%2C148486"
+    }
+  ],
+  "people": ["Abigail Van Buren"],
+  "identities": ["asexual"],
+  "fromYear": 1981,
+  "decades": [1980],
+  "aliases": []
+}
