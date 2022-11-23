@@ -4,7 +4,7 @@ labels: ["submission"]
 body:
   - type: markdown
     attributes:
-      value: |
+      value: >
         Thanks for your interest in Ace Archive! This is a form for submitting
         an artifact to be added to the archive.
 
@@ -23,8 +23,7 @@ body:
 
         Go check out the submission form linked above first.
 
-        Once you fill out that form, it'll send you back here and fill out this
-        box for you.
+        Once you fill out that form, it'll send you back here.
       render: JSON
     validations:
       required: true

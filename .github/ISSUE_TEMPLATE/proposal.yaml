@@ -4,7 +4,7 @@ labels: ["proposal"]
 body:
   - type: markdown
     attributes:
-      value: |
+      value: >
         Thanks for your interest in Ace Archive! This is a form for suggesting
         content to be added to the archive. Alternatively, if you want to add
         content to the archive yourself, you can fill out [this more
