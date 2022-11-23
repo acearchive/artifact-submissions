@@ -15,9 +15,15 @@
       "url": "https://web.archive.org/web/20220422192722/https://www.nytimes.com/2005/06/09/fashion/thursdaystyles/for-them-just-saying-no-is-easy.html"
     }
   ],
-  "people": ["Mary Duenwald"],
-  "identities": ["asexual"],
+  "people": [
+    "Mary Duenwald"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 2005,
-  "decades": [2000],
+  "decades": [
+    2000
+  ],
   "aliases": []
 }

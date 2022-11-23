@@ -11,9 +11,15 @@
       "url": "https://hha.acearchive.lgbt/47/#message-1157"
     }
   ],
-  "people": ["maxnova100"],
-  "identities": ["aromantic"],
+  "people": [
+    "maxnova100"
+  ],
+  "identities": [
+    "aromantic"
+  ],
   "fromYear": 2002,
-  "decades": [2000],
+  "decades": [
+    2000
+  ],
   "aliases": []
 }

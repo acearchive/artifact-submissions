@@ -10,7 +10,8 @@
       "mediaType": "video/mp4",
       "sourceUrl": "https://w3s.link/ipfs/bafybeifshhr6ruwgtkxwmvsh3vo7gxbjlx2x7jhj5mvqho2rw7gcmsp7ra",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "multihash": "12201c803ac49b2aa5eab6b70470eb443ec9050398ef0b0864385aad997d1dd27d0f"
     }
   ],
   "links": [
@@ -19,9 +20,15 @@
       "url": "https://youtu.be/Iwxo6t7XBYs"
     }
   ],
-  "people": ["David Jay"],
-  "identities": ["asexual"],
+  "people": [
+    "David Jay"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 2006,
-  "decades": [2000],
+  "decades": [
+    2000
+  ],
   "aliases": []
 }

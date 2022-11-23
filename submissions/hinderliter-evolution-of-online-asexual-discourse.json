@@ -9,7 +9,9 @@
       "fileName": "the-evolution-of-online-asexual-discourse.pdf",
       "sourceUrl": "https://w3s.link/ipfs/bafybeiac6hae6dic66dts7tw7qvltxpv645bl4ocrootlbvhj4suypqyzm",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "122025b2257068c2992693217aba1128cccc0dcdbcb411ff928f9e66455686560d50"
     }
   ],
   "links": [
@@ -18,9 +20,15 @@
       "url": "https://www.ideals.illinois.edu/bitstream/handle/2142/95433/HINDERLITER-DISSERTATION-2016.pdf"
     }
   ],
-  "people": ["Andrew Hinderliter"],
-  "identities": ["asexual"],
+  "people": [
+    "Andrew Hinderliter"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 2016,
-  "decades": [2010],
+  "decades": [
+    2010
+  ],
   "aliases": []
 }
