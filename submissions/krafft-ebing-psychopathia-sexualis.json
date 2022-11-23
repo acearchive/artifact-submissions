@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "slug": "krafft-ebing-psychopathia-sexualis",
+  "title": "*Psychopathia Sexualis*",
+  "summary": "The first use of the term \"anesthesia sexual\" to refer to asexual people",
+  "description": "The first use of the term \"anesthesia sexual\" in medical literature to refer to asexual people, a term which would later be used by Magnus Hirschfeld",
+  "files": [
+    {
+      "name": "Original Book",
+      "fileName": "psychopathia-sexualis.pdf",
+      "sourceUrl": "https://w3s.link/ipfs/QmaJRwMqJWXg3c6SSQnLUDxd6dX197PhFwUh5U7GDqmiwT",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "12204edd80bcd798d3b25d362a1b9fa28a66a65193e16780d462c565f5480f91094e"
+    },
+    {
+      "name": "Fulltext OCR Transcript",
+      "fileName": "psychopathia-sexualis-ocr-transcript.txt",
+      "mediaType": "text/plain",
+      "sourceUrl": "https://w3s.link/ipfs/QmbbQMZPxJ1h4YSLy9zCGuMjrbDxUbMtDgXb3jYKBpcHSG",
+      "hidden": false,
+      "aliases": [],
+      "multihash": "1220c850bf003f2161c90be8ff6a3c38af137339c98ad9e584daeda27ba465381891"
+    },
+    {
+      "name": "Citation",
+      "fileName": "psychopathia-sexualis.bib",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreigy3ftvh2avdju4g7xhwkax7bimpwpqxxoe6zuqk4v2kdnzgnkxkq",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "text/plain",
+      "multihash": "1220d8d96753e8151a69c37ee7b2817f850c7d9f0bddc4f6690572ba50db93355754"
+    }
+  ],
+  "links": [],
+  "people": [
+    "Richard von Krafft-Ebing"
+  ],
+  "identities": [
+    "asexual"
+  ],
+  "fromYear": 1886,
+  "decades": [
+    1880
+  ],
+  "aliases": []
+}

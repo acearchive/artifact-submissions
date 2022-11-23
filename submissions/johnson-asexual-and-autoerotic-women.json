@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "slug": "johnson-asexual-and-autoerotic-women",
+  "title": "\"Asexual and Autoerotic Women: Two Invisible Groups\"",
+  "summary": "One of the first academic papers on asexuality",
+  "description": "One of the first academic papers on asexuality, published as part of the book *The Sexually Oppressed*",
+  "files": [
+    {
+      "name": "Digital Scan",
+      "fileName": "asexual-and-autoerotic-women.pdf",
+      "mediaType": "application/pdf",
+      "sourceUrl": "https://w3s.link/ipfs/bafybeiddkkdrgrue73tdh5alepcqhao6h3t3xrsfn3nvxucmeond23cj2u",
+      "hidden": false,
+      "aliases": [],
+      "multihash": "1220afd169afda0304854432635ad9ce7d8a172cf337116b8ac95aa4f6743e143da1"
+    },
+    {
+      "name": "Transcript",
+      "fileName": "asexual-and-autoerotic-women-transcript/index.html",
+      "mediaType": "text/html",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreihvqgyu6lxjarvmaodoil5lepex346zoygfm23nrildteinjsjqku",
+      "hidden": false,
+      "aliases": [],
+      "multihash": "1220f581b14f2ee9046ac0386e42fab23c97df3d9760c566b6d8a1639910d4c93055"
+    },
+    {
+      "name": "The Sexually Oppressed (Citation)",
+      "fileName": "the-sexually-oppressed.bib",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreibi5rtpoimxvevnyif7f5bxx43wbas37egewb544oirds42jm3b44",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "text/plain",
+      "multihash": "122028ec66f72197a92adc20bf2f437bf3760825bf90c4b07bce39111cb9a4b361e7"
+    }
+  ],
+  "links": [],
+  "people": [
+    "Myra T. Johnson"
+  ],
+  "identities": [
+    "asexual",
+    "autoerotic"
+  ],
+  "fromYear": 1977,
+  "decades": [
+    1970
+  ],
+  "aliases": []
+}
