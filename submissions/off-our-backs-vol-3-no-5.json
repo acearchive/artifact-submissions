@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "slug": "off-our-backs-vol-3-no-5",
+  "title": "*Off Our Backs*, vol. 3, no. 5",
+  "summary": "An issue of a feminist news journal that mentions asexuality",
+  "description": "An issue of a feminist news journal that mentions a workshop an asexuality led by Barbara Getz in a column titled \"Your Own Label\"",
+  "files": [
+    {
+      "name": "Off Our Backs, vol. 3, no. 5",
+      "fileName": "off-our-backs-vol-3-no-5.pdf",
+      "mediaType": "application/pdf",
+      "sourceUrl": "https://w3s.link/ipfs/bafybeigbbmu4rspn3lnc6ce3wo4w2kcxhlgczegsqkdrltr3lbreqlek4u",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Your Own Label",
+      "fileName": "your-own-label.png",
+      "mediaType": "image/png",
+      "sourceUrl": "https://w3s.link/ipfs/bafybeigjat5oubirj6wjlvqak5enfk4pxa2rg77wvtgguayio5oogm6ipq",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Your Own Label (Transcript)",
+      "fileName": "your-own-label-transcript/index.html",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreia3kz6b6glkgsqdklqj65d7u5kmjpo4qgs754kwqnli3nvtw2eqyy",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "fileName": "off-our-backs-vol-3-no-5.bib",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreigpa72poc5mkkqlqnzodzmi3p62ttnuepkvidcynw5ngh3fzrqyo4",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "JSTOR",
+      "url": "https://www.jstor.org/stable/community.28041796"
+    }
+  ],
+  "people": ["Barbara Getz"],
+  "identities": ["lesbian", "asexual"],
+  "fromYear": 1973,
+  "decades": [1970],
+  "aliases": []
+}

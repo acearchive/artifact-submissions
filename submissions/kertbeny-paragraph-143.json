@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "slug": "kertbeny-paragraph-143",
+  "title": "Kertbeny's pamphlets protesting Prussian sodomy laws",
+  "summary": "Pamphlets protesting Prussian sodomy laws which coined the terms \"homosexual\" and \"heterosexual\"",
+  "description": "Pamphlets protesting Prussian sodomy laws which coined the terms \"homosexual\" and \"heterosexual\", as well as \"monosexual\"",
+  "files": [
+    {
+      "name": "Original Paper (Deutsch)",
+      "fileName": "kertbeny-paragraph-143.pdf",
+      "mediaType": "application/pdf",
+      "sourceUrl": "https://w3s.link/ipfs/bafybeig6ozrk3xoeq5hvwwm2qoge7davfr5u5whusco6gc57txii3mcmje",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "fileName": "kertbeny-paragraph-143.bib",
+      "sourceUrl": "https://w3s.link/ipfs/bafkreicojzjtartqz2mvyqxln3fddi5pvnrrrpgrl6npin75f3kijs4whq",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Leipzig University Library",
+      "url": "https://katalog.ub.uni-leipzig.de/Record/0-1657911586"
+    }
+  ],
+  "people": ["Karl-Maria Kertbeny"],
+  "identities": [],
+  "fromYear": 1869,
+  "decades": [1860],
+  "aliases": []
+}
