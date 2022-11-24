@@ -1,7 +1,5 @@
 # artifact-submissions
 
-🚧 This repository is under construction. 🚧
-
 This repository is where submissions to add or modify artifacts in [Ace
 Archive](https://acearchive.lgbt) are collected for manual review. Want to
 submit an artifact to the archive? [Fill out this
