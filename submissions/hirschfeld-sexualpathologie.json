@@ -6,18 +6,20 @@
   "description": "An early example of pathologization of asexual people in medical literature, in which the author develops a typology of asexual people that includes the term \"asexual\"",
   "files": [
     {
-      "name": "Original Paper (Deutsch)",
+      "name": "Original Paper",
       "fileName": "hirschfeld-sexualpathologie.pdf",
       "sourceUrl": "https://w3s.link/ipfs/bafybeielk2xg6v3lctn54s4mypdvplasgmvne4eufgj5bojfh6tdqabuum",
+      "lang": "de",
       "hidden": false,
       "aliases": [],
       "mediaType": "application/pdf",
       "multihash": "1220e87dd3b72dee1205ede02ab01bf2800320423286c9040366f99fccfb42403a52"
     },
     {
-      "name": "Fulltext OCR Transcription (Deutsch)",
+      "name": "Fulltext OCR Transcription",
       "fileName": "hirschfeld-sexualpathologie.txt",
       "sourceUrl": "https://w3s.link/ipfs/bafybeiapxqnxxztjttercszj4ma37oglku7p7zr3zoboazshboadhp6jz4",
+      "lang": "de",
       "hidden": false,
       "aliases": [],
       "mediaType": "text/plain",

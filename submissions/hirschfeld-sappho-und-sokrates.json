@@ -6,9 +6,10 @@
   "description": "A formative academic work in legitimizing queer identities which recognizes asexual people under the label \"anesthesia sexualis\"",
   "files": [
     {
-      "name": "Original Paper (Deutsch)",
+      "name": "Original Paper",
       "fileName": "hirschfeld-sappho-und-sokrates.pdf",
       "sourceUrl": "https://w3s.link/ipfs/bafkreia6pqlkr455ryxm3zl7fnncmwc44jg7yuq5f774nnaaluzfni5g5a",
+      "lang": "de",
       "hidden": false,
       "aliases": [],
       "mediaType": "application/pdf",

@@ -10,6 +10,7 @@
       "fileName": "dear-abby-happy-celibates.png",
       "mediaType": "image/png",
       "sourceUrl": "https://w3s.link/ipfs/bafkreibekbj4ukysmo4nh5htwwkxnodmntxfd5gh4q2pqrulrm4i7hczii",
+      "lang": "en",
       "hidden": false,
       "aliases": [],
       "multihash": "1220245053ca2b1263b8d3f4f3b59576b86c6cee51f4c7e434f8468b8b388f9c5942"
@@ -18,6 +19,7 @@
       "name": "Transcript",
       "fileName": "dear-abby-happy-celibates-transcript/index.html",
       "sourceUrl": "https://w3s.link/ipfs/bafkreifzijrb4abwapzf3meezfc4fw2ocwdxjt6ys32qbbxzscb7ipfd3u",
+      "lang": "en",
       "hidden": false,
       "aliases": [],
       "mediaType": "text/html",

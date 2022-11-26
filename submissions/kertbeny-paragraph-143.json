@@ -6,10 +6,11 @@
   "description": "Pamphlets protesting Prussian sodomy laws which coined the terms \"homosexual\" and \"heterosexual\", as well as \"monosexual\"",
   "files": [
     {
-      "name": "Original Paper (Deutsch)",
+      "name": "Original Paper",
       "fileName": "kertbeny-paragraph-143.pdf",
       "mediaType": "application/pdf",
       "sourceUrl": "https://w3s.link/ipfs/bafybeig6ozrk3xoeq5hvwwm2qoge7davfr5u5whusco6gc57txii3mcmje",
+      "lang": "de",
       "hidden": false,
       "aliases": [],
       "multihash": "1220d631f2e0ca6ef8d7e7b6ce7da82757d2d005e608a2645d71a30cf6d8f5660494"
