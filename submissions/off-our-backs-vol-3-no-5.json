@@ -16,10 +16,11 @@
       "multihash": "1220917c7f13e4d19134885618bc8c194ef4d460ba0f186d4f9919f1ce79d996404e"
     },
     {
-      "name": "Your Own Label",
+      "name": "Your Own Label (Digital Scan)",
       "fileName": "your-own-label.png",
       "mediaType": "image/png",
       "sourceUrl": "https://w3s.link/ipfs/bafybeigjat5oubirj6wjlvqak5enfk4pxa2rg77wvtgguayio5oogm6ipq",
+      "lang": "en",
       "hidden": false,
       "aliases": [],
       "multihash": "1220823a05946383eca75eadb248b6fda315c218aa5435f094c5f8b1e1aa9a5b4dd2"
