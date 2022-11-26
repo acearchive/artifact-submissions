@@ -10,6 +10,7 @@
       "fileName": "toby-an-asexual-person.png",
       "mediaType": "image/png",
       "sourceUrl": "https://graphicexplanations.files.wordpress.com/2017/10/worldpride-004.png",
+      "lang": "en",
       "hidden": false,
       "aliases": [],
       "multihash": "12201ff999058ea3211ab21515060777cc88a9bedfaf320f954a2d8f3338089d1172"
@@ -18,6 +19,7 @@
       "name": "Toby: An Asexual Person (Transcript)",
       "fileName": "toby-an-asexual-person-transcript/index.html",
       "sourceUrl": "https://w3s.link/ipfs/bafkreidygaajfxwhmfbxswcenfsqqhzgljklblxryj2lrtcqff7zy2we5i",
+      "lang": "en",
       "hidden": false,
       "aliases": [],
       "mediaType": "text/html",

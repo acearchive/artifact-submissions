@@ -6,10 +6,11 @@
   "description": "An early academic paper on queer identities where the author discusses asexuality using the label *sinnlichkeitslosigkeit* (asensuality) and self-identifies as such",
   "files": [
     {
-      "name": "Original Paper (Deutsch)",
+      "name": "Original Paper",
       "fileName": "ein-weib.pdf",
       "mediaType": "application/pdf",
       "sourceUrl": "https://w3s.link/ipfs/bafybeia2zyybfvw5otbo6aslptiq44d7mrc35gybbnhwerxrbihpak5evu",
+      "lang": "de",
       "hidden": false,
       "aliases": [],
       "multihash": "12204acba084bf09f15992feb79d17683e81e3581bc53a8fc5d60505c6244c68c4d2"

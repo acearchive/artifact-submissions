@@ -9,6 +9,7 @@
       "name": "Original Book",
       "fileName": "psychopathia-sexualis.pdf",
       "sourceUrl": "https://w3s.link/ipfs/QmaJRwMqJWXg3c6SSQnLUDxd6dX197PhFwUh5U7GDqmiwT",
+      "lang": "en",
       "hidden": false,
       "aliases": [],
       "mediaType": "application/pdf",
@@ -19,6 +20,7 @@
       "fileName": "psychopathia-sexualis-ocr-transcript.txt",
       "mediaType": "text/plain",
       "sourceUrl": "https://w3s.link/ipfs/QmbbQMZPxJ1h4YSLy9zCGuMjrbDxUbMtDgXb3jYKBpcHSG",
+      "lang": "en",
       "hidden": false,
       "aliases": [],
       "multihash": "1220c850bf003f2161c90be8ff6a3c38af137339c98ad9e584daeda27ba465381891"

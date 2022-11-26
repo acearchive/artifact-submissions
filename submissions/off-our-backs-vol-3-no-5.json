@@ -10,6 +10,7 @@
       "fileName": "off-our-backs-vol-3-no-5.pdf",
       "mediaType": "application/pdf",
       "sourceUrl": "https://w3s.link/ipfs/bafybeigbbmu4rspn3lnc6ce3wo4w2kcxhlgczegsqkdrltr3lbreqlek4u",
+      "lang": "en",
       "hidden": false,
       "aliases": [],
       "multihash": "1220917c7f13e4d19134885618bc8c194ef4d460ba0f186d4f9919f1ce79d996404e"
@@ -27,6 +28,7 @@
       "name": "Your Own Label (Transcript)",
       "fileName": "your-own-label-transcript/index.html",
       "sourceUrl": "https://w3s.link/ipfs/bafkreia3kz6b6glkgsqdklqj65d7u5kmjpo4qgs754kwqnli3nvtw2eqyy",
+      "lang": "en",
       "hidden": false,
       "aliases": [],
       "mediaType": "text/html",
