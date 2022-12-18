@@ -1,4 +1,5 @@
 {
+  "id": "PZsGT3uJ1FXk",
   "version": 1,
   "slug": "haven-for-the-human-amoeba",
   "title": "*Haven for the Human Amoeba*",
@@ -8,21 +9,29 @@
     {
       "name": "Raw Archive Data",
       "fileName": "haven-for-the-human-amoeba.zip",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeic2zae6jz6ktycduldkfrgwvih4vnnqmcpr62nyeb3nlob2va6pp4",
+      "sourceUrl": "https://files.acearchive.lgbt/artifacts/haven-for-the-human-amoeba/haven-for-the-human-amoeba.zip",
       "hidden": false,
       "aliases": [],
-      "mediaType": "application/zip",
-      "multihash": "12202e4fd81fef65240a86a408f5245b1743690680142b845aaef06927423dfa2f89"
+      "multihash": "12202e4fd81fef65240a86a408f5245b1743690680142b845aaef06927423dfa2f89",
+      "mediaType": "application/zip"
     }
   ],
   "links": [
     {
       "name": "Browsable Archive",
-      "url": "https://hha.acearchive.lgbt"
+      "url": "https://hha.acearchive.lgbt/"
     },
     {
       "name": "Source Code",
-      "url": "https://github.com/acearchive/yg-render"
+      "url": "https://github.com/acearchive/yahoo-groups-reader"
+    },
+    {
+      "name": "AVEN Thread",
+      "url": "https://www.asexuality.org/en/topic/190662-python-coders-wanted-help-save-the-haven-for-the-human-amoeba-archives/"
+    },
+    {
+      "name": "AVEN Thread",
+      "url": "https://web.archive.org/web/20220809044315/https://www.asexuality.org/en/topic/190662-python-coders-wanted-help-save-the-haven-for-the-human-amoeba-archives/"
     }
   ],
   "people": [
@@ -46,6 +55,5 @@
     2000,
     2010
   ],
-  "aliases": [],
-  "id": "PZsGT3uJ1FXk"
+  "aliases": []
 }
