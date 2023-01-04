@@ -1,15 +1,15 @@
-name: Submit an Artifact
-description: Submit a new artifact to the archive.
-labels: ["submission"]
+name: Edit an Artifact
+description: Edit an existing artifact in the archive.
+labels: ["edit"]
 body:
   - type: markdown
     attributes:
       value: >
         Thanks for your interest in Ace Archive! This is a form for submitting
-        an artifact to be added to the archive.
+        edits to an artifact in the archive.
 
-        Just press the "Submit new issue" button below to submit your artifact
-        for approval.
+        Just press the "Submit new issue" button below to submit your edits for
+        approval.
   - type: textarea
     id: artifact
     attributes:
