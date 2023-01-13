@@ -26,7 +26,7 @@ jobs:
         # rev for security. This action is very simple, so it's easy to audit.
         uses: tibdex/github-app-token@f717b5ecd4534d3c4df4ce9b5c1c2214f0f7cd06
         with:
-          app_id: ${{ secrets.GH_APP_ID }}
+          app_id: ${{ vars.GH_APP_ID }}
           permissions: >-
             {"contents": "write"}
           private_key: ${{ secrets.GH_APP_PRIVATE_KEY }}
@@ -40,16 +40,16 @@ jobs:
         with:
           mode: ${{ inputs.mode }}
           path: "submissions/"
-          base_url: "https://files.acearchive.lgbt/artifacts"
-          s3_endpoint: ${{ secrets.ARTIFACTS_R2_ENDPOINT }}
-          s3_bucket: ${{ secrets.ARTIFACTS_R2_BUCKET }}
+          base_url: "https://${{ vars.ACE_ARCHIVE_FILES_DOMAIN }}/artifacts"
+          s3_endpoint: ${{ vars.ARTIFACTS_R2_ENDPOINT }}
+          s3_bucket: ${{ vars.ARTIFACTS_R2_BUCKET }}
           s3_prefix: "artifacts/"
           s3_region: "auto"
           s3_access_key_id: ${{ secrets.R2_ACCESS_KEY_ID }}
           s3_secret_access_key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          cloudflare_account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          cloudflare_account_id: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
           cloudflare_api_token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          kv_namespace_id: ${{ secrets.ARTIFACTS_KV_NAMESPACE_ID }}
+          kv_namespace_id: ${{ vars.ARTIFACTS_KV_NAMESPACE_ID }}
       - name: "Commit Changes"
         uses: "stefanzweifel/git-auto-commit-action@v4"
         with:
