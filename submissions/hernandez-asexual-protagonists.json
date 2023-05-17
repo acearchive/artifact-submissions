@@ -11,7 +11,8 @@
       "sourceUrl": "https://digitalcommons.augustana.edu/cgi/viewcontent.cgi?article=1043&context=wollstonecraftaward",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "multihash": "1220c1c2b7a0fed1ee8627a4e60a2d96f8d3573eb509e0c9adb42938eea71b7dd732"
     }
   ],
   "links": [
@@ -24,9 +25,17 @@
       "url": "https://web.archive.org/web/20230514215202/https://digitalcommons.augustana.edu/wollstonecraftaward/41/"
     }
   ],
-  "people": ["Jaclyn Hernandez"],
-  "identities": ["asexual", "aromantic"],
+  "people": [
+    "Jaclyn Hernandez"
+  ],
+  "identities": [
+    "asexual",
+    "aromantic"
+  ],
   "fromYear": 2021,
-  "decades": [2020],
-  "aliases": []
+  "decades": [
+    2020
+  ],
+  "aliases": [],
+  "id": "spcX90OYN8vV"
 }
