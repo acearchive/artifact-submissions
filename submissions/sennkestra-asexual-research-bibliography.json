@@ -12,13 +12,13 @@
       "hidden": false,
       "aliases": [],
       "multihash": "122083eda62b676d52936eeb3a4d9e50f4265655c2236e60370fadb983d541f94c99",
-      "mediaType": "text/plain"
+      "mediaType": "text/x-bibtex"
     }
   ],
   "links": [
     {
       "name": "Zotero Library",
-      "url": "https://www.zotero.org/groups/950137/asexual_research"
+      "url": "https://www.zotero.org/groups/950137/asexual_research/library"
     }
   ],
   "people": [
