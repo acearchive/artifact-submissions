@@ -12,31 +12,20 @@
       "hidden": false,
       "aliases": [],
       "multihash": "122083eda62b676d52936eeb3a4d9e50f4265655c2236e60370fadb983d541f94c99",
-      "mediaType": "text/plain"
+      "mediaType": "text/x-bibtex"
     }
   ],
   "links": [
     {
       "name": "Zotero Library",
-      "url": "https://www.zotero.org/groups/950137/asexual_research"
+      "url": "https://www.zotero.org/groups/950137/asexual_research/library"
     }
   ],
-  "people": [
-    "Sennkestra"
-  ],
-  "identities": [
-    "asexual"
-  ],
+  "people": ["Sennkestra"],
+  "identities": ["asexual"],
   "fromYear": 1977,
   "toYear": 2022,
-  "decades": [
-    1970,
-    1980,
-    1990,
-    2000,
-    2010,
-    2020
-  ],
+  "decades": [1970, 1980, 1990, 2000, 2010, 2020],
   "aliases": [],
   "id": "naURP0G5TYgD"
 }
