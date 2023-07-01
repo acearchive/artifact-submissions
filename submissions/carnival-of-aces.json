@@ -10,10 +10,19 @@
       "url": "https://asexualagenda.wordpress.com/a-carnival-of-aces-masterpost/"
     }
   ],
-  "people": ["Sciatrix", "Siggy"],
-  "identities": ["asexual"],
+  "people": [
+    "Sciatrix",
+    "Siggy"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 2011,
   "toYear": 2023,
-  "decades": [2010, 2020],
-  "aliases": []
+  "decades": [
+    2010,
+    2020
+  ],
+  "aliases": [],
+  "id": "uwJEzGZklEiR"
 }
