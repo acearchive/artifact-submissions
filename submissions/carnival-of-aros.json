@@ -10,10 +10,19 @@
       "url": "https://carnivalofaros.wordpress.com/"
     }
   ],
-  "people": ["Sennkestra", "Siggy"],
-  "identities": ["aromantic"],
+  "people": [
+    "Sennkestra",
+    "Siggy"
+  ],
+  "identities": [
+    "aromantic"
+  ],
   "fromYear": 2019,
   "toYear": 2023,
-  "decades": [2010, 2020],
-  "aliases": []
+  "decades": [
+    2010,
+    2020
+  ],
+  "aliases": [],
+  "id": "DCibebWCOSjJ"
 }
