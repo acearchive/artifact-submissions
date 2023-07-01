@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "slug": "rothblum-boston-marriages",
+  "title": "Boston marriages: Romantic but asexual relationships among contemporary lesbians",
+  "summary": "A book describing a historical form of asexual relationship",
+  "files": [
+    {
+      "name": "Book",
+      "fileName": "boston-marriages.epub",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/boston-marriages.epub",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "fileName": "boston-marriages.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/boston-marriages.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Internet Archive",
+      "url": "https://archive.org/details/bostonmarriagesr00roth"
+    }
+  ],
+  "people": ["Esther D. Rothblum", "Kathleen A. Brehony"],
+  "identities": ["asexual", "lesbian"],
+  "fromYear": 1993,
+  "decades": [1990],
+  "aliases": []
+}
