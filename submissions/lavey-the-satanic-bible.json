@@ -1,4 +1,5 @@
 {
+  "id": "kI9c4o2WE5GS",
   "version": 1,
   "slug": "lavey-the-satanic-bible",
   "title": "*The Satanic Bible*",
@@ -8,22 +9,31 @@
     {
       "name": "Book",
       "fileName": "the-satanic-bible.pdf",
-      "sourceUrl": "https://ia801404.us.archive.org/0/items/the-satanic-bible_epub-and-pdf/The-Satanic-Bible.pdf",
+      "sourceUrl": "https://files.acearchive.lgbt/artifacts/lavey-the-satanic-bible/the-satanic-bible.pdf",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "application/pdf",
-      "multihash": "12201ac5968051405a8c0a6dca91a72fc7d557001e8bcb26c04c0069bc58c5a8f7dc"
+      "multihash": "12201ac5968051405a8c0a6dca91a72fc7d557001e8bcb26c04c0069bc58c5a8f7dc",
+      "mediaType": "application/pdf"
     },
     {
       "name": "OCR Transcript",
       "fileName": "the-satanic-bible-transcript.txt",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-satanic-bible-transcript.txt",
+      "sourceUrl": "https://files.acearchive.lgbt/artifacts/lavey-the-satanic-bible/the-satanic-bible-transcript.txt",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/plain",
-      "multihash": "1220211524cc80c07debec6b14c2f946856a92d140c6aa26982b9ffbc08471e07c62"
+      "multihash": "1220211524cc80c07debec6b14c2f946856a92d140c6aa26982b9ffbc08471e07c62",
+      "mediaType": "text/plain"
+    },
+    {
+      "name": "Citation",
+      "fileName": "the-satanic-bible.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-satanic-bible.bib",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "1220d2f43c530da0e6eee7ba80110dd8e3211ab694f92df4ed9d1c84d06d753d9e9f"
     }
   ],
   "links": [
@@ -42,6 +52,5 @@
   "decades": [
     1960
   ],
-  "aliases": [],
-  "id": "kI9c4o2WE5GS"
+  "aliases": []
 }
