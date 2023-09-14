@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "slug": "lavey-the-satanic-bible",
+  "title": "*The Satanic Bible*",
+  "summary": "A book describing asexuals as being \"sexually subliminated\" by non-sexual interests",
+  "description": "A book describing asexuals as being \"sexually subliminated\" by non-sexual interests and favoring those over sex",
+  "files": [
+    {
+      "name": "Book",
+      "fileName": "the-satanic-bible.pdf",
+      "sourceUrl": "https://ia801404.us.archive.org/0/items/the-satanic-bible_epub-and-pdf/The-Satanic-Bible.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "OCR Transcript",
+      "fileName": "the-satanic-bible-transcript.txt",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-satanic-bible-transcript.txt",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Internet Archive",
+      "url": "https://archive.org/details/the-satanic-bible_epub-and-pdf"
+    }
+  ],
+  "people": ["Anton Szandor Lavey"],
+  "identities": ["asexual"],
+  "fromYear": 1969,
+  "decades": [1960],
+  "aliases": []
+}
