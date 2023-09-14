@@ -15,9 +15,16 @@
       "url": "https://web.archive.org/web/20230712152933/https://www.ccs.neu.edu/home/shivers/rants/scum.html"
     }
   ],
-  "people": ["Valerie Solanas"],
-  "identities": ["asexual"],
+  "people": [
+    "Valerie Solanas"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1968,
-  "decades": [1960],
-  "aliases": []
+  "decades": [
+    1960
+  ],
+  "aliases": [],
+  "id": "ouYFksZV6LIV"
 }
