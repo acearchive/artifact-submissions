@@ -11,7 +11,9 @@
       "sourceUrl": "https://ia801404.us.archive.org/0/items/the-satanic-bible_epub-and-pdf/The-Satanic-Bible.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "12201ac5968051405a8c0a6dca91a72fc7d557001e8bcb26c04c0069bc58c5a8f7dc"
     },
     {
       "name": "OCR Transcript",
@@ -19,7 +21,9 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-satanic-bible-transcript.txt",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/plain",
+      "multihash": "1220211524cc80c07debec6b14c2f946856a92d140c6aa26982b9ffbc08471e07c62"
     }
   ],
   "links": [
@@ -28,9 +32,16 @@
       "url": "https://archive.org/details/the-satanic-bible_epub-and-pdf"
     }
   ],
-  "people": ["Anton Szandor Lavey"],
-  "identities": ["asexual"],
+  "people": [
+    "Anton Szandor Lavey"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1969,
-  "decades": [1960],
-  "aliases": []
+  "decades": [
+    1960
+  ],
+  "aliases": [],
+  "id": "kI9c4o2WE5GS"
 }
