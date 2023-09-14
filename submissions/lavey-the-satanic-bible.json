@@ -31,7 +31,9 @@
       "fileName": "the-satanic-bible.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-satanic-bible.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "1220d2f43c530da0e6eee7ba80110dd8e3211ab694f92df4ed9d1c84d06d753d9e9f"
     }
   ],
   "links": [
@@ -40,9 +42,15 @@
       "url": "https://archive.org/details/the-satanic-bible_epub-and-pdf"
     }
   ],
-  "people": ["Anton Szandor Lavey"],
-  "identities": ["asexual"],
+  "people": [
+    "Anton Szandor Lavey"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1969,
-  "decades": [1960],
+  "decades": [
+    1960
+  ],
   "aliases": []
 }
