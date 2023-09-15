@@ -42,9 +42,14 @@
     }
   ],
   "people": [],
-  "identities": ["asexual", "homosexual"],
+  "identities": [
+    "asexual",
+    "homosexual"
+  ],
   "fromYear": 1970,
-  "decades": [1970],
+  "decades": [
+    1970
+  ],
   "aliases": [],
   "id": "GxEyG3ecHOUu"
 }
