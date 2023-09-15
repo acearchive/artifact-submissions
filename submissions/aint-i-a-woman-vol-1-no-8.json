@@ -11,14 +11,18 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/aint-i-a-woman.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "1220f87293b01146645ec780f8b285b4162403bbebdc191369e9d9a4d9c0e4030bbc"
     },
     {
       "name": "Citation",
       "fileName": "aint-i-a-woman.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/aint-i-a-woman.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "1220d84a97a71456f6290eacec11226ea08fc71cac110b29acadcca710313f089135"
     },
     {
       "name": "Reader Submission Transcript",
@@ -26,7 +30,9 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/reader-submission-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "12201dfca414830a124979830e34133fc9f00eb2107afb9d71f6544dc2a47db81346"
     }
   ],
   "links": [
@@ -36,8 +42,14 @@
     }
   ],
   "people": [],
-  "identities": ["asexual", "homosexual"],
+  "identities": [
+    "asexual",
+    "homosexual"
+  ],
   "fromYear": 1970,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "GxEyG3ecHOUu"
 }
