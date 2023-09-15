@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "slug": "aint-i-a-woman-vol-1-no-8",
+  "title": "*Ain't I a Woman*, vol. 1, no. 8",
+  "summary": "A reader mentions asexual women in a submission about oppression in queer relationships",
+  "description": "A Marxist reader of the feminist news journal *Ain't I a Woman* mentions asexual women in a submission about oppression in queer relationships",
+  "files": [
+    {
+      "name": "Ain't I a Woman, vol. 1, no. 8",
+      "fileName": "aint-i-a-woman.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/aint-i-a-woman.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "fileName": "aint-i-a-woman.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/aint-i-a-woman.bib",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Reader Submission Transcript",
+      "fileName": "reader-submission-transcript.html",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/reader-submission-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "JSTOR",
+      "url": "https://www.jstor.org/stable/community.28032125"
+    }
+  ],
+  "people": [],
+  "identities": ["asexual", "homosexual"],
+  "fromYear": 1970,
+  "decades": [1970],
+  "aliases": []
+}
