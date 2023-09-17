@@ -14,9 +14,16 @@
       "url": "https://web.archive.org/web/20230912223834/https://www.villagevoice.com/asexuals-have-problems-too/"
     }
   ],
-  "people": ["Harold Nederland"],
-  "identities": ["asexual"],
+  "people": [
+    "Harold Nederland"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1971,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "JqyAVmG7TFY7"
 }
