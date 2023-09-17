@@ -6,23 +6,14 @@
   "description": "A Marxist reader of the feminist news journal *Ain't I a Woman?* mentions asexual women in a submission about oppression in queer relationships",
   "files": [
     {
-      "name": "Ain't I a Woman?, vol. 1, no. 8",
-      "fileName": "aint-i-a-woman.pdf",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/aint-i-a-woman.pdf",
+      "name": "Reader Submission",
+      "fileName": "from-our-readers.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/from-our-readers.pdf",
       "lang": "en",
       "hidden": false,
       "aliases": [],
       "mediaType": "application/pdf",
-      "multihash": "1220f87293b01146645ec780f8b285b4162403bbebdc191369e9d9a4d9c0e4030bbc"
-    },
-    {
-      "name": "Citation",
-      "fileName": "aint-i-a-woman.bib",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/aint-i-a-woman.bib",
-      "hidden": false,
-      "aliases": [],
-      "mediaType": "text/x-bibtex",
-      "multihash": "1220d84a97a71456f6290eacec11226ea08fc71cac110b29acadcca710313f089135"
+      "multihash": "1220db533fa40c26d40f5c547e8aa92813dfc0332471ad5e21f3da054328f411671f"
     },
     {
       "name": "Reader Submission Transcript",
@@ -33,12 +24,31 @@
       "aliases": [],
       "mediaType": "text/html",
       "multihash": "12201dfca414830a124979830e34133fc9f00eb2107afb9d71f6544dc2a47db81346"
+    },
+    {
+      "name": "Ain't I a Woman?, vol. 1, no. 8",
+      "fileName": "aint-i-a-woman.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/aint-i-a-woman.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "1220f87293b01146645ec780f8b285b4162403bbebdc191369e9d9a4d9c0e4030bbc"
+    },
+    {
+      "name": "Ain't I a Woman?, vol. 1, no. 8 (Citation)",
+      "fileName": "aint-i-a-woman.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/aint-i-a-woman.bib",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "1220d84a97a71456f6290eacec11226ea08fc71cac110b29acadcca710313f089135"
     }
   ],
   "links": [
     {
       "name": "JSTOR",
-      "url": "https://www.jstor.org/stable/community.28032125"
+      "url": "https://www.jstor.org/stable/community.28032125?seq=2"
     }
   ],
   "people": [],
