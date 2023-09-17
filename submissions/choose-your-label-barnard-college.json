@@ -15,6 +15,13 @@
       "multihash": "122080b4a18f95a1044ca533fd1f03263112e93bf1f42f52048214677ab57542b7eb"
     },
     {
+      "name": "Article",
+      "fileName": "late-copy.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/late-copy.pdf",
+      "hidden": false,
+      "aliases": []
+    },
+    {
       "name": "Article Transcript",
       "fileName": "choose-your-label-transcript/index.html",
       "sourceUrl": "https://w3s.link/ipfs/bafkreianxqmiddoq2eabynt6n4rkdpp2h3cp6zgcml37oc3pahan6i7j4y",
@@ -65,20 +72,13 @@
   "links": [
     {
       "name": "JSTOR",
-      "url": "https://www.jstor.org/stable/community.28041797"
+      "url": "https://www.jstor.org/stable/community.28041797?seq=8"
     }
   ],
   "people": [],
-  "identities": [
-    "asexual",
-    "lesbian"
-  ],
+  "identities": ["asexual", "lesbian"],
   "fromYear": 1973,
-  "decades": [
-    1970
-  ],
-  "aliases": [
-    "choose-your-label-bernard-college"
-  ],
+  "decades": [1970],
+  "aliases": ["choose-your-label-bernard-college"],
   "id": "cmD6HyZzoISB"
 }
