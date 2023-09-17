@@ -30,7 +30,9 @@
       "fileName": "transsexual-liberation.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/transsexual-liberation.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "1220b74baf3c39f63897a1dfb11f783868774d5de973fb6621ba489259726741388a"
     },
     {
       "name": "Detroit Gay Liberator, vol. 1, no. 8",
@@ -50,9 +52,14 @@
     }
   ],
   "people": [],
-  "identities": ["transgender", "asexual"],
+  "identities": [
+    "transgender",
+    "asexual"
+  ],
   "fromYear": 1971,
-  "decades": [1970],
+  "decades": [
+    1970
+  ],
   "aliases": [],
   "id": "FJXeTAaaQbjY"
 }
