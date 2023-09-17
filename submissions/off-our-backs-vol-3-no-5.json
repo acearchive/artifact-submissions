@@ -6,24 +6,12 @@
   "description": "An issue of a feminist news journal that mentions a workshop an asexuality led by Barbara Getz in a column titled \"Your Own Label\"",
   "files": [
     {
-      "name": "Off Our Backs, vol. 3, no. 5",
-      "fileName": "off-our-backs-vol-3-no-5.pdf",
-      "mediaType": "application/pdf",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeigbbmu4rspn3lnc6ce3wo4w2kcxhlgczegsqkdrltr3lbreqlek4u",
+      "name": "Your Own Label",
+      "fileName": "your-own-label.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/your-own-label.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": [],
-      "multihash": "1220917c7f13e4d19134885618bc8c194ef4d460ba0f186d4f9919f1ce79d996404e"
-    },
-    {
-      "name": "Your Own Label (Digital Scan)",
-      "fileName": "your-own-label.png",
-      "mediaType": "image/png",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeigjat5oubirj6wjlvqak5enfk4pxa2rg77wvtgguayio5oogm6ipq",
-      "lang": "en",
-      "hidden": false,
-      "aliases": [],
-      "multihash": "1220823a05946383eca75eadb248b6fda315c218aa5435f094c5f8b1e1aa9a5b4dd2"
+      "aliases": []
     },
     {
       "name": "Your Own Label (Transcript)",
@@ -36,10 +24,37 @@
       "multihash": "12201b567c1f196a34a0352e09f747fa754c4bddc81a5fef15683568db6b3b6890c6"
     },
     {
+      "name": "Off Our Backs, vol. 3, no. 5",
+      "fileName": "off-our-backs-vol-3-no-5.pdf",
+      "mediaType": "application/pdf",
+      "sourceUrl": "https://w3s.link/ipfs/bafybeigbbmu4rspn3lnc6ce3wo4w2kcxhlgczegsqkdrltr3lbreqlek4u",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "multihash": "1220917c7f13e4d19134885618bc8c194ef4d460ba0f186d4f9919f1ce79d996404e"
+    },
+    {
+      "name": "Citation",
+      "fileName": "your-own-label.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/your-own-label.bib",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Your Own Label (Digital Scan)",
+      "fileName": "your-own-label.png",
+      "mediaType": "image/png",
+      "sourceUrl": "https://w3s.link/ipfs/bafybeigjat5oubirj6wjlvqak5enfk4pxa2rg77wvtgguayio5oogm6ipq",
+      "lang": "en",
+      "hidden": true,
+      "aliases": [],
+      "multihash": "1220823a05946383eca75eadb248b6fda315c218aa5435f094c5f8b1e1aa9a5b4dd2"
+    },
+    {
       "name": "Citation",
       "fileName": "off-our-backs-vol-3-no-5.bib",
       "sourceUrl": "https://w3s.link/ipfs/bafkreigpa72poc5mkkqlqnzodzmi3p62ttnuepkvidcynw5ngh3fzrqyo4",
-      "hidden": false,
+      "hidden": true,
       "aliases": [],
       "mediaType": "text/plain",
       "multihash": "1220cf07f4f70bac52a0b8372e1e588dbfda9cdb423d5540c586dbad31f65cc61877"
@@ -51,17 +66,10 @@
       "url": "https://www.jstor.org/stable/community.28041796"
     }
   ],
-  "people": [
-    "Barbara Getz"
-  ],
-  "identities": [
-    "lesbian",
-    "asexual"
-  ],
+  "people": ["Barbara Getz"],
+  "identities": ["lesbian", "asexual"],
   "fromYear": 1973,
-  "decades": [
-    1970
-  ],
+  "decades": [1970],
   "aliases": [],
   "id": "XjAOWBKYDkjd"
 }
