@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "slug": "gay-liberator-transsexual-liberation",
+  "title": "\"Transvestite and Transsexual Liberation\"",
+  "summary": "An article on trans liberation which mentions asexuality",
+  "description": "An article in the Detroit Gay Liberator which asserts that trans liberation includes people of all orientations, including asexuals",
+  "files": [
+    {
+      "name": "Article",
+      "fileName": "transsexual-liberation.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/transsexual-liberation.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Article Transcript",
+      "fileName": "transsexual-liberation-transcript.html",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/transsexual-liberation-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Detroit Gay Liberator, vol. 1, no. 8",
+      "fileName": "detroit-gay-liberator.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/detroit-gay-liberator.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "fileName": "transsexual-liberation.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/transsexual-liberation.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "JSTOR",
+      "url": "https://www.jstor.org/stable/community.28035530?seq=10"
+    }
+  ],
+  "people": [],
+  "identities": ["transgender", "asexual"],
+  "fromYear": 1971,
+  "decades": [1970],
+  "aliases": []
+}
