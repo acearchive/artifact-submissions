@@ -11,7 +11,9 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/transsexual-liberation.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "122024857b16960d40d036b1e3049edc762d9e2b92375e658cfee171564229bd9a54"
     },
     {
       "name": "Article Transcript",
@@ -19,7 +21,9 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/transsexual-liberation-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "12205994ecaa2cb66278b6530fdeec166fd0e022bd685a823d3f3f2945e4e261a4f0"
     },
     {
       "name": "Detroit Gay Liberator, vol. 1, no. 8",
@@ -27,14 +31,18 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/detroit-gay-liberator.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "1220c3d89af794203d55ea78e15385a1bde593e3789c526c7648ac316b611902cdf9"
     },
     {
       "name": "Citation",
       "fileName": "transsexual-liberation.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/transsexual-liberation.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "122061ed51ef62744a5e5653b299916e526283d3517af5db41993bf32d593c2671a1"
     }
   ],
   "links": [
@@ -44,8 +52,14 @@
     }
   ],
   "people": [],
-  "identities": ["transgender", "asexual"],
+  "identities": [
+    "transgender",
+    "asexual"
+  ],
   "fromYear": 1971,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "FJXeTAaaQbjY"
 }
