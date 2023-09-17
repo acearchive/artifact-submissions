@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "slug": "village-voice-asexuals-have-problems-too",
+  "slug": "nederland-asexuals-have-problems-too",
   "title": "\"Asexuals Have Problems Too\"",
   "summary": "A satirical article about the prevalence of sex in current society from the perspective of a fictionalized asexual",
-  "files": [],
+  "files": [
+    {
+      "name": "Citation",
+      "fileName": "asexuals-have-problems-too.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/asexuals-have-problems-too.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
   "links": [
     {
       "name": "Article",
@@ -14,16 +22,10 @@
       "url": "https://web.archive.org/web/20230912223834/https://www.villagevoice.com/asexuals-have-problems-too/"
     }
   ],
-  "people": [
-    "Harold Nederland"
-  ],
-  "identities": [
-    "asexual"
-  ],
+  "people": ["Harold Nederland"],
+  "identities": ["asexual"],
   "fromYear": 1971,
-  "decades": [
-    1970
-  ],
+  "decades": [1970],
   "aliases": [],
   "id": "JqyAVmG7TFY7"
 }
