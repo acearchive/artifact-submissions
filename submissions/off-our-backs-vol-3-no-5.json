@@ -11,7 +11,9 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/your-own-label.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "12207a1d08e49755bcf84800a2237ca90ac7d158cc806b9be4b55b12c8475e663da9"
     },
     {
       "name": "Your Own Label (Transcript)",
@@ -28,7 +30,9 @@
       "fileName": "your-own-label.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/your-own-label.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "1220ab26005f2a0272b41791df0d24a88137db1c460065f05122e586373295daff5f"
     },
     {
       "name": "Off Our Backs, vol. 3, no. 5",
@@ -66,10 +70,17 @@
       "url": "https://www.jstor.org/stable/community.28041796?seq=7"
     }
   ],
-  "people": ["Barbara Getz"],
-  "identities": ["lesbian", "asexual"],
+  "people": [
+    "Barbara Getz"
+  ],
+  "identities": [
+    "lesbian",
+    "asexual"
+  ],
   "fromYear": 1973,
-  "decades": [1970],
+  "decades": [
+    1970
+  ],
   "aliases": [],
   "id": "XjAOWBKYDkjd"
 }
