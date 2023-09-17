@@ -24,6 +24,13 @@
       "multihash": "12201b567c1f196a34a0352e09f747fa754c4bddc81a5fef15683568db6b3b6890c6"
     },
     {
+      "name": "Your Own Label (Citation)",
+      "fileName": "your-own-label.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/your-own-label.bib",
+      "hidden": false,
+      "aliases": []
+    },
+    {
       "name": "Off Our Backs, vol. 3, no. 5",
       "fileName": "off-our-backs-vol-3-no-5.pdf",
       "mediaType": "application/pdf",
@@ -32,13 +39,6 @@
       "hidden": false,
       "aliases": [],
       "multihash": "1220917c7f13e4d19134885618bc8c194ef4d460ba0f186d4f9919f1ce79d996404e"
-    },
-    {
-      "name": "Citation",
-      "fileName": "your-own-label.bib",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/your-own-label.bib",
-      "hidden": false,
-      "aliases": []
     },
     {
       "name": "Your Own Label (Digital Scan)",
