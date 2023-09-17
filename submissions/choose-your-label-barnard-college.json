@@ -18,6 +18,7 @@
       "name": "Article",
       "fileName": "late-copy.pdf",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/late-copy.pdf",
+      "lang": "en",
       "hidden": false,
       "aliases": [],
       "mediaType": "application/pdf",
@@ -78,16 +79,9 @@
     }
   ],
   "people": [],
-  "identities": [
-    "asexual",
-    "lesbian"
-  ],
+  "identities": ["asexual", "lesbian"],
   "fromYear": 1973,
-  "decades": [
-    1970
-  ],
-  "aliases": [
-    "choose-your-label-bernard-college"
-  ],
+  "decades": [1970],
+  "aliases": ["choose-your-label-bernard-college"],
   "id": "cmD6HyZzoISB"
 }
