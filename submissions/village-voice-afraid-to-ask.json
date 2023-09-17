@@ -10,7 +10,9 @@
       "fileName": "afraid-to-ask.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/afraid-to-ask.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "1220c93df694261e3744fc0e1dcafc38c1d133307e7f8e16853245f7dcc76afeda91"
     },
     {
       "name": "Transcript",
@@ -18,7 +20,9 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/afraid-to-ask-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "1220dd7c2bfefe24ebf5ac8ae51bbce725314800b8469b0d862bb0372f0ec43b97cf"
     }
   ],
   "links": [
@@ -27,9 +31,16 @@
       "url": "https://news.google.com/newspapers?id=JNpHAAAAIBAJ&sjid=DYwDAAAAIBAJ&pg=4828%2C3223516"
     }
   ],
-  "people": ["Harold Nederland"],
-  "identities": ["asexual"],
+  "people": [
+    "Harold Nederland"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1971,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "HlKbsy7Lw0Fq"
 }
