@@ -20,7 +20,9 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/afraid-to-ask-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "1220e86f29311945924378bcdc79f2f63ba312bef61e4dc40b93666b9a6bb3a1158a"
     }
   ],
   "links": [
@@ -29,10 +31,16 @@
       "url": "https://news.google.com/newspapers?id=JNpHAAAAIBAJ&sjid=DYwDAAAAIBAJ&pg=4828%2C3223516"
     }
   ],
-  "people": ["Harold Nederland"],
-  "identities": ["asexual"],
+  "people": [
+    "Harold Nederland"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1971,
-  "decades": [1970],
+  "decades": [
+    1970
+  ],
   "aliases": [],
   "id": "HlKbsy7Lw0Fq"
 }

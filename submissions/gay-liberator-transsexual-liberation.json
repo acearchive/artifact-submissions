@@ -21,7 +21,9 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/transsexual-liberation-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "122060d31a3e7cc6fb97db63b1dc5054b66848dd2fcca3f59dc438b8074b2ea232e8"
     },
     {
       "name": "Article Citation",
@@ -50,9 +52,14 @@
     }
   ],
   "people": [],
-  "identities": ["transgender", "asexual"],
+  "identities": [
+    "transgender",
+    "asexual"
+  ],
   "fromYear": 1971,
-  "decades": [1970],
+  "decades": [
+    1970
+  ],
   "aliases": [],
   "id": "FJXeTAaaQbjY"
 }
