@@ -11,14 +11,18 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-roles-historically-stressed-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "12202f30ce3908e573542d4f9433a3de1965b47a12f1b4a2651379bceda5cb1c3e0c"
     },
     {
       "name": "Citation",
       "fileName": "sexual-roles-historically-stressed.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-roles-historically-stressed.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "1220047a9ef275c05044d51abd05dc28909a16fc51218a90ee7005874c496639d142"
     }
   ],
   "links": [
@@ -27,9 +31,16 @@
       "url": "https://books.google.com/books?id=7xAdAAAAIBAJ&pg=PA18"
     }
   ],
-  "people": ["Jill Tweedie"],
-  "identities": ["asexual"],
+  "people": [
+    "Jill Tweedie"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1972,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "UeTR1QDzJO33"
 }
