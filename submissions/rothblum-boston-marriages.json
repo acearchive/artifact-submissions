@@ -30,10 +30,18 @@
       "url": "https://archive.org/details/bostonmarriagesr00roth"
     }
   ],
-  "people": ["Esther D. Rothblum", "Kathleen A. Brehony"],
-  "identities": ["asexual", "lesbian"],
+  "people": [
+    "Esther D. Rothblum",
+    "Kathleen A. Brehony"
+  ],
+  "identities": [
+    "asexual",
+    "lesbian"
+  ],
   "fromYear": 1993,
-  "decades": [1990],
+  "decades": [
+    1990
+  ],
   "aliases": [],
   "id": "AsH5pVCO3ORx"
 }
