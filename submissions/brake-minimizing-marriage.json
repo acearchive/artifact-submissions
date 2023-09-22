@@ -10,7 +10,9 @@
       "fileName": "minimizing-marriage.pdf",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/minimizing-marriage.pdf",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "12201dfade1718c5b8a11e943ceb34eed404f6a1df1279ac661de7bd4312420128c9"
     },
     {
       "name": "Citation",
@@ -28,10 +30,16 @@
       "url": "https://archive.org/details/minimizingmarria0000brak"
     }
   ],
-  "people": ["Elizabeth Brake"],
-  "identities": ["aromantic"],
+  "people": [
+    "Elizabeth Brake"
+  ],
+  "identities": [
+    "aromantic"
+  ],
   "fromYear": 2012,
-  "decades": [2010],
+  "decades": [
+    2010
+  ],
   "aliases": [],
   "id": "f6rgHBn9CfNr"
 }
