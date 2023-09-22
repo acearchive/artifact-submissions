@@ -6,6 +6,15 @@
   "description": "A feminist work which first coined the term \"amatonormativity,\" a concept that is pervasive in aromantic discourse",
   "files": [
     {
+      "name": "Book",
+      "fileName": "minimizing-marriage.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/minimizing-marriage.pdf",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "12201dfade1718c5b8a11e943ceb34eed404f6a1df1279ac661de7bd4312420128c9"
+    },
+    {
       "name": "Citation",
       "fileName": "minimizing-marriage.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/minimizing-marriage.bib",
