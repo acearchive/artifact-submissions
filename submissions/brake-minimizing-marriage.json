@@ -1,7 +1,7 @@
 {
   "version": 1,
   "slug": "brake-minimizing-marriage",
-  "title": "Minimizing Marriage: Marriage, Morality, and the Law",
+  "title": "*Minimizing Marriage: Marriage, Morality, and the Law*",
   "summary": "A feminist work which first coined the term \"amatonormativity\"",
   "description": "A feminist work which first coined the term \"amatonormativity,\" a concept that is pervasive in aromantic discourse",
   "files": [
@@ -21,16 +21,10 @@
       "url": "https://archive.org/details/minimizingmarria0000brak"
     }
   ],
-  "people": [
-    "Elizabeth Brake"
-  ],
-  "identities": [
-    "aromantic"
-  ],
+  "people": ["Elizabeth Brake"],
+  "identities": ["aromantic"],
   "fromYear": 2012,
-  "decades": [
-    2010
-  ],
+  "decades": [2010],
   "aliases": [],
   "id": "f6rgHBn9CfNr"
 }
