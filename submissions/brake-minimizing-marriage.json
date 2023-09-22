@@ -6,6 +6,13 @@
   "description": "A feminist work which first coined the term \"amatonormativity,\" a concept that is pervasive in aromantic discourse",
   "files": [
     {
+      "name": "Book",
+      "fileName": "minimizing-marriage.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/minimizing-marriage.pdf",
+      "hidden": false,
+      "aliases": []
+    },
+    {
       "name": "Citation",
       "fileName": "minimizing-marriage.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/minimizing-marriage.bib",
@@ -21,16 +28,10 @@
       "url": "https://archive.org/details/minimizingmarria0000brak"
     }
   ],
-  "people": [
-    "Elizabeth Brake"
-  ],
-  "identities": [
-    "aromantic"
-  ],
+  "people": ["Elizabeth Brake"],
+  "identities": ["aromantic"],
   "fromYear": 2012,
-  "decades": [
-    2010
-  ],
+  "decades": [2010],
   "aliases": [],
   "id": "f6rgHBn9CfNr"
 }
