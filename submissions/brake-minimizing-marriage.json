@@ -21,10 +21,16 @@
       "url": "https://archive.org/details/minimizingmarria0000brak"
     }
   ],
-  "people": ["Elizabeth Brake"],
-  "identities": ["aromantic"],
+  "people": [
+    "Elizabeth Brake"
+  ],
+  "identities": [
+    "aromantic"
+  ],
   "fromYear": 2012,
-  "decades": [2010],
+  "decades": [
+    2010
+  ],
   "aliases": [],
   "id": "f6rgHBn9CfNr"
 }
