@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "slug": "the-conspiracy-sexual-law-reporter",
+  "title": "\"SexualLaw Reporter,\" *The Conspiracy*",
+  "summary": "An introduction to a newsletter about legal issues relevant to queer people, including asexuals",
+  "description": "A brief in *The Conspiracy* which introduces to a newsletter called *SexualLaw Reporter*, which intends to focus legal issues relevant to queer people, including asexuals",
+  "files": [
+    {
+      "name": "SexualLaw Reporter",
+      "fileName": "sexual-law-reporter.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-law-reporter.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "12205390119049dac6ddd1a75ce7c5196507f225bc041deb76c21e3af3009dbdd4c9"
+    },
+    {
+      "name": "SexualLaw Reporter (Transcript)",
+      "fileName": "sexual-law-reporter-transcript.html",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-law-reporter-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "1220bc8474f46e32692d34c1537cb359a48da82a72de2dba7b870bb2cb7dbfdf1942"
+    },
+    {
+      "name": "SexualLaw Reporter (Citation)",
+      "fileName": "sexual-law-reporter.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-law-reporter.bib",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "12200718622827e543ff368bba29e102ffc038d045e971c4a256f34442e2e5f6a4dd"
+    },
+    {
+      "name": "The Conspiracy",
+      "fileName": "the-conspiracy.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-conspiracy.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "12206403fadaedbce5212b2cba7cd838a7481fa2fc074338867327a0bdf20dcc9ec4"
+    }
+  ],
+  "links": [
+    {
+      "name": "JSTOR",
+      "url": "https://www.jstor.org/stable/community.28035179?seq=12"
+    }
+  ],
+  "people": [],
+  "identities": [
+    "asexual"
+  ],
+  "fromYear": 1975,
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "fvd6kqOjtLIz"
+}
