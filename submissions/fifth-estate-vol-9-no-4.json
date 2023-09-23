@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "slug": "fifth-estate-vol-9-no-4",
+  "title": "*Fifth Estate*, vol. 9, no. 4",
+  "summary": "A reader calls out the news journal *Fifth Estate* for overlooking the oppression of asexuals",
+  "description": "A reader writes about their experience as an asexual and calls out the news journal *Fifth Estate* for overlooking the oppression of asexuals",
+  "files": [
+    {
+      "name": "Reader Submission",
+      "fileName": "fifth-estate-letter.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/fifth-estate-letter.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Reader Submission (Transcript)",
+      "fileName": "fifth-estate-letter-transcript.html",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/fifth-estate-letter-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Reader Submission (Citation)",
+      "fileName": "fifth-estate-letter.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/fifth-estate-letter.bib",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Fifth Estate",
+      "fileName": "fifth-estate.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/fifth-estate.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "JSTOR",
+      "url": "https://www.jstor.org/stable/community.28036536?seq=22"
+    }
+  ],
+  "people": ["E. O. Line"],
+  "identities": ["asexual"],
+  "fromYear": 1974,
+  "decades": [1970],
+  "aliases": []
+}

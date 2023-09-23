@@ -16,7 +16,7 @@
       "multihash": "1220db533fa40c26d40f5c547e8aa92813dfc0332471ad5e21f3da054328f411671f"
     },
     {
-      "name": "Reader Submission Transcript",
+      "name": "Reader Submission (Transcript)",
       "fileName": "reader-submission-transcript.html",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/reader-submission-transcript.html",
       "lang": "en",
@@ -52,14 +52,9 @@
     }
   ],
   "people": [],
-  "identities": [
-    "asexual",
-    "homosexual"
-  ],
+  "identities": ["asexual", "homosexual"],
   "fromYear": 1970,
-  "decades": [
-    1970
-  ],
+  "decades": [1970],
   "aliases": [],
   "id": "GxEyG3ecHOUu"
 }
