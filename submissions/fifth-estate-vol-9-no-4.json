@@ -11,7 +11,9 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/fifth-estate-letter.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "12201c1b90eb7f9ed0708eca4bfdcc3827dc0889bd7c9d4e9852866d8b84f307444e"
     },
     {
       "name": "Reader Submission (Transcript)",
@@ -19,14 +21,18 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/fifth-estate-letter-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "1220cb31e2d21b2718faeb1b36adf512d8ee2265bf346ffb760faed5abdac8092388"
     },
     {
       "name": "Reader Submission (Citation)",
       "fileName": "fifth-estate-letter.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/fifth-estate-letter.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "12206f31ece98b9791e519abbab41e61acfef7ec6c59c907490552c42b9c46b069d0"
     },
     {
       "name": "Fifth Estate",
@@ -34,7 +40,9 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/fifth-estate.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "1220b9939ef51ce7155b804aa6e2e6e8969bcf9749d4cfc1ed049a17c94b330a6512"
     }
   ],
   "links": [
@@ -43,9 +51,16 @@
       "url": "https://www.jstor.org/stable/community.28036536?seq=22"
     }
   ],
-  "people": ["E. O. Line"],
-  "identities": ["asexual"],
+  "people": [
+    "E. O. Line"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1974,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "k8LDou8nu7G3"
 }
