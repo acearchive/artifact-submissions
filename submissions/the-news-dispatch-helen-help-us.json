@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "slug": "the-news-dispatch-helen-help-us",
+  "title": "\"Helen Help Us!\" *The News-Dispatch*",
+  "summary": "A reader submission about neopronouns that mentions asexuality by name",
+  "description": "A reader submission about neopronouns and relationship labels that mentions asexuality by name",
+  "files": [
+    {
+      "name": "Transcript",
+      "fileName": "helen-help-us-transcript.html",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/helen-help-us-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "fileName": "helen-help-us.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/helen-help-us.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Google Books",
+      "url": "https://books.google.com/books?id=Yn1YAAAAIBAJ&pg=PA2#v=onepage&q&f=false"
+    }
+  ],
+  "people": ["Helen Bottel", "Warren Farrell"],
+  "identities": ["asexual"],
+  "fromYear": 1976,
+  "decades": [1970],
+  "aliases": []
+}
