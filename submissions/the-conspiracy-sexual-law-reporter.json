@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "slug": "the-conspiracy-sexual-law-reporter",
+  "title": "\"SexualLaw Reporter,\" *The Conspiracy*",
+  "summary": "An introduction to a newsletter about legal issues relevant to queer people, including asexuals",
+  "description": "A brief in *The Conspiracy* which introduces to a newsletter called *SexualLaw Reporter*, which intends to focus legal issues relevant to queer people, including asexuals",
+  "files": [
+    {
+      "name": "SexualLaw Reporter",
+      "fileName": "sexual-law-reporter.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-law-reporter.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "SexualLaw Reporter (Transcript)",
+      "fileName": "sexual-law-reporter-transcript.html",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-law-reporter-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "SexualLaw Reporter (Citation)",
+      "fileName": "sexual-law-reporter.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-law-reporter.bib",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "The Conspiracy",
+      "fileName": "the-conspiracy.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-conspiracy.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "JSTOR",
+      "url": "https://www.jstor.org/stable/community.28035179?seq=12"
+    }
+  ],
+  "people": [],
+  "identities": ["asexual"],
+  "fromYear": 1975,
+  "decades": [1970],
+  "aliases": []
+}
