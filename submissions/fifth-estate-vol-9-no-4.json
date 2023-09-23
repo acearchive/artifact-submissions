@@ -30,7 +30,9 @@
       "fileName": "fifth-estate-letter.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/fifth-estate-letter.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "122010a7732b4b1d7f84709722f2c0c5b37af476d9d8c753fb5ceeaf6d1c50be3ccb"
     },
     {
       "name": "Fifth Estate",
@@ -49,10 +51,16 @@
       "url": "https://www.jstor.org/stable/community.28036536?seq=22"
     }
   ],
-  "people": ["E. O. Line"],
-  "identities": ["asexual"],
+  "people": [
+    "E. O. Line"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1974,
-  "decades": [1970],
+  "decades": [
+    1970
+  ],
   "aliases": [],
   "id": "k8LDou8nu7G3"
 }
