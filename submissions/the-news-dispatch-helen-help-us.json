@@ -11,14 +11,18 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/helen-help-us-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "12208b67d0d718a5e3405e1da8307fb366bbb2cb60b1482d6a74e56a9cd0e36e4b72"
     },
     {
       "name": "Citation",
       "fileName": "helen-help-us.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/helen-help-us.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "12208f42ec73f2bcc8399488be2ff3e120f33eda9aeb0600569dfa06dcebdf52ce8d"
     }
   ],
   "links": [
@@ -27,9 +31,17 @@
       "url": "https://books.google.com/books?id=Yn1YAAAAIBAJ&pg=PA2#v=onepage&q&f=false"
     }
   ],
-  "people": ["Helen Bottel", "Warren Farrell"],
-  "identities": ["asexual"],
+  "people": [
+    "Helen Bottel",
+    "Warren Farrell"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1976,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "rAzL8iRWIbrf"
 }
