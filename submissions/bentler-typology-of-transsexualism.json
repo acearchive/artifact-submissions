@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "slug": "bentler-typology-of-transsexualism",
+  "title": "\"A Typology of Transsexualism: Gender Identity Theory and Data\"",
+  "summary": "An academic paper that classifies trans women into three groups—heterosexual, homosexual, and asexual",
+  "files": [
+    {
+      "name": "Paper",
+      "fileName": "typology-of-transsexualism.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/typology-of-transsexualism.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "fileName": "typology-of-transsexualism.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/typology-of-transsexualism.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Springer Link",
+      "url": "https://doi.org/10.1007/BF01541220"
+    }
+  ],
+  "people": ["Peter M. Bentler"],
+  "identities": ["asexual", "transgender"],
+  "fromYear": 1976,
+  "decades": [1970],
+  "aliases": []
+}
