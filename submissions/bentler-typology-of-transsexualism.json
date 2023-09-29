@@ -10,14 +10,18 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/typology-of-transsexualism.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "1220a34d203605ef969226e9318c62c9f8ca43ebe115c5ff8d1b6a9cfae312424995"
     },
     {
       "name": "Citation",
       "fileName": "typology-of-transsexualism.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/typology-of-transsexualism.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "122035d1f8d903264cf76393f9ba3b998af97b45340ed98a51f9bad3f9dbaeeb6ae6"
     }
   ],
   "links": [
@@ -26,9 +30,17 @@
       "url": "https://doi.org/10.1007/BF01541220"
     }
   ],
-  "people": ["Peter M. Bentler"],
-  "identities": ["asexual", "transgender"],
+  "people": [
+    "Peter M. Bentler"
+  ],
+  "identities": [
+    "asexual",
+    "transgender"
+  ],
   "fromYear": 1976,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "0TAcFGvq6fSM"
 }
