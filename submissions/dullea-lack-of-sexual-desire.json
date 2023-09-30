@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "slug": "dullea-lack-of-sexual-desire",
+  "title": "\"A Lack of Sexual Desire Emerges as a Contemporary Condition\"",
+  "summary": "A newspaper article on the emergence of asexuality as a new phenomenon",
+  "description": "A newspaper article on the emergence of asexuality as a new phenomenon, including interviews from asexuals who largely report being happy with celibacy",
+  "files": [
+    {
+      "name": "Digital Scan",
+      "fileName": "lack-of-sexual-desire.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-sexual-desire.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Transcript",
+      "fileName": "lack-of-sexual-desire-transcript.html",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-sexual-desire-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "fileName": "lack-of-sexual-desire.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-sexual-desire.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/1978/05/01/archives/a-lack-of-sexual-desire-emerges-as-a-contemporary-condition-low.html"
+    }
+  ],
+  "people": ["Georgia Dullea"],
+  "identities": ["asexual", "celibate"],
+  "fromYear": 1978,
+  "decades": [1970],
+  "aliases": []
+}
