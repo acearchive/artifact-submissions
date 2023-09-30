@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "slug": "macneil-lehrer-briggs-initiative",
+  "title": "*The MacNeil/Lehrer Report* The Briggs Initiative",
+  "summary": "A talk show conversation about the legislation surrounding gay schoolteachers, which mentions asexuality",
+  "description": "A talk show conversation about the legislation surrounding gay schoolteachers in which the guest argues that teachers should be hired based on ability, regardless of orientation, including asexual",
+  "files": [
+    {
+      "name": "Transcript",
+      "fileName": "briggs-initiative-transcript.html",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/briggs-initiative-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "fileName": "briggs-initiative.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/briggs-initiative.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "American Archive of Public Broadcasting",
+      "url": "https://americanarchive.org/catalog/cpb-aacip-507-8k74t6fs6f"
+    }
+  ],
+  "people": ["John Briggs"],
+  "identities": ["asexual"],
+  "fromYear": 1978,
+  "decades": [1970],
+  "aliases": []
+}
