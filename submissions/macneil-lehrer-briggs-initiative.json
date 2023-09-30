@@ -11,14 +11,18 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/briggs-initiative-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "1220f00d8d44e7cbc44cc3957ae8491a4255cb41bd17731768feeb626aceed00e77f"
     },
     {
       "name": "Citation",
       "fileName": "briggs-initiative.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/briggs-initiative.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "1220eea849e344d3d08fbde1fce4a529d826337c6710ec0d3a03b5a6fa9b36f3a0b6"
     }
   ],
   "links": [
@@ -27,9 +31,16 @@
       "url": "https://americanarchive.org/catalog/cpb-aacip-507-8k74t6fs6f"
     }
   ],
-  "people": ["John Briggs"],
-  "identities": ["asexual"],
+  "people": [
+    "John Briggs"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1978,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "mqw3h6VekKCx"
 }
