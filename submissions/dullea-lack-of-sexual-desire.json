@@ -11,7 +11,9 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-sexual-desire.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "12204a1beba8fba1b67b22b05efdfe59520721c567d6d333823fb6cedd618a42ad62"
     },
     {
       "name": "Transcript",
@@ -19,14 +21,18 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-sexual-desire-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "12203cc25eb80e7ffeff4c1e679efc446555f05ab615c179a5da68dbf543fdc6df0a"
     },
     {
       "name": "Citation",
       "fileName": "lack-of-sexual-desire.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-sexual-desire.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "1220fe153db6576193c63932ff6857f8f8c29e2132b9fd88efcce03639a32a8ef84d"
     }
   ],
   "links": [
@@ -35,9 +41,17 @@
       "url": "https://www.nytimes.com/1978/05/01/archives/a-lack-of-sexual-desire-emerges-as-a-contemporary-condition-low.html"
     }
   ],
-  "people": ["Georgia Dullea"],
-  "identities": ["asexual", "celibate"],
+  "people": [
+    "Georgia Dullea"
+  ],
+  "identities": [
+    "asexual",
+    "celibate"
+  ],
   "fromYear": 1978,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "eO12cBSYhFXl"
 }
