@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "slug": "bell-asexuality-everybodys-not-doing",
+  "title": "\"Asexuality: Everybody's Not Doing It\"",
+  "summary": "A newspaper story in which various self-professed asexual people are interviewed",
+  "files": [
+    {
+      "name": "Transcript",
+      "fileName": "everybodys-not-doing-it-transcript.html",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/everybodys-not-doing-it-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "fileName": "everybodys-not-doing-it.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/everybodys-not-doing-it.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Google Books",
+      "url": "https://books.google.com/books?id=H-dLAAAAIBAJ&pg=PA1#v=onepage&q&f=false"
+    }
+  ],
+  "people": ["Arthur Bell"],
+  "identities": ["asexual", "celibate"],
+  "fromYear": 1978,
+  "decades": [1970],
+  "aliases": []
+}
