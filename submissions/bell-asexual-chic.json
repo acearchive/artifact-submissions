@@ -10,14 +10,22 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/asexual-chic-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": ["everybodys-not-doing-it-transcript.html"]
+      "aliases": [
+        "everybodys-not-doing-it-transcript.html"
+      ],
+      "mediaType": "text/html",
+      "multihash": "1220ec4f4584a12df545bb6a433ecbfc42c0f79bc47a11c8cf38e70ed0b4469a8713"
     },
     {
       "name": "Citation",
       "fileName": "asexual-chic.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/asexual-chic.bib",
       "hidden": false,
-      "aliases": ["everybodys-not-doing-it.bib"]
+      "aliases": [
+        "everybodys-not-doing-it.bib"
+      ],
+      "mediaType": "text/x-bibtex",
+      "multihash": "12201e747d273c1c50662979a9084feb5351a16d2020ed8a089de4e148cf00658290"
     }
   ],
   "links": [
@@ -26,10 +34,19 @@
       "url": "https://books.google.com/books?id=H-dLAAAAIBAJ&pg=PA1#v=onepage&q&f=false"
     }
   ],
-  "people": ["Arthur Bell"],
-  "identities": ["asexual", "celibate"],
+  "people": [
+    "Arthur Bell"
+  ],
+  "identities": [
+    "asexual",
+    "celibate"
+  ],
   "fromYear": 1978,
-  "decades": [1970],
-  "aliases": ["bell-asexuality-everybodys-not-doing"],
+  "decades": [
+    1970
+  ],
+  "aliases": [
+    "bell-asexuality-everybodys-not-doing"
+  ],
   "id": "yAGZJCX78gVJ"
 }
