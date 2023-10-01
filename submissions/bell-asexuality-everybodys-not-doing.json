@@ -10,14 +10,18 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/everybodys-not-doing-it-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "122020bb01d66918109348aa277ec5a47f89788f2b713888d1dcdc10aa7353ea2c35"
     },
     {
       "name": "Citation",
       "fileName": "everybodys-not-doing-it.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/everybodys-not-doing-it.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "1220ac26dda353f60b792ca40658e9cfc6fb99bc59bbad45b72fc910da76206733fe"
     }
   ],
   "links": [
@@ -26,9 +30,17 @@
       "url": "https://books.google.com/books?id=H-dLAAAAIBAJ&pg=PA1#v=onepage&q&f=false"
     }
   ],
-  "people": ["Arthur Bell"],
-  "identities": ["asexual", "celibate"],
+  "people": [
+    "Arthur Bell"
+  ],
+  "identities": [
+    "asexual",
+    "celibate"
+  ],
   "fromYear": 1978,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "yAGZJCX78gVJ"
 }
