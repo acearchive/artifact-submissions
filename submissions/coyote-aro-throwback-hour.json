@@ -14,10 +14,17 @@
       "url": "https://web.archive.org/web/20230924154110/https://www.pillowfort.social/posts/2580244"
     }
   ],
-  "people": ["Coyote"],
-  "identities": ["aromantic"],
+  "people": [
+    "Coyote"
+  ],
+  "identities": [
+    "aromantic"
+  ],
   "fromYear": 2010,
   "toYear": 2013,
-  "decades": [2010],
-  "aliases": []
+  "decades": [
+    2010
+  ],
+  "aliases": [],
+  "id": "fDqRu5Im2H22"
 }
