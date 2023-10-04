@@ -11,7 +11,9 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/no-more-sex.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "122035adf5f0fe26542f98bb619166f7d3348fba450853565e6e6f6998b78da26414"
     },
     {
       "name": "Eunuch Lib: No More Sex! (Transcript)",
@@ -19,14 +21,18 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/no-more-sex-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/html",
+      "multihash": "12206fe7a262866a90b2d8c78b4ba27d899554746ba993c23e9294dac7b1d8a4501a"
     },
     {
       "name": "Eunuch Lib: No More Sex! (Citation)",
       "fileName": "no-more-sex.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/no-more-sex.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "1220e20246c7a02c67f2c635fccdbb741a3ae16724dbd9a0a1a3c983febb022d6132"
     },
     {
       "name": "Berkeley Barb, vol. 27, no. 20",
@@ -34,7 +40,9 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/berkeley-barb.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "1220bc273833680973b47bd105d84bcee1fc9a363e845aabe40c13e6cb2b534b50f3"
     }
   ],
   "links": [
@@ -44,8 +52,13 @@
     }
   ],
   "people": [],
-  "identities": ["asexual"],
+  "identities": [
+    "asexual"
+  ],
   "fromYear": 1978,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "iw476bQ8Gxzq"
 }
