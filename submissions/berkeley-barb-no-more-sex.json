@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "slug": "berkeley-barb-no-more-sex",
+  "title": "\"Eunuch Lib: No More Sex!\", *Berkeley Barb*",
+  "summary": "An article in the newspaper *Berkeley Barb* which posits that young people are choosing to be asexual",
+  "description": "A newspaper article which posits that young people are choosing to be asexual and join the \"chastity underground\"",
+  "files": [
+    {
+      "name": "Eunuch Lib: No More Sex!",
+      "fileName": "no-more-sex.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/no-more-sex.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Eunuch Lib: No More Sex! (Transcript)",
+      "fileName": "no-more-sex-transcript.html",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/no-more-sex-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Eunuch Lib: No More Sex! (Citation)",
+      "fileName": "no-more-sex.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/no-more-sex.bib",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Berkeley Barb, vol. 27, no. 20",
+      "fileName": "berkeley-barb.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/berkeley-barb.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "JSTOR",
+      "url": "https://www.jstor.org/stable/community.28033685?seq=2"
+    }
+  ],
+  "people": [],
+  "identities": ["asexual"],
+  "fromYear": 1978,
+  "decades": [1970],
+  "aliases": []
+}
