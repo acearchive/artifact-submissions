@@ -22,9 +22,17 @@
       "url": "https://web.archive.org/web/20230315101847/https://theacetheist.wordpress.com/2019/03/11/bonus-round-queerplatonic-adjacent-concepts/"
     }
   ],
-  "people": ["Coyote"],
-  "identities": ["aromantic", "queerplatonic"],
+  "people": [
+    "Coyote"
+  ],
+  "identities": [
+    "aromantic",
+    "queerplatonic"
+  ],
   "fromYear": 2019,
-  "decades": [2010],
-  "aliases": []
+  "decades": [
+    2010
+  ],
+  "aliases": [],
+  "id": "w1Ie5VuRrbg8"
 }
