@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "slug": "tennov-love-and-limerence",
+  "title": "*Love and Limerence: The Experience of Being in Love*",
+  "summary": "The book which first introduced the concept of \"limerence\"",
+  "description": "The book which first introduced the concept of \"limerence,\" in which the author explains that nonlimerence may include not experiencing sexual attraction",
+  "files": [
+    {
+      "name": "Book",
+      "fileName": "love-and-limerence.pdf",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/love-and-limerence.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "fileName": "love-and-limerence.bib",
+      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/love-and-limerence.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Internet Archive",
+      "url": "https://archive.org/details/lovelimerenceexp00tenn"
+    }
+  ],
+  "people": ["Dorothy Tennov"],
+  "identities": ["asexual", "nonlimerent"],
+  "fromYear": 1979,
+  "decades": [1970],
+  "aliases": []
+}
