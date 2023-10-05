@@ -11,14 +11,18 @@
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/love-and-limerence.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "application/pdf",
+      "multihash": "122071079fd77238dbbeab30e9c9ff6bad1a3cf3262f6cab1e28b17ca2612177014e"
     },
     {
       "name": "Citation",
       "fileName": "love-and-limerence.bib",
       "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/love-and-limerence.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "mediaType": "text/x-bibtex",
+      "multihash": "122006a4a76a5c4adfc653fd7efbd5203cd36300115154592fbae0015b7526292c45"
     }
   ],
   "links": [
@@ -27,9 +31,17 @@
       "url": "https://archive.org/details/lovelimerenceexp00tenn"
     }
   ],
-  "people": ["Dorothy Tennov"],
-  "identities": ["asexual", "nonlimerent"],
+  "people": [
+    "Dorothy Tennov"
+  ],
+  "identities": [
+    "asexual",
+    "nonlimerent"
+  ],
   "fromYear": 1979,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "zCIFmamX7CP9"
 }
