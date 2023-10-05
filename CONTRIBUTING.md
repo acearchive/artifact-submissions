@@ -18,9 +18,8 @@ you can make any changes you deem necessary to the user's submission by hand.
 The name of the JSON file should be the artifact slug. You should open a PR with
 the change; do not commit directly to `main`.
 
-The PR title should start with `[Submission]`, `[Edit]`, or `[Proposal]`,
-followed by the title of the relevant issue. Also link to the issue number in
-the PR body.
+The PR title should start with `[Submission]` or `[Edit]`. Link to the issue
+number in the PR body.
 
 A CI job will validate the contents of the JSON file. It will also calculate the
 hash and media type of each file in the submission and generate a random
