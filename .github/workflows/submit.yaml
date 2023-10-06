@@ -44,7 +44,7 @@ jobs:
           mode: ${{ inputs.mode }}
           path: "submissions/"
           base_url: "https://${{ vars.ACE_ARCHIVE_FILES_DOMAIN }}/artifacts"
-          base_ref: ${{ github.base_ref }}
+          base_ref: "main"
           s3_endpoint: "https://9d143afa60e911e9904e835bd1db8504.r2.cloudflarestorage.com/acearchive-lgbt-artifacts-dev"
           s3_bucket: "acearchive-lgbt-artifacts-dev"
           s3_prefix: "artifacts/"
