@@ -17,34 +17,34 @@ jobs:
     with:
       mode: "upload"
     secrets: inherit
-  generate:
-    name: "Generate Hugo Files"
-    needs: submit
-    runs-on: ubuntu-latest
-    steps:
-      - name: "Generate Token"
-        id: token
-        # This action is being passed secrets, so we're pinning it to a specific
-        # rev for security. This action is very simple, so it's easy to audit.
-        uses: tibdex/github-app-token@f717b5ecd4534d3c4df4ce9b5c1c2214f0f7cd06
-        with:
-          app_id: ${{ vars.GH_APP_ID }}
-          permissions: >-
-            {"contents": "write"}
-          private_key: ${{ secrets.GH_APP_PRIVATE_KEY }}
-          repository: "acearchive/hugo-artifacts"
-      - name: "Checkout"
-        uses: actions/checkout@v3
-        with:
-          repository: "acearchive/hugo-artifacts"
-          token: ${{ steps.token.outputs.token }}
-      - name: "Generate Files"
-        uses: "acearchive/hugo-artifact-action@main"
-        with:
-          path: "artifacts/"
-          artifacts: ${{ needs.submit.outputs.artifacts }}
-      - name: "Commit Changes"
-        uses: "stefanzweifel/git-auto-commit-action@v4"
-        with:
-          commit_message: "Apply automatic changes"
-          file_pattern: "artifacts/*.md"
+  # generate:
+  #   name: "Generate Hugo Files"
+  #   needs: submit
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: "Generate Token"
+  #       id: token
+  #       # This action is being passed secrets, so we're pinning it to a specific
+  #       # rev for security. This action is very simple, so it's easy to audit.
+  #       uses: tibdex/github-app-token@f717b5ecd4534d3c4df4ce9b5c1c2214f0f7cd06
+  #       with:
+  #         app_id: ${{ vars.GH_APP_ID }}
+  #         permissions: >-
+  #           {"contents": "write"}
+  #         private_key: ${{ secrets.GH_APP_PRIVATE_KEY }}
+  #         repository: "acearchive/hugo-artifacts"
+  #     - name: "Checkout"
+  #       uses: actions/checkout@v3
+  #       with:
+  #         repository: "acearchive/hugo-artifacts"
+  #         token: ${{ steps.token.outputs.token }}
+  #     - name: "Generate Files"
+  #       uses: "acearchive/hugo-artifact-action@main"
+  #       with:
+  #         path: "artifacts/"
+  #         artifacts: ${{ needs.submit.outputs.artifacts }}
+  #     - name: "Commit Changes"
+  #       uses: "stefanzweifel/git-auto-commit-action@v4"
+  #       with:
+  #         commit_message: "Apply automatic changes"
+  #         file_pattern: "artifacts/*.md"
