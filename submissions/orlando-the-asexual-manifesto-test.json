@@ -9,7 +9,9 @@
       "source_url": "https://archive.org/download/asexualmanifestolisaorlando/Asexual-Manifesto-Lisa-Orlando.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "1220f907ed09addad95bd17de1efe76c7a624ba8144f0e2165edaf832447cded5f54"
     },
     {
       "name": "Transcript",
@@ -28,10 +30,17 @@
       "url": "https://archive.org/details/asexualmanifestolisaorlando"
     }
   ],
-  "people": ["Lisa Orlando", "Barbara Getz"],
-  "identities": ["asexual"],
+  "people": [
+    "Lisa Orlando",
+    "Barbara Getz"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "from_year": 1972,
-  "decades": [1970],
+  "decades": [
+    1970
+  ],
   "slug": "orlando-the-asexual-manifesto-test",
   "aliases": [],
   "id": "NXao6CNCreG3"
