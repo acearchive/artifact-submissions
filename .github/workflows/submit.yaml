@@ -54,7 +54,7 @@ jobs:
           s3_access_key_id: ${{ secrets.R2_ACCESS_KEY_ID }}
           s3_secret_access_key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           submission_worker_secret: ${{ secrets.SUBMISSION_WORKER_DEV_PASSWORD }}
-          submission_worker_domain: "dev.submit.acearchive.lgbt"
+          submission_worker_domain: "submit-dev.acearchive.lgbt"
       - name: "Commit Changes"
         uses: "stefanzweifel/git-auto-commit-action@v4"
         with:
