@@ -45,8 +45,10 @@ jobs:
           path: "submissions/"
           base_url: "https://${{ vars.ACE_ARCHIVE_FILES_DOMAIN }}/artifacts"
           base_ref: "main"
-          s3_endpoint: "https://9d143afa60e911e9904e835bd1db8504.r2.cloudflarestorage.com/acearchive-lgbt-artifacts-dev"
-          s3_bucket: "acearchive-lgbt-artifacts-dev"
+          # s3_endpoint: "https://9d143afa60e911e9904e835bd1db8504.r2.cloudflarestorage.com/acearchive-lgbt-artifacts-dev"
+          # s3_bucket: "acearchive-lgbt-artifacts-dev"
+          s3_endpoint: ${{ vars.ARTIFACTS_R2_ENDPOINT }}
+          s3_bucket: ${{ vars.ARTIFACTS_R2_BUCKET }}
           s3_prefix: "artifacts/"
           s3_region: "auto"
           s3_access_key_id: ${{ secrets.R2_ACCESS_KEY_ID }}
