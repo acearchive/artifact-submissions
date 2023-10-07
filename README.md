@@ -30,3 +30,8 @@ Additionally,
 [acearchive/hugo-artifact-action](https://github.com/acearchive/hugo-artifact-action)
 is used to automatically generate static assets from the artifact submissions
 which are used to build the static site.
+
+We may periodically need to change the format of these submission files. The
+[migrations/](./migrations/) directory contains scripts used to migrate
+submission files from one version to the next. Each submission file contains a
+top-level `version` key which indicates the current version.
