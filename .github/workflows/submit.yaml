@@ -39,7 +39,7 @@ jobs:
           token: ${{ steps.token.outputs.token }}
       - name: "Submit"
         id: submit
-        uses: acearchive/artifact-submit-action@d1
+        uses: acearchive/artifact-submit-action@main
         with:
           mode: ${{ inputs.mode }}
           path: "submissions/"
