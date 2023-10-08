@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "bogaert-asexuality-prevalence",
   "title": "\"Asexuality: Prevalence and Associated Factors in a National Probability Sample\"",
   "summary": "An early study on the prevalence of asexuality",
@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "Paper",
-      "fileName": "bogaert-asexuality-prevalence.pdf",
-      "mediaType": "application/pdf",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeielzbrslhpkviunin2lboizvqfmxbh3fhbliwivd5tipr3rnypoby",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "multihash": "1220393368d7d235b00556ed22d0596581327e52496cae4117268f8981baaf98fcde"
+      "multihash": "1220393368d7d235b00556ed22d0596581327e52496cae4117268f8981baaf98fcde",
+      "filename": "bogaert-asexuality-prevalence.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://w3s.link/ipfs/bafybeielzbrslhpkviunin2lboizvqfmxbh3fhbliwivd5tipr3rnypoby"
     },
     {
       "name": "Citation",
-      "fileName": "bogaert-asexuality-prevalence.bib",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreibe4thbzpbab3b6aslmypmegdcseliq2zyk3n6iuz3mxf2autqqsm",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/plain",
-      "multihash": "122024e4ce1cbc200ec3e0496cc3d8430c5222d10d670adb7c8a676cb9740a4e1093"
+      "multihash": "122024e4ce1cbc200ec3e0496cc3d8430c5222d10d670adb7c8a676cb9740a4e1093",
+      "filename": "bogaert-asexuality-prevalence.bib",
+      "media_type": "text/plain",
+      "source_url": "https://w3s.link/ipfs/bafkreibe4thbzpbab3b6aslmypmegdcseliq2zyk3n6iuz3mxf2autqqsm"
     }
   ],
   "links": [
@@ -41,10 +41,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 2004,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "rbArjAmvNnIi"
+  "id": "rbArjAmvNnIi",
+  "from_year": 2004
 }

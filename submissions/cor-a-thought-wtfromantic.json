@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "cor-a-thought-wtfromantic",
   "title": "\"A thought: 'WTFromantic'\"",
   "summary": "The term \"quoiromantic\" is coined in a blog post",
@@ -21,10 +21,10 @@
     "wtfromantic",
     "quoiromantic"
   ],
-  "fromYear": 2012,
   "decades": [
     2010
   ],
   "aliases": [],
-  "id": "nClmNtUMYrqH"
+  "id": "nClmNtUMYrqH",
+  "from_year": 2012
 }

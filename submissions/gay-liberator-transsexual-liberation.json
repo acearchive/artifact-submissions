@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "gay-liberator-transsexual-liberation",
   "title": "\"Transvestite and Transsexual Liberation\"",
   "summary": "An article on trans liberation which mentions asexuality",
@@ -7,42 +7,42 @@
   "files": [
     {
       "name": "Article",
-      "fileName": "transsexual-liberation.pdf",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/transsexual-liberation.pdf",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "application/pdf",
-      "multihash": "122024857b16960d40d036b1e3049edc762d9e2b92375e658cfee171564229bd9a54"
+      "multihash": "122024857b16960d40d036b1e3049edc762d9e2b92375e658cfee171564229bd9a54",
+      "filename": "transsexual-liberation.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/transsexual-liberation.pdf"
     },
     {
       "name": "Article Transcript",
-      "fileName": "transsexual-liberation-transcript.html",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/transsexual-liberation-transcript.html",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/html",
-      "multihash": "122060d31a3e7cc6fb97db63b1dc5054b66848dd2fcca3f59dc438b8074b2ea232e8"
+      "multihash": "122060d31a3e7cc6fb97db63b1dc5054b66848dd2fcca3f59dc438b8074b2ea232e8",
+      "filename": "transsexual-liberation-transcript.html",
+      "media_type": "text/html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/transsexual-liberation-transcript.html"
     },
     {
       "name": "Article Citation",
-      "fileName": "transsexual-liberation.bib",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/transsexual-liberation.bib",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/x-bibtex",
-      "multihash": "1220b74baf3c39f63897a1dfb11f783868774d5de973fb6621ba489259726741388a"
+      "multihash": "1220b74baf3c39f63897a1dfb11f783868774d5de973fb6621ba489259726741388a",
+      "filename": "transsexual-liberation.bib",
+      "media_type": "text/x-bibtex",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/transsexual-liberation.bib"
     },
     {
       "name": "Detroit Gay Liberator, vol. 1, no. 8",
-      "fileName": "detroit-gay-liberator.pdf",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/detroit-gay-liberator.pdf",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "application/pdf",
-      "multihash": "1220c3d89af794203d55ea78e15385a1bde593e3789c526c7648ac316b611902cdf9"
+      "multihash": "1220c3d89af794203d55ea78e15385a1bde593e3789c526c7648ac316b611902cdf9",
+      "filename": "detroit-gay-liberator.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/detroit-gay-liberator.pdf"
     }
   ],
   "links": [
@@ -56,10 +56,10 @@
     "transgender",
     "asexual"
   ],
-  "fromYear": 1971,
   "decades": [
     1970
   ],
   "aliases": [],
-  "id": "FJXeTAaaQbjY"
+  "id": "FJXeTAaaQbjY",
+  "from_year": 1971
 }

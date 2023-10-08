@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "dear-abby-not-looking-new-jersey",
   "title": "Asexuality on *Dear Abby*",
   "summary": "The term \"asexual\" is used in a response to a *Dear Abby* letter",
@@ -7,32 +7,32 @@
   "files": [
     {
       "name": "Digital Scan",
-      "fileName": "dear-abby-not-looking.png",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeib5dynu7sfh5gq2enx3b4hwz3wy35zrrfr5i3jh47yeg6uedcieiy",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "image/png",
-      "multihash": "1220af4541bf38adb1a88fad8484fcb551621a4f8c62edcdb3e3d5f24a07627dd3fc"
+      "multihash": "1220af4541bf38adb1a88fad8484fcb551621a4f8c62edcdb3e3d5f24a07627dd3fc",
+      "filename": "dear-abby-not-looking.png",
+      "media_type": "image/png",
+      "source_url": "https://w3s.link/ipfs/bafybeib5dynu7sfh5gq2enx3b4hwz3wy35zrrfr5i3jh47yeg6uedcieiy"
     },
     {
       "name": "Transcript",
-      "fileName": "dear-abby-not-looking-transcript/index.html",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreihhf7bd4hxyvc6nrfkfmnprbikekcm2so3aauujnbl7ddcjydm42m",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/html",
-      "multihash": "1220e72fc23e1ef8a8bcd89545635f10a1445099a93b60052896857f18c49c0d9cd3"
+      "multihash": "1220e72fc23e1ef8a8bcd89545635f10a1445099a93b60052896857f18c49c0d9cd3",
+      "filename": "dear-abby-not-looking-transcript/index.html",
+      "media_type": "text/html",
+      "source_url": "https://w3s.link/ipfs/bafkreihhf7bd4hxyvc6nrfkfmnprbikekcm2so3aauujnbl7ddcjydm42m"
     },
     {
       "name": "Citation",
-      "fileName": "dear-abby-not-looking.bib",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreibxj547wp4uxtmp324oz3q34dkaimz43rddkzsrjzzcaw446mgfgm",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/plain",
-      "multihash": "1220374f79fb3f94bcd8fdeb8ecee1be0d404333cdc463566514e72205b9cf30c533"
+      "multihash": "1220374f79fb3f94bcd8fdeb8ecee1be0d404333cdc463566514e72205b9cf30c533",
+      "filename": "dear-abby-not-looking.bib",
+      "media_type": "text/plain",
+      "source_url": "https://w3s.link/ipfs/bafkreibxj547wp4uxtmp324oz3q34dkaimz43rddkzsrjzzcaw446mgfgm"
     }
   ],
   "links": [
@@ -47,10 +47,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1995,
   "decades": [
     1990
   ],
   "aliases": [],
-  "id": "iySYZcG1zAmw"
+  "id": "iySYZcG1zAmw",
+  "from_year": 1995
 }

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "aven-forums-avenguy-semisexuality",
   "title": "\"Semisexuality\"",
   "summary": "An early discussion about aspec identities between allosexual and asexual",
@@ -21,10 +21,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 2003,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "TJOxYmz9d2ke"
+  "id": "TJOxYmz9d2ke",
+  "from_year": 2003
 }

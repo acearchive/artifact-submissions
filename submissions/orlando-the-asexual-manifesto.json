@@ -1,27 +1,27 @@
 {
-  "version": 1,
+  "version": 2,
   "title": "*The Asexual Manifesto*",
   "summary": "A paper by the Asexual Caucus of the New York Radical Feminists",
   "files": [
     {
       "name": "Digital Scan",
-      "fileName": "the-asexual-manifesto.pdf",
-      "sourceUrl": "https://archive.org/download/asexualmanifestolisaorlando/Asexual-Manifesto-Lisa-Orlando.pdf",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "application/pdf",
-      "multihash": "1220f907ed09addad95bd17de1efe76c7a624ba8144f0e2165edaf832447cded5f54"
+      "multihash": "1220f907ed09addad95bd17de1efe76c7a624ba8144f0e2165edaf832447cded5f54",
+      "filename": "the-asexual-manifesto.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://archive.org/download/asexualmanifestolisaorlando/Asexual-Manifesto-Lisa-Orlando.pdf"
     },
     {
       "name": "Transcript",
-      "fileName": "the-asexual-manifesto-transcript/index.html",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreihalqtn4l67cdjr5qmzgx2mascbfmws7ohhy3ugmm4nn4jfhzsede",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/html",
-      "multihash": "1220e05c26de2fdf10d31ec19935f4c048412b2d2fb8e7c6e866338d6f1253e64419"
+      "multihash": "1220e05c26de2fdf10d31ec19935f4c048412b2d2fb8e7c6e866338d6f1253e64419",
+      "filename": "the-asexual-manifesto-transcript/index.html",
+      "media_type": "text/html",
+      "source_url": "https://w3s.link/ipfs/bafkreihalqtn4l67cdjr5qmzgx2mascbfmws7ohhy3ugmm4nn4jfhzsede"
     }
   ],
   "links": [
@@ -37,11 +37,11 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1972,
   "decades": [
     1970
   ],
   "slug": "orlando-the-asexual-manifesto",
   "aliases": [],
-  "id": "MKbNWmmhCog6"
+  "id": "MKbNWmmhCog6",
+  "from_year": 1972
 }

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "coyote-genealogy-of-queerplatonic",
   "title": "\"A Genealogy of Queerplatonic\"",
   "summary": "A blog post tracking the etymology and development of the term \"queerplatonic\"",
@@ -29,10 +29,10 @@
     "aromantic",
     "queerplatonic"
   ],
-  "fromYear": 2019,
   "decades": [
     2010
   ],
   "aliases": [],
-  "id": "w1Ie5VuRrbg8"
+  "id": "w1Ie5VuRrbg8",
+  "from_year": 2019
 }

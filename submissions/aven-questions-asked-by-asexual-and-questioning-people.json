@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "aven-questions-asked-by-asexual-and-questioning-people",
   "title": "\"Questions Asked by Asexual and Questioning People\"",
   "summary": "An early version of the AVEN FAQ, written by Nat Titman",
@@ -16,10 +16,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 2003,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "B3j5gcXWjam8"
+  "id": "B3j5gcXWjam8",
+  "from_year": 2003
 }

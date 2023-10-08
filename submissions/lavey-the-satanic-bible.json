@@ -1,6 +1,6 @@
 {
   "id": "kI9c4o2WE5GS",
-  "version": 1,
+  "version": 2,
   "slug": "lavey-the-satanic-bible",
   "title": "*The Satanic Bible*",
   "summary": "A book describing asexuals as being \"sexually subliminated\" by non-sexual interests",
@@ -8,32 +8,32 @@
   "files": [
     {
       "name": "Book",
-      "fileName": "the-satanic-bible.pdf",
-      "sourceUrl": "https://files.acearchive.lgbt/artifacts/lavey-the-satanic-bible/the-satanic-bible.pdf",
       "lang": "en",
       "hidden": false,
       "aliases": [],
       "multihash": "12201ac5968051405a8c0a6dca91a72fc7d557001e8bcb26c04c0069bc58c5a8f7dc",
-      "mediaType": "application/pdf"
+      "filename": "the-satanic-bible.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://files.acearchive.lgbt/artifacts/lavey-the-satanic-bible/the-satanic-bible.pdf"
     },
     {
       "name": "OCR Transcript",
-      "fileName": "the-satanic-bible-transcript.txt",
-      "sourceUrl": "https://files.acearchive.lgbt/artifacts/lavey-the-satanic-bible/the-satanic-bible-transcript.txt",
       "lang": "en",
       "hidden": false,
       "aliases": [],
       "multihash": "1220211524cc80c07debec6b14c2f946856a92d140c6aa26982b9ffbc08471e07c62",
-      "mediaType": "text/plain"
+      "filename": "the-satanic-bible-transcript.txt",
+      "media_type": "text/plain",
+      "source_url": "https://files.acearchive.lgbt/artifacts/lavey-the-satanic-bible/the-satanic-bible-transcript.txt"
     },
     {
       "name": "Citation",
-      "fileName": "the-satanic-bible.bib",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-satanic-bible.bib",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/x-bibtex",
-      "multihash": "1220d2f43c530da0e6eee7ba80110dd8e3211ab694f92df4ed9d1c84d06d753d9e9f"
+      "multihash": "1220d2f43c530da0e6eee7ba80110dd8e3211ab694f92df4ed9d1c84d06d753d9e9f",
+      "filename": "the-satanic-bible.bib",
+      "media_type": "text/x-bibtex",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-satanic-bible.bib"
     }
   ],
   "links": [
@@ -48,9 +48,9 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1969,
   "decades": [
     1960
   ],
-  "aliases": []
+  "aliases": [],
+  "from_year": 1969
 }

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "oreilly-my-life-as-an-amoeba",
   "title": "\"My life as an amoeba\"",
   "summary": "A blog post about coming out as asexual",
@@ -16,10 +16,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1997,
   "decades": [
     1990
   ],
   "aliases": [],
-  "id": "GMIySdFOOKVb"
+  "id": "GMIySdFOOKVb",
+  "from_year": 1997
 }

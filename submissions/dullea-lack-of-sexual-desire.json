@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "dullea-lack-of-sexual-desire",
   "title": "\"A Lack of Sexual Desire Emerges as a Contemporary Condition\"",
   "summary": "A newspaper article on the emergence of asexuality as a new phenomenon",
@@ -7,32 +7,32 @@
   "files": [
     {
       "name": "Digital Scan",
-      "fileName": "lack-of-sexual-desire.pdf",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-sexual-desire.pdf",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "application/pdf",
-      "multihash": "12204a1beba8fba1b67b22b05efdfe59520721c567d6d333823fb6cedd618a42ad62"
+      "multihash": "12204a1beba8fba1b67b22b05efdfe59520721c567d6d333823fb6cedd618a42ad62",
+      "filename": "lack-of-sexual-desire.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-sexual-desire.pdf"
     },
     {
       "name": "Transcript",
-      "fileName": "lack-of-sexual-desire-transcript.html",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-sexual-desire-transcript.html",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/html",
-      "multihash": "12203cc25eb80e7ffeff4c1e679efc446555f05ab615c179a5da68dbf543fdc6df0a"
+      "multihash": "12203cc25eb80e7ffeff4c1e679efc446555f05ab615c179a5da68dbf543fdc6df0a",
+      "filename": "lack-of-sexual-desire-transcript.html",
+      "media_type": "text/html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-sexual-desire-transcript.html"
     },
     {
       "name": "Citation",
-      "fileName": "lack-of-sexual-desire.bib",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-sexual-desire.bib",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/x-bibtex",
-      "multihash": "1220fe153db6576193c63932ff6857f8f8c29e2132b9fd88efcce03639a32a8ef84d"
+      "multihash": "1220fe153db6576193c63932ff6857f8f8c29e2132b9fd88efcce03639a32a8ef84d",
+      "filename": "lack-of-sexual-desire.bib",
+      "media_type": "text/x-bibtex",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-sexual-desire.bib"
     }
   ],
   "links": [
@@ -48,10 +48,10 @@
     "asexual",
     "celibate"
   ],
-  "fromYear": 1978,
   "decades": [
     1970
   ],
   "aliases": [],
-  "id": "eO12cBSYhFXl"
+  "id": "eO12cBSYhFXl",
+  "from_year": 1978
 }

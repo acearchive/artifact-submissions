@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "introduction-of-asexual-flag",
   "title": "Introduction of the asexual pride flag",
   "summary": "The asexual pride flag is proposed, designed, voted on, and decided on across a series of AVEN forum threads.",
@@ -61,12 +61,12 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 2009,
-  "toYear": 2010,
   "decades": [
     2000,
     2010
   ],
   "aliases": [],
-  "id": "0XPaZ7HyJVfM"
+  "id": "0XPaZ7HyJVfM",
+  "from_year": 2009,
+  "to_year": 2010
 }

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "westphal-glad-to-be-asexual",
   "title": "\"Glad to be asexual\"",
   "summary": "An in-depth article on asexuality published in *New Scientist* where the author meets David Jay.",
@@ -22,10 +22,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 2004,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "tqfVD2Tc8nVW"
+  "id": "tqfVD2Tc8nVW",
+  "from_year": 2004
 }

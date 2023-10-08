@@ -1,18 +1,18 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "david-jay-tucker",
   "title": "David Jay on *Tucker*",
   "summary": "David Jay, founder of AVEN, is interviewed on MSNBC's *Tucker*",
   "files": [
     {
       "name": "Video",
-      "fileName": "david-jay-tucker.mp4",
-      "mediaType": "video/mp4",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeifshhr6ruwgtkxwmvsh3vo7gxbjlx2x7jhj5mvqho2rw7gcmsp7ra",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "multihash": "12201c803ac49b2aa5eab6b70470eb443ec9050398ef0b0864385aad997d1dd27d0f"
+      "multihash": "12201c803ac49b2aa5eab6b70470eb443ec9050398ef0b0864385aad997d1dd27d0f",
+      "filename": "david-jay-tucker.mp4",
+      "media_type": "video/mp4",
+      "source_url": "https://w3s.link/ipfs/bafybeifshhr6ruwgtkxwmvsh3vo7gxbjlx2x7jhj5mvqho2rw7gcmsp7ra"
     }
   ],
   "links": [
@@ -27,10 +27,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 2006,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "Qg7ng3bkN8Ab"
+  "id": "Qg7ng3bkN8Ab",
+  "from_year": 2006
 }

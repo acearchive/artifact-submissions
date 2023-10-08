@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "asexuality-dot-net",
   "title": "asexuality.net",
   "summary": "A website from the early web dedicated to asexuality.",
@@ -14,10 +14,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 2002,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "7s2Zmpe7yWZg"
+  "id": "7s2Zmpe7yWZg",
+  "from_year": 2002
 }

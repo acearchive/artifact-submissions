@@ -1,17 +1,17 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "nederland-asexuals-have-problems-too",
   "title": "\"Asexuals have problems too\"",
   "summary": "A satirical article about the prevalence of sex in society from the perspective of a fictionalized asexual",
   "files": [
     {
       "name": "Citation",
-      "fileName": "asexuals-have-problems-too.bib",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/asexuals-have-problems-too.bib",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/x-bibtex",
-      "multihash": "1220a231b3f5afe21f6c1e8e9143ed218dbf31dce41a57b3d54a9bac226c16ec2859"
+      "multihash": "1220a231b3f5afe21f6c1e8e9143ed218dbf31dce41a57b3d54a9bac226c16ec2859",
+      "filename": "asexuals-have-problems-too.bib",
+      "media_type": "text/x-bibtex",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/asexuals-have-problems-too.bib"
     }
   ],
   "links": [
@@ -30,10 +30,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1971,
   "decades": [
     1970
   ],
   "aliases": [],
-  "id": "JqyAVmG7TFY7"
+  "id": "JqyAVmG7TFY7",
+  "from_year": 1971
 }

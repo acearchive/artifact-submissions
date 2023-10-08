@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "kertbeny-paragraph-143",
   "title": "Kertbeny's pamphlets protesting Prussian sodomy laws",
   "summary": "Pamphlets protesting Prussian sodomy laws which coined the terms \"homosexual\" and \"heterosexual\"",
@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "Original Paper",
-      "fileName": "kertbeny-paragraph-143.pdf",
-      "mediaType": "application/pdf",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeig6ozrk3xoeq5hvwwm2qoge7davfr5u5whusco6gc57txii3mcmje",
       "lang": "de",
       "hidden": false,
       "aliases": [],
-      "multihash": "1220d631f2e0ca6ef8d7e7b6ce7da82757d2d005e608a2645d71a30cf6d8f5660494"
+      "multihash": "1220d631f2e0ca6ef8d7e7b6ce7da82757d2d005e608a2645d71a30cf6d8f5660494",
+      "filename": "kertbeny-paragraph-143.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://w3s.link/ipfs/bafybeig6ozrk3xoeq5hvwwm2qoge7davfr5u5whusco6gc57txii3mcmje"
     },
     {
       "name": "Citation",
-      "fileName": "kertbeny-paragraph-143.bib",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreicojzjtartqz2mvyqxln3fddi5pvnrrrpgrl6npin75f3kijs4whq",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/plain",
-      "multihash": "12204e4e53304670ce995c42eb6eca31a3afab6318bcd15f9af437fd2ed484cb963c"
+      "multihash": "12204e4e53304670ce995c42eb6eca31a3afab6318bcd15f9af437fd2ed484cb963c",
+      "filename": "kertbeny-paragraph-143.bib",
+      "media_type": "text/plain",
+      "source_url": "https://w3s.link/ipfs/bafkreicojzjtartqz2mvyqxln3fddi5pvnrrrpgrl6npin75f3kijs4whq"
     }
   ],
   "links": [
@@ -35,10 +35,10 @@
     "Karl-Maria Kertbeny"
   ],
   "identities": [],
-  "fromYear": 1869,
   "decades": [
     1860
   ],
   "aliases": [],
-  "id": "CVXPgQ7YrpDw"
+  "id": "CVXPgQ7YrpDw",
+  "from_year": 1869
 }

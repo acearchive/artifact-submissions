@@ -1,27 +1,27 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "rothblum-boston-marriages",
   "title": "*Boston marriages: Romantic but asexual relationships among contemporary lesbians*",
   "summary": "A book describing a historical form of asexual relationship",
   "files": [
     {
       "name": "Book",
-      "fileName": "boston-marriages.epub",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/boston-marriages.epub",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "application/epub+zip",
-      "multihash": "12203800b0f590534188232ad00f8ad18c97093b9efea4a239122a44efac6ac9ff37"
+      "multihash": "12203800b0f590534188232ad00f8ad18c97093b9efea4a239122a44efac6ac9ff37",
+      "filename": "boston-marriages.epub",
+      "media_type": "application/epub+zip",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/boston-marriages.epub"
     },
     {
       "name": "Citation",
-      "fileName": "boston-marriages.bib",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/boston-marriages.bib",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/x-bibtex",
-      "multihash": "122041c0a66590db0fedf11a920527a073aa226fc5ae77112c3f8c4727a57acf0cd0"
+      "multihash": "122041c0a66590db0fedf11a920527a073aa226fc5ae77112c3f8c4727a57acf0cd0",
+      "filename": "boston-marriages.bib",
+      "media_type": "text/x-bibtex",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/boston-marriages.bib"
     }
   ],
   "links": [
@@ -38,10 +38,10 @@
     "asexual",
     "lesbian"
   ],
-  "fromYear": 1993,
   "decades": [
     1990
   ],
   "aliases": [],
-  "id": "AsH5pVCO3ORx"
+  "id": "AsH5pVCO3ORx",
+  "from_year": 1993
 }

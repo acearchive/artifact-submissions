@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "titman-asexuality-before-cake",
   "title": "\"Asexuality BC (Before Cake)\"",
   "summary": "A personal recounting of early asexual history by an early AVEN member",
@@ -21,10 +21,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 2017,
   "decades": [
     2010
   ],
   "aliases": [],
-  "id": "vvnGEyez3JMj"
+  "id": "vvnGEyez3JMj",
+  "from_year": 2017
 }

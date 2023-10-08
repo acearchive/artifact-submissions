@@ -1,6 +1,6 @@
 {
   "id": "PZsGT3uJ1FXk",
-  "version": 1,
+  "version": 2,
   "slug": "haven-for-the-human-amoeba",
   "title": "*Haven for the Human Amoeba*",
   "summary": "The first major online community for asexuals",
@@ -8,12 +8,12 @@
   "files": [
     {
       "name": "Raw Archive Data",
-      "fileName": "haven-for-the-human-amoeba.zip",
-      "sourceUrl": "https://files.acearchive.lgbt/artifacts/haven-for-the-human-amoeba/haven-for-the-human-amoeba.zip",
       "hidden": false,
       "aliases": [],
       "multihash": "12202e4fd81fef65240a86a408f5245b1743690680142b845aaef06927423dfa2f89",
-      "mediaType": "application/zip"
+      "filename": "haven-for-the-human-amoeba.zip",
+      "media_type": "application/zip",
+      "source_url": "https://files.acearchive.lgbt/artifacts/haven-for-the-human-amoeba/haven-for-the-human-amoeba.zip"
     }
   ],
   "links": [
@@ -49,11 +49,11 @@
     "neuter",
     "nonsexual"
   ],
-  "fromYear": 2000,
-  "toYear": 2019,
   "decades": [
     2000,
     2010
   ],
-  "aliases": []
+  "aliases": [],
+  "from_year": 2000,
+  "to_year": 2019
 }

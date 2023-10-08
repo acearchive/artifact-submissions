@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "tweedie-sexual-roles",
   "title": "\"Sexual Roles Historically Stressed To Serve Society\"",
   "summary": "A newspaper article in which the author suggests that every person is, at their core, asexual",
@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "Transcript",
-      "fileName": "sexual-roles-historically-stressed-transcript.html",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-roles-historically-stressed-transcript.html",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/html",
-      "multihash": "12202f30ce3908e573542d4f9433a3de1965b47a12f1b4a2651379bceda5cb1c3e0c"
+      "multihash": "12202f30ce3908e573542d4f9433a3de1965b47a12f1b4a2651379bceda5cb1c3e0c",
+      "filename": "sexual-roles-historically-stressed-transcript.html",
+      "media_type": "text/html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-roles-historically-stressed-transcript.html"
     },
     {
       "name": "Citation",
-      "fileName": "sexual-roles-historically-stressed.bib",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-roles-historically-stressed.bib",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/x-bibtex",
-      "multihash": "1220047a9ef275c05044d51abd05dc28909a16fc51218a90ee7005874c496639d142"
+      "multihash": "1220047a9ef275c05044d51abd05dc28909a16fc51218a90ee7005874c496639d142",
+      "filename": "sexual-roles-historically-stressed.bib",
+      "media_type": "text/x-bibtex",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-roles-historically-stressed.bib"
     }
   ],
   "links": [
@@ -37,10 +37,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1972,
   "decades": [
     1970
   ],
   "aliases": [],
-  "id": "UeTR1QDzJO33"
+  "id": "UeTR1QDzJO33",
+  "from_year": 1972
 }

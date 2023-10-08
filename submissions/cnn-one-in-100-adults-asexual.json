@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "cnn-one-in-100-adults-asexual",
   "title": "\"Study: One in 100 adults asexual\"",
   "summary": "An article by *CNN* about asexuality which mentions Anthony Bogaert's study",
@@ -21,10 +21,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 2004,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "7JQmFs7h1U5y"
+  "id": "7JQmFs7h1U5y",
+  "from_year": 2004
 }

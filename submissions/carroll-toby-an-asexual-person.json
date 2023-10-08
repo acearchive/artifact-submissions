@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "carroll-toby-an-asexual-person",
   "title": "\"Toby: An Asexual Person\"",
   "summary": "An excerpt from a textbook describing a neuter person",
@@ -7,32 +7,32 @@
   "files": [
     {
       "name": "Toby: An Asexual Person",
-      "fileName": "toby-an-asexual-person.png",
-      "mediaType": "image/png",
-      "sourceUrl": "https://graphicexplanations.files.wordpress.com/2017/10/worldpride-004.png",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "multihash": "12201ff999058ea3211ab21515060777cc88a9bedfaf320f954a2d8f3338089d1172"
+      "multihash": "12201ff999058ea3211ab21515060777cc88a9bedfaf320f954a2d8f3338089d1172",
+      "filename": "toby-an-asexual-person.png",
+      "media_type": "image/png",
+      "source_url": "https://graphicexplanations.files.wordpress.com/2017/10/worldpride-004.png"
     },
     {
       "name": "Toby: An Asexual Person (Transcript)",
-      "fileName": "toby-an-asexual-person-transcript/index.html",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreidygaajfxwhmfbxswcenfsqqhzgljklblxryj2lrtcqff7zy2we5i",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/html",
-      "multihash": "122078300092dec761437958446965081f265a54b0aef1c274b8cc50297f9c6ac4ea"
+      "multihash": "122078300092dec761437958446965081f265a54b0aef1c274b8cc50297f9c6ac4ea",
+      "filename": "toby-an-asexual-person-transcript/index.html",
+      "media_type": "text/html",
+      "source_url": "https://w3s.link/ipfs/bafkreidygaajfxwhmfbxswcenfsqqhzgljklblxryj2lrtcqff7zy2we5i"
     },
     {
       "name": "Sexuality Now: Embracing Diversity (Citation)",
-      "fileName": "sexuality-now-embracing-diversity.bib",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreihtgeuushj4zbd3ur74amf5oq6sv2esgdin44z7el5ci6rzvosh2i",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/plain",
-      "multihash": "1220f33129491d3cc847ba47fc030bd743d2ae89230d0de733f22fa247a39aba47d2"
+      "multihash": "1220f33129491d3cc847ba47fc030bd743d2ae89230d0de733f22fa247a39aba47d2",
+      "filename": "sexuality-now-embracing-diversity.bib",
+      "media_type": "text/plain",
+      "source_url": "https://w3s.link/ipfs/bafkreihtgeuushj4zbd3ur74amf5oq6sv2esgdin44z7el5ci6rzvosh2i"
     }
   ],
   "links": [
@@ -50,10 +50,10 @@
     "neuter",
     "asexual"
   ],
-  "fromYear": 2006,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "K27yw93kgkFz"
+  "id": "K27yw93kgkFz",
+  "from_year": 2006
 }

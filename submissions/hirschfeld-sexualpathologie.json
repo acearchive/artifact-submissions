@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "hirschfeld-sexualpathologie",
   "title": "*Sexualpathologie*",
   "summary": "An early example of pathologization of asexual people in medical literature and use of the term \"asexual\"",
@@ -7,32 +7,32 @@
   "files": [
     {
       "name": "Original Paper",
-      "fileName": "hirschfeld-sexualpathologie.pdf",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeielk2xg6v3lctn54s4mypdvplasgmvne4eufgj5bojfh6tdqabuum",
       "lang": "de",
       "hidden": false,
       "aliases": [],
-      "mediaType": "application/pdf",
-      "multihash": "1220e87dd3b72dee1205ede02ab01bf2800320423286c9040366f99fccfb42403a52"
+      "multihash": "1220e87dd3b72dee1205ede02ab01bf2800320423286c9040366f99fccfb42403a52",
+      "filename": "hirschfeld-sexualpathologie.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://w3s.link/ipfs/bafybeielk2xg6v3lctn54s4mypdvplasgmvne4eufgj5bojfh6tdqabuum"
     },
     {
       "name": "Fulltext OCR Transcript",
-      "fileName": "hirschfeld-sexualpathologie.txt",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeiapxqnxxztjttercszj4ma37oglku7p7zr3zoboazshboadhp6jz4",
       "lang": "de",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/plain",
-      "multihash": "122021ee92de2d6e0db2ee7afcc190d74f61eaa5febe6e80e74f5350043bdeaa8ce0"
+      "multihash": "122021ee92de2d6e0db2ee7afcc190d74f61eaa5febe6e80e74f5350043bdeaa8ce0",
+      "filename": "hirschfeld-sexualpathologie.txt",
+      "media_type": "text/plain",
+      "source_url": "https://w3s.link/ipfs/bafybeiapxqnxxztjttercszj4ma37oglku7p7zr3zoboazshboadhp6jz4"
     },
     {
       "name": "Citation",
-      "fileName": "hirschfeld-sexualpathologie.bib",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreigzx4cgfxkdrun33s3rhauk2rabvjmntmvqajv2li5zl33yvqtasi",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/plain",
-      "multihash": "1220d9bf0462dd438d1bbdcb713828ad4401aa58d9b2b0026ba5a3b95ef78ac26092"
+      "multihash": "1220d9bf0462dd438d1bbdcb713828ad4401aa58d9b2b0026ba5a3b95ef78ac26092",
+      "filename": "hirschfeld-sexualpathologie.bib",
+      "media_type": "text/plain",
+      "source_url": "https://w3s.link/ipfs/bafkreigzx4cgfxkdrun33s3rhauk2rabvjmntmvqajv2li5zl33yvqtasi"
     }
   ],
   "links": [
@@ -55,10 +55,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1921,
   "decades": [
     1920
   ],
   "aliases": [],
-  "id": "ih6XiwIOYsv0"
+  "id": "ih6XiwIOYsv0",
+  "from_year": 1921
 }

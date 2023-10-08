@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "hirschfeld-sappho-und-sokrates",
   "title": "*Sappho und Sokrates*",
   "summary": "A formative academic work in legitimizing queer identities which recognizes asexual people",
@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "Original Paper",
-      "fileName": "hirschfeld-sappho-und-sokrates.pdf",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreia6pqlkr455ryxm3zl7fnncmwc44jg7yuq5f774nnaaluzfni5g5a",
       "lang": "de",
       "hidden": false,
       "aliases": [],
-      "mediaType": "application/pdf",
-      "multihash": "12201e7c16a8f3bd8e2ecde57f2b5a26585ce24dfc521d2fffc6b4005d3256a3a6e8"
+      "multihash": "12201e7c16a8f3bd8e2ecde57f2b5a26585ce24dfc521d2fffc6b4005d3256a3a6e8",
+      "filename": "hirschfeld-sappho-und-sokrates.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://w3s.link/ipfs/bafkreia6pqlkr455ryxm3zl7fnncmwc44jg7yuq5f774nnaaluzfni5g5a"
     },
     {
       "name": "Citation",
-      "fileName": "hirschfeld-sappho-und-sokrates.bib",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreiai37ueuplcw3qfqjwdxl45hipdr5onjokxtdygfbswzikiolae7m",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/plain",
-      "multihash": "122008dfe84a3d62b6e05826c3baf9d3a1e38f5cd4b95798f0628656ca14872c04fb"
+      "multihash": "122008dfe84a3d62b6e05826c3baf9d3a1e38f5cd4b95798f0628656ca14872c04fb",
+      "filename": "hirschfeld-sappho-und-sokrates.bib",
+      "media_type": "text/plain",
+      "source_url": "https://w3s.link/ipfs/bafkreiai37ueuplcw3qfqjwdxl45hipdr5onjokxtdygfbswzikiolae7m"
     }
   ],
   "links": [
@@ -45,10 +45,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1896,
   "decades": [
     1890
   ],
   "aliases": [],
-  "id": "KVTv9LGw4ToR"
+  "id": "KVTv9LGw4ToR",
+  "from_year": 1896
 }

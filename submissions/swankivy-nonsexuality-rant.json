@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "swankivy-nonsexuality-rant",
   "title": "\"Nonsexuality Rant\"",
   "summary": "A blog post from the eaarly web where the author complains about people invalidating their asexuality",
@@ -17,10 +17,10 @@
     "asexual",
     "nonsexual"
   ],
-  "fromYear": 2002,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "hIBipyJ9exSC"
+  "id": "hIBipyJ9exSC",
+  "from_year": 2002
 }

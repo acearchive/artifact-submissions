@@ -1,18 +1,18 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "toledo-blade-says-sex-hatred-still-spreading",
   "title": "\"Says Sex Hatred Still Spreading\"",
   "summary": "Novelist Compton Mackenzie expresses concern about an “asexual class” of people",
   "files": [
     {
       "name": "Transcript",
-      "fileName": "says-sex-hatred-still-spreading-transcript.html",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/says-sex-hatred-still-spreading-transcript.html",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/html",
-      "multihash": "122060d64791889a7ced9abbf3746dacc3cddc1124386f27514c7f8c9079141938ff"
+      "multihash": "122060d64791889a7ced9abbf3746dacc3cddc1124386f27514c7f8c9079141938ff",
+      "filename": "says-sex-hatred-still-spreading-transcript.html",
+      "media_type": "text/html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/says-sex-hatred-still-spreading-transcript.html"
     }
   ],
   "links": [
@@ -27,10 +27,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1913,
   "decades": [
     1910
   ],
   "aliases": [],
-  "id": "qHWIPmx063x7"
+  "id": "qHWIPmx063x7",
+  "from_year": 1913
 }

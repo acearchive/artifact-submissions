@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "ru-dot-antisex",
   "title": "RU.Antisex",
   "summary": "A website from the early web which takes a moral and ethical stance against sexuality",
@@ -14,10 +14,10 @@
   "identities": [
     "antisexual"
   ],
-  "fromYear": 1998,
   "decades": [
     1990
   ],
   "aliases": [],
-  "id": "0rxksAsUvOwS"
+  "id": "0rxksAsUvOwS",
+  "from_year": 1998
 }

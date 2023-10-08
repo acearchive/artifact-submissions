@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "off-our-backs-vol-3-no-5",
   "title": "*Off Our Backs*, vol. 3, no. 5",
   "summary": "An issue of a feminist news journal that mentions asexuality",
@@ -7,61 +7,61 @@
   "files": [
     {
       "name": "Your Own Label",
-      "fileName": "your-own-label.pdf",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/your-own-label.pdf",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "application/pdf",
-      "multihash": "12207a1d08e49755bcf84800a2237ca90ac7d158cc806b9be4b55b12c8475e663da9"
+      "multihash": "12207a1d08e49755bcf84800a2237ca90ac7d158cc806b9be4b55b12c8475e663da9",
+      "filename": "your-own-label.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/your-own-label.pdf"
     },
     {
       "name": "Your Own Label (Transcript)",
-      "fileName": "your-own-label-transcript/index.html",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreia3kz6b6glkgsqdklqj65d7u5kmjpo4qgs754kwqnli3nvtw2eqyy",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/html",
-      "multihash": "12201b567c1f196a34a0352e09f747fa754c4bddc81a5fef15683568db6b3b6890c6"
+      "multihash": "12201b567c1f196a34a0352e09f747fa754c4bddc81a5fef15683568db6b3b6890c6",
+      "filename": "your-own-label-transcript/index.html",
+      "media_type": "text/html",
+      "source_url": "https://w3s.link/ipfs/bafkreia3kz6b6glkgsqdklqj65d7u5kmjpo4qgs754kwqnli3nvtw2eqyy"
     },
     {
       "name": "Your Own Label (Citation)",
-      "fileName": "your-own-label.bib",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/your-own-label.bib",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/x-bibtex",
-      "multihash": "1220ab26005f2a0272b41791df0d24a88137db1c460065f05122e586373295daff5f"
+      "multihash": "1220ab26005f2a0272b41791df0d24a88137db1c460065f05122e586373295daff5f",
+      "filename": "your-own-label.bib",
+      "media_type": "text/x-bibtex",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/your-own-label.bib"
     },
     {
       "name": "Off Our Backs, vol. 3, no. 5",
-      "fileName": "off-our-backs-vol-3-no-5.pdf",
-      "mediaType": "application/pdf",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeigbbmu4rspn3lnc6ce3wo4w2kcxhlgczegsqkdrltr3lbreqlek4u",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "multihash": "1220917c7f13e4d19134885618bc8c194ef4d460ba0f186d4f9919f1ce79d996404e"
+      "multihash": "1220917c7f13e4d19134885618bc8c194ef4d460ba0f186d4f9919f1ce79d996404e",
+      "filename": "off-our-backs-vol-3-no-5.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://w3s.link/ipfs/bafybeigbbmu4rspn3lnc6ce3wo4w2kcxhlgczegsqkdrltr3lbreqlek4u"
     },
     {
       "name": "Your Own Label (Digital Scan)",
-      "fileName": "your-own-label.png",
-      "mediaType": "image/png",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeigjat5oubirj6wjlvqak5enfk4pxa2rg77wvtgguayio5oogm6ipq",
       "lang": "en",
       "hidden": true,
       "aliases": [],
-      "multihash": "1220823a05946383eca75eadb248b6fda315c218aa5435f094c5f8b1e1aa9a5b4dd2"
+      "multihash": "1220823a05946383eca75eadb248b6fda315c218aa5435f094c5f8b1e1aa9a5b4dd2",
+      "filename": "your-own-label.png",
+      "media_type": "image/png",
+      "source_url": "https://w3s.link/ipfs/bafybeigjat5oubirj6wjlvqak5enfk4pxa2rg77wvtgguayio5oogm6ipq"
     },
     {
       "name": "Citation",
-      "fileName": "off-our-backs-vol-3-no-5.bib",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreigpa72poc5mkkqlqnzodzmi3p62ttnuepkvidcynw5ngh3fzrqyo4",
       "hidden": true,
       "aliases": [],
-      "mediaType": "text/plain",
-      "multihash": "1220cf07f4f70bac52a0b8372e1e588dbfda9cdb423d5540c586dbad31f65cc61877"
+      "multihash": "1220cf07f4f70bac52a0b8372e1e588dbfda9cdb423d5540c586dbad31f65cc61877",
+      "filename": "off-our-backs-vol-3-no-5.bib",
+      "media_type": "text/plain",
+      "source_url": "https://w3s.link/ipfs/bafkreigpa72poc5mkkqlqnzodzmi3p62ttnuepkvidcynw5ngh3fzrqyo4"
     }
   ],
   "links": [
@@ -77,10 +77,10 @@
     "lesbian",
     "asexual"
   ],
-  "fromYear": 1973,
   "decades": [
     1970
   ],
   "aliases": [],
-  "id": "XjAOWBKYDkjd"
+  "id": "XjAOWBKYDkjd",
+  "from_year": 1973
 }

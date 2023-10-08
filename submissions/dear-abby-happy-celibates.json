@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "dear-abby-happy-celibates",
   "title": "\"Happy Celibates Want No Change\"",
   "summary": "An asexual *Dear Abby* letter writer responds to a statement Abby made about abstinence",
@@ -7,32 +7,32 @@
   "files": [
     {
       "name": "Digital Scan",
-      "fileName": "dear-abby-happy-celibates.png",
-      "mediaType": "image/png",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreibekbj4ukysmo4nh5htwwkxnodmntxfd5gh4q2pqrulrm4i7hczii",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "multihash": "1220245053ca2b1263b8d3f4f3b59576b86c6cee51f4c7e434f8468b8b388f9c5942"
+      "multihash": "1220245053ca2b1263b8d3f4f3b59576b86c6cee51f4c7e434f8468b8b388f9c5942",
+      "filename": "dear-abby-happy-celibates.png",
+      "media_type": "image/png",
+      "source_url": "https://w3s.link/ipfs/bafkreibekbj4ukysmo4nh5htwwkxnodmntxfd5gh4q2pqrulrm4i7hczii"
     },
     {
       "name": "Transcript",
-      "fileName": "dear-abby-happy-celibates-transcript/index.html",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreifzijrb4abwapzf3meezfc4fw2ocwdxjt6ys32qbbxzscb7ipfd3u",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/html",
-      "multihash": "1220b942621e003603f25db084c945c2db4e158774cfd896f50086f99083f43ca3dd"
+      "multihash": "1220b942621e003603f25db084c945c2db4e158774cfd896f50086f99083f43ca3dd",
+      "filename": "dear-abby-happy-celibates-transcript/index.html",
+      "media_type": "text/html",
+      "source_url": "https://w3s.link/ipfs/bafkreifzijrb4abwapzf3meezfc4fw2ocwdxjt6ys32qbbxzscb7ipfd3u"
     },
     {
       "name": "Citation",
-      "fileName": "dear-abby-happy-celibates.bib",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreic4i33iclomrkrynptgevzukgztnsj54kaatgnaalihynv3aijx2y",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/plain",
-      "multihash": "12205c46f6812dcc8aa386be662573451b336c93de2800999a002d07c36bb02137d6"
+      "multihash": "12205c46f6812dcc8aa386be662573451b336c93de2800999a002d07c36bb02137d6",
+      "filename": "dear-abby-happy-celibates.bib",
+      "media_type": "text/plain",
+      "source_url": "https://w3s.link/ipfs/bafkreic4i33iclomrkrynptgevzukgztnsj54kaatgnaalihynv3aijx2y"
     }
   ],
   "links": [
@@ -47,10 +47,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1981,
   "decades": [
     1980
   ],
   "aliases": [],
-  "id": "358ST884WFQJ"
+  "id": "358ST884WFQJ",
+  "from_year": 1981
 }
