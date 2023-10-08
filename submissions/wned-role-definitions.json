@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "wned-role-definitions",
   "title": "Conversation on gender role definitions",
   "summary": "A talk show conversation about gender roles and raising children which mentions asexuality",
@@ -18,10 +18,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1973,
   "decades": [
     1970
   ],
   "aliases": [],
-  "id": "RDuZDUkG11jT"
+  "id": "RDuZDUkG11jT",
+  "from_year": 1973
 }

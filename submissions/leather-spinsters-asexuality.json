@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "leather-spinsters-asexuality",
   "title": "Leather Spinsters: Asexuality",
   "summary": "A page on the website for the Leather Spinsters dedicated to their asexual members",
@@ -14,10 +14,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1998,
   "decades": [
     1990
   ],
   "aliases": [],
-  "id": "SCaYAlrbkPCi"
+  "id": "SCaYAlrbkPCi",
+  "from_year": 1998
 }

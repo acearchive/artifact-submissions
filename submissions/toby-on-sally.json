@@ -1,57 +1,57 @@
 {
-  "version": 1,
+  "version": 2,
   "title": "Toby on *Sally*",
   "summary": "Toby (Jim Sinclair) being interviewed on the talk show *Sally*",
   "files": [
     {
       "name": "Toby on Sally - Part 1",
-      "fileName": "toby-on-sally-part-1.mp4",
-      "mediaType": "video/mp4",
-      "sourceUrl": "https://bafybeiarwvaspffmljr7ksvnefeclizmnbt37feeh2pnkej7xgbrvb7mzq.ipfs.w3s.link/",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "multihash": "1220953333ce17d9a527b564c916b233ed34ce55bb8c12119b2e8ca19396d0296395"
+      "multihash": "1220953333ce17d9a527b564c916b233ed34ce55bb8c12119b2e8ca19396d0296395",
+      "filename": "toby-on-sally-part-1.mp4",
+      "media_type": "video/mp4",
+      "source_url": "https://bafybeiarwvaspffmljr7ksvnefeclizmnbt37feeh2pnkej7xgbrvb7mzq.ipfs.w3s.link/"
     },
     {
       "name": "Toby on Sally - Part 2",
-      "fileName": "toby-on-sally-part-2.mp4",
-      "mediaType": "video/mp4",
-      "sourceUrl": "https://bafybeifipxdxj2n2ua5dfvqw254mmujcckb7nauhc3vnlmizj32towfqbq.ipfs.w3s.link/",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "multihash": "1220cf5b84b08a82cfe4918da35509b51061f270615881d8d455c14257c203d3fa0a"
+      "multihash": "1220cf5b84b08a82cfe4918da35509b51061f270615881d8d455c14257c203d3fa0a",
+      "filename": "toby-on-sally-part-2.mp4",
+      "media_type": "video/mp4",
+      "source_url": "https://bafybeifipxdxj2n2ua5dfvqw254mmujcckb7nauhc3vnlmizj32towfqbq.ipfs.w3s.link/"
     },
     {
       "name": "Toby on Sally - Part 3",
-      "fileName": "toby-on-sally-part-3.mp4",
-      "mediaType": "video/mp4",
-      "sourceUrl": "https://bafybeibkug76jjo6mxjffuz36vlsi4hmgcwv256v2rtwcgdcffedonke2y.ipfs.w3s.link/",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "multihash": "122089bfcae0387845535d460e1767e07d467a3ca0a8747970a557c188eabbaf49bc"
+      "multihash": "122089bfcae0387845535d460e1767e07d467a3ca0a8747970a557c188eabbaf49bc",
+      "filename": "toby-on-sally-part-3.mp4",
+      "media_type": "video/mp4",
+      "source_url": "https://bafybeibkug76jjo6mxjffuz36vlsi4hmgcwv256v2rtwcgdcffedonke2y.ipfs.w3s.link/"
     },
     {
       "name": "Toby on Sally - Part 4",
-      "fileName": "toby-on-sally-part-4.mp4",
-      "mediaType": "video/mp4",
-      "sourceUrl": "https://bafybeigyoglfohmefq3sbs6qlr65l2hgpw7bvyboaa4h2xc37giety5igu.ipfs.w3s.link/",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "multihash": "1220a11b8a5e6dc599e99fb7348559381428f55ea74529e32a038f6cc4d70c21c135"
+      "multihash": "1220a11b8a5e6dc599e99fb7348559381428f55ea74529e32a038f6cc4d70c21c135",
+      "filename": "toby-on-sally-part-4.mp4",
+      "media_type": "video/mp4",
+      "source_url": "https://bafybeigyoglfohmefq3sbs6qlr65l2hgpw7bvyboaa4h2xc37giety5igu.ipfs.w3s.link/"
     },
     {
       "name": "Toby on Sally - Part 5",
-      "fileName": "toby-on-sally-part-5.mp4",
-      "mediaType": "video/mp4",
-      "sourceUrl": "https://bafybeiafaztnfftd3oiuk65uuiremyxcyee4davleu234gmzvix2i3hywi.ipfs.w3s.link/",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "multihash": "12203cede90ae213d7401a03b1527ebece43a1cec0e3a004a3371500c78f43ca08a7"
+      "multihash": "12203cede90ae213d7401a03b1527ebece43a1cec0e3a004a3371500c78f43ca08a7",
+      "filename": "toby-on-sally-part-5.mp4",
+      "media_type": "video/mp4",
+      "source_url": "https://bafybeiafaztnfftd3oiuk65uuiremyxcyee4davleu234gmzvix2i3hywi.ipfs.w3s.link/"
     }
   ],
   "links": [
@@ -67,11 +67,11 @@
     "asexual",
     "neuter"
   ],
-  "fromYear": 1989,
   "decades": [
     1980
   ],
   "slug": "toby-on-sally",
   "aliases": [],
-  "id": "iP6QdSaIJCAK"
+  "id": "iP6QdSaIJCAK",
+  "from_year": 1989
 }

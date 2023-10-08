@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "village-voice-afraid-to-ask",
   "title": "\"\\*Afraid to Ask\"",
   "summary": "A satirical reader submission criticizing sex in the media, responding to an article on asexuality",
@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "Citation",
-      "fileName": "afraid-to-ask.bib",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/afraid-to-ask.bib",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/x-bibtex",
-      "multihash": "1220c93df694261e3744fc0e1dcafc38c1d133307e7f8e16853245f7dcc76afeda91"
+      "multihash": "1220c93df694261e3744fc0e1dcafc38c1d133307e7f8e16853245f7dcc76afeda91",
+      "filename": "afraid-to-ask.bib",
+      "media_type": "text/x-bibtex",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/afraid-to-ask.bib"
     },
     {
       "name": "Transcript",
-      "fileName": "afraid-to-ask-transcript.html",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/afraid-to-ask-transcript.html",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/html",
-      "multihash": "1220e86f29311945924378bcdc79f2f63ba312bef61e4dc40b93666b9a6bb3a1158a"
+      "multihash": "1220e86f29311945924378bcdc79f2f63ba312bef61e4dc40b93666b9a6bb3a1158a",
+      "filename": "afraid-to-ask-transcript.html",
+      "media_type": "text/html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/afraid-to-ask-transcript.html"
     }
   ],
   "links": [
@@ -37,10 +37,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1971,
   "decades": [
     1970
   ],
   "aliases": [],
-  "id": "HlKbsy7Lw0Fq"
+  "id": "HlKbsy7Lw0Fq",
+  "from_year": 1971
 }

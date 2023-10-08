@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "coyote-aro-throwback-hour",
   "title": "\"Aro Throwback Hour\"",
   "summary": "A compilation of links on aromantic discourse from the years 2010-2013",
@@ -20,11 +20,11 @@
   "identities": [
     "aromantic"
   ],
-  "fromYear": 2010,
-  "toYear": 2013,
   "decades": [
     2010
   ],
   "aliases": [],
-  "id": "fDqRu5Im2H22"
+  "id": "fDqRu5Im2H22",
+  "from_year": 2010,
+  "to_year": 2013
 }

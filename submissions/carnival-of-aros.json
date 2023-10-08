@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "carnival-of-aros",
   "title": "A Carnival of Aros",
   "summary": "A monthly blogging carnival centered on the aromantic spectrum",
@@ -17,12 +17,12 @@
   "identities": [
     "aromantic"
   ],
-  "fromYear": 2019,
-  "toYear": 2023,
   "decades": [
     2010,
     2020
   ],
   "aliases": [],
-  "id": "DCibebWCOSjJ"
+  "id": "DCibebWCOSjJ",
+  "from_year": 2019,
+  "to_year": 2023
 }

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "carnival-of-aces",
   "title": "A Carnival of Aces",
   "summary": "A monthly blogging carnival centered on the asexual spectrum",
@@ -17,12 +17,12 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 2011,
-  "toYear": 2023,
   "decades": [
     2010,
     2020
   ],
   "aliases": [],
-  "id": "uwJEzGZklEiR"
+  "id": "uwJEzGZklEiR",
+  "from_year": 2011,
+  "to_year": 2023
 }

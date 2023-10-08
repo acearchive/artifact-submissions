@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "brake-minimizing-marriage",
   "title": "*Minimizing Marriage: Marriage, Morality, and the Law*",
   "summary": "A feminist work which first coined the term \"amatonormativity\"",
@@ -7,21 +7,21 @@
   "files": [
     {
       "name": "Book",
-      "fileName": "minimizing-marriage.pdf",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/minimizing-marriage.pdf",
       "hidden": false,
       "aliases": [],
-      "mediaType": "application/pdf",
-      "multihash": "12201dfade1718c5b8a11e943ceb34eed404f6a1df1279ac661de7bd4312420128c9"
+      "multihash": "12201dfade1718c5b8a11e943ceb34eed404f6a1df1279ac661de7bd4312420128c9",
+      "filename": "minimizing-marriage.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/minimizing-marriage.pdf"
     },
     {
       "name": "Citation",
-      "fileName": "minimizing-marriage.bib",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/minimizing-marriage.bib",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/x-bibtex",
-      "multihash": "1220002dd368e34e53c5ce71729d5a63ca761423d4aed84d449e2256466c360a55c3"
+      "multihash": "1220002dd368e34e53c5ce71729d5a63ca761423d4aed84d449e2256466c360a55c3",
+      "filename": "minimizing-marriage.bib",
+      "media_type": "text/x-bibtex",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/minimizing-marriage.bib"
     }
   ],
   "links": [
@@ -36,10 +36,10 @@
   "identities": [
     "aromantic"
   ],
-  "fromYear": 2012,
   "decades": [
     2010
   ],
   "aliases": [],
-  "id": "f6rgHBn9CfNr"
+  "id": "f6rgHBn9CfNr",
+  "from_year": 2012
 }

@@ -1,18 +1,18 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "david-jay-the-view",
   "title": "David Jay on *The View*",
   "summary": "David Jay, founder of AVEN, is interviewed on ABC's *The View*",
   "files": [
     {
       "name": "Interview",
-      "fileName": "david-jay-the-view.mp4",
-      "mediaType": "video/mp4",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeiaun6yq5eblmjgnk2cq6lgbx4hbcfbtprddspr7e3cmphjvpj57xu",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "multihash": "12201c9ea02cede8fc8d454a5efc7c944fb27fcb03c61799976ddd10ababc863b47d"
+      "multihash": "12201c9ea02cede8fc8d454a5efc7c944fb27fcb03c61799976ddd10ababc863b47d",
+      "filename": "david-jay-the-view.mp4",
+      "media_type": "video/mp4",
+      "source_url": "https://w3s.link/ipfs/bafybeiaun6yq5eblmjgnk2cq6lgbx4hbcfbtprddspr7e3cmphjvpj57xu"
     }
   ],
   "links": [
@@ -27,10 +27,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 2006,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "x2obCtXM38Dp"
+  "id": "x2obCtXM38Dp",
+  "from_year": 2006
 }

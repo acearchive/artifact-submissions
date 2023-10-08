@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "sciatrix-throes-of-unrequited-like",
   "title": "\"Writhing in the Throes of Unrequited Like\"",
   "summary": "The term \"WTFromantic\" is coined in a blog post",
@@ -21,10 +21,10 @@
     "aromantic",
     "WTFromantic"
   ],
-  "fromYear": 2011,
   "decades": [
     2010
   ],
   "aliases": [],
-  "id": "Ogjb2qcK9CqY"
+  "id": "Ogjb2qcK9CqY",
+  "from_year": 2011
 }

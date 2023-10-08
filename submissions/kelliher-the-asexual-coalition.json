@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "kelliher-the-asexual-coalition",
   "title": "The Asexual Coalition",
   "summary": "A site that defines asexuality as abstaining from romantic and sexual relationships",
@@ -16,10 +16,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1997,
   "decades": [
     1990
   ],
   "aliases": [],
-  "id": "JdSxCbpaNvrj"
+  "id": "JdSxCbpaNvrj",
+  "from_year": 1997
 }

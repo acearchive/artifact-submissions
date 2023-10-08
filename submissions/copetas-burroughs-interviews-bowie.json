@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "copetas-burroughs-interviews-bowie",
   "title": "William Burroughs interviews David Bowie",
   "summary": "An interview with David Bowie in which he talks about asexuality",
@@ -20,10 +20,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1974,
   "decades": [
     1970
   ],
   "aliases": [],
-  "id": "jHQ0bvOaYllU"
+  "id": "jHQ0bvOaYllU",
+  "from_year": 1974
 }

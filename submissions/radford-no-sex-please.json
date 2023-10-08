@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "radford-no-sex-please",
   "title": "\"No sex please, we're asexual\"",
   "summary": "An article in *The Guardian* about asexuality which mentions AVEN and quotes asexual people",
@@ -21,10 +21,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 2004,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "nXn2LQq3brJj"
+  "id": "nXn2LQq3brJj",
+  "from_year": 2004
 }

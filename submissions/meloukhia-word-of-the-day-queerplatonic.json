@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "meloukhia-word-of-the-day-queerplatonic",
   "title": "\"Word of the Day: Queerplatonic\"",
   "summary": "The term \"queerplatonic\" is first introduced on Tumblr by its coiner",
@@ -17,10 +17,10 @@
     "aromantic",
     "queerplatonic"
   ],
-  "fromYear": 2011,
   "decades": [
     2010
   ],
   "aliases": [],
-  "id": "U5YRvHfykQGR"
+  "id": "U5YRvHfykQGR",
+  "from_year": 2011
 }

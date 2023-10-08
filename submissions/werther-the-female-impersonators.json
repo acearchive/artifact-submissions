@@ -1,37 +1,37 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "werther-the-female-impersonators",
   "title": "*The Female Impersonators*",
   "summary": "A book which describes \"anaphrodites,\" who never desire or pursue marriage, courtship, or sex",
   "files": [
     {
       "name": "Book",
-      "fileName": "the-female-impersonators.pdf",
-      "sourceUrl": "https://ia600603.us.archive.org/7/items/femaleimpersonat00wert/femaleimpersonat00wert.pdf",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "application/pdf",
-      "multihash": "12205dd2019fa9068c58bd6afa7412b67005cc9752bbcd2d250a955c56e4b216ef5c"
+      "multihash": "12205dd2019fa9068c58bd6afa7412b67005cc9752bbcd2d250a955c56e4b216ef5c",
+      "filename": "the-female-impersonators.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://ia600603.us.archive.org/7/items/femaleimpersonat00wert/femaleimpersonat00wert.pdf"
     },
     {
       "name": "OCR Transcript",
-      "fileName": "the-female-impersonators-transcript.txt",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-female-impersonators-transcript.txt",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/plain",
-      "multihash": "12200ebdf8003e572763bbc2b06af91046c4e1bd84b383b7d1336835fb8409a0a404"
+      "multihash": "12200ebdf8003e572763bbc2b06af91046c4e1bd84b383b7d1336835fb8409a0a404",
+      "filename": "the-female-impersonators-transcript.txt",
+      "media_type": "text/plain",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-female-impersonators-transcript.txt"
     },
     {
       "name": "Citation",
-      "fileName": "the-female-impersonators.bib",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-female-impersonators.bib",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/x-bibtex",
-      "multihash": "1220ae4fd3723cfb7c5e5fbdb078d3c5edddf6035a8570e84c6591998c1ff32d2c67"
+      "multihash": "1220ae4fd3723cfb7c5e5fbdb078d3c5edddf6035a8570e84c6591998c1ff32d2c67",
+      "filename": "the-female-impersonators.bib",
+      "media_type": "text/x-bibtex",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-female-impersonators.bib"
     }
   ],
   "links": [
@@ -47,10 +47,10 @@
     "asexual",
     "anaphrodite"
   ],
-  "fromYear": 1922,
   "decades": [
     1920
   ],
   "aliases": [],
-  "id": "rXHCbyj2CtOk"
+  "id": "rXHCbyj2CtOk",
+  "from_year": 1922
 }

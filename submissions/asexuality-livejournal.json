@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "asexuality-livejournal",
   "title": "Asexuality LiveJournal",
   "summary": "An asexual LiveJournal community, which was one of the first sex-positive asexual discussion forums",
@@ -17,10 +17,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 2002,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "3iNPW4EdzvMU"
+  "id": "3iNPW4EdzvMU",
+  "from_year": 2002
 }

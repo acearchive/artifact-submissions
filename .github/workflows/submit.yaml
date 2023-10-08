@@ -33,6 +33,9 @@ jobs:
       - name: "Checkout"
         uses: actions/checkout@v3
         with:
+          # The action needs to be able to tell which files have been modified
+          # in this PR.
+          fetch-depth: 0
           token: ${{ steps.token.outputs.token }}
       - name: "Submit"
         id: submit
@@ -41,15 +44,15 @@ jobs:
           mode: ${{ inputs.mode }}
           path: "submissions/"
           base_url: "https://${{ vars.ACE_ARCHIVE_FILES_DOMAIN }}/artifacts"
+          base_ref: ${{ github.base_ref }}
           s3_endpoint: ${{ vars.ARTIFACTS_R2_ENDPOINT }}
           s3_bucket: ${{ vars.ARTIFACTS_R2_BUCKET }}
           s3_prefix: "artifacts/"
           s3_region: "auto"
           s3_access_key_id: ${{ secrets.R2_ACCESS_KEY_ID }}
           s3_secret_access_key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          cloudflare_account_id: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
-          cloudflare_api_token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          kv_namespace_id: ${{ vars.ARTIFACTS_KV_NAMESPACE_ID }}
+          submission_worker_secret: ${{ secrets.SUBMISSION_WORKER_PASSWORD }}
+          submission_worker_domain: ${{ vars.SUBMISSION_WORKER_DOMAIN }}
       - name: "Commit Changes"
         uses: "stefanzweifel/git-auto-commit-action@v4"
         with:

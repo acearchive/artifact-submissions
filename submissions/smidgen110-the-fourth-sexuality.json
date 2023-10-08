@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "smidgen110-the-fourth-sexuality",
   "title": "\"The Fourth Sexuality\"",
   "summary": "A blog post where the author identifies as nonsexual and talks about the invalidation they face",
@@ -17,10 +17,10 @@
     "asexual",
     "nonsexual"
   ],
-  "fromYear": 2002,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "jeSJPu8ZOLWp"
+  "id": "jeSJPu8ZOLWp",
+  "from_year": 2002
 }

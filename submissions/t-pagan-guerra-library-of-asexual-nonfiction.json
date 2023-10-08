@@ -1,17 +1,17 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "t-pagan-guerra-library-of-asexual-nonfiction",
   "title": "Library of Asexual Nonfiction",
   "summary": "A bibliography of nonfiction books about asexuality",
   "files": [
     {
       "name": "Bibliography",
-      "fileName": "asexual-nonfiction-bibliography.bib",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/asexual-nonfiction-bibliography.bib",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/x-bibtex",
-      "multihash": "1220e527f68d63570a99646f83bb7e65565ac8cb1fb8207ce577bc659aa6eefb2439"
+      "multihash": "1220e527f68d63570a99646f83bb7e65565ac8cb1fb8207ce577bc659aa6eefb2439",
+      "filename": "asexual-nonfiction-bibliography.bib",
+      "media_type": "text/x-bibtex",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/asexual-nonfiction-bibliography.bib"
     }
   ],
   "links": [
@@ -28,13 +28,13 @@
     "aromantic",
     "demisexual"
   ],
-  "fromYear": 1993,
-  "toYear": 2023,
   "decades": [
     1990,
     2010,
     2020
   ],
   "aliases": [],
-  "id": "pMKChw2ygvwR"
+  "id": "pMKChw2ygvwR",
+  "from_year": 1993,
+  "to_year": 2023
 }

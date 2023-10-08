@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "duenwald-saying-no-is-easy",
   "title": "\"For Them, Just Saying No Is Easy\"",
   "summary": "An article in the *New York Times* about asexuality",
@@ -21,10 +21,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 2005,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "VeJMSkMqCk3J"
+  "id": "VeJMSkMqCk3J",
+  "from_year": 2005
 }

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "tngirltech-asexualism-page",
   "title": "TNGirlTech’s Asexualism Page",
   "summary": "A pre-AVEN FAQ page on asexuality",
@@ -17,10 +17,10 @@
     "asexual",
     "nonsexual"
   ],
-  "fromYear": 2001,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "vyO83RCbA8dE"
+  "id": "vyO83RCbA8dE",
+  "from_year": 2001
 }

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "sennkestra-asexual-research-bibliography",
   "title": "Asexual Research Bibliography",
   "summary": "A comprehensive bibliography of academic research on asexuality",
@@ -7,12 +7,12 @@
   "files": [
     {
       "name": "Bibliography",
-      "fileName": "asexual-research-bibliography.bib",
-      "sourceUrl": "https://files.acearchive.lgbt/artifacts/sennkestra-asexual-research-bibliography/asexual-research-bibliography.bib",
       "hidden": false,
       "aliases": [],
       "multihash": "122083eda62b676d52936eeb3a4d9e50f4265655c2236e60370fadb983d541f94c99",
-      "mediaType": "text/x-bibtex"
+      "filename": "asexual-research-bibliography.bib",
+      "media_type": "text/x-bibtex",
+      "source_url": "https://files.acearchive.lgbt/artifacts/sennkestra-asexual-research-bibliography/asexual-research-bibliography.bib"
     }
   ],
   "links": [
@@ -27,8 +27,6 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1977,
-  "toYear": 2022,
   "decades": [
     1970,
     1980,
@@ -38,5 +36,7 @@
     2020
   ],
   "aliases": [],
-  "id": "naURP0G5TYgD"
+  "id": "naURP0G5TYgD",
+  "from_year": 1977,
+  "to_year": 2022
 }

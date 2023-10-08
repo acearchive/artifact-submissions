@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "solanas-the-scum-manifesto",
   "title": "*The SCUM Manifesto*",
   "summary": "A misandrist manifesto that mentions asexuality by name",
@@ -21,10 +21,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1968,
   "decades": [
     1960
   ],
   "aliases": [],
-  "id": "ouYFksZV6LIV"
+  "id": "ouYFksZV6LIV",
+  "from_year": 1968
 }

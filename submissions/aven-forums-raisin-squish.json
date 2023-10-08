@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "aven-forums-raisin-squish",
   "title": "\"\\*SQUISH!\\*\"",
   "summary": "The term \"squish\" is coined in an AVEN forum thread",
@@ -20,10 +20,10 @@
   "identities": [
     "aromantic"
   ],
-  "fromYear": 2007,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "eBL4HFzTVIfx"
+  "id": "eBL4HFzTVIfx",
+  "from_year": 2007
 }

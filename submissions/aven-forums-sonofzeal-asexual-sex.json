@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "aven-forums-sonofzeal-asexual-sex",
   "title": "\"Asexual sex\"",
   "summary": "The term \"demisexual\" is coined in an AVEN forum thread",
@@ -21,10 +21,10 @@
     "asexual",
     "demisexual"
   ],
-  "fromYear": 2006,
   "decades": [
     2000
   ],
   "aliases": [],
-  "id": "hyURgyzMNTsV"
+  "id": "hyURgyzMNTsV",
+  "from_year": 2006
 }

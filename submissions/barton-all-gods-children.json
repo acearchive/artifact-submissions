@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "barton-all-gods-children",
   "title": "\"All God's Children Need Love\" Gay Freedom Day Parade",
   "summary": "A photo featuring a sign for equal rights for queer people, including asexuals",
@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "Photo",
-      "fileName": "all-gods-children.jpeg",
-      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5b53b13285ede173115cb784/1592247131131-GOTVHWZE2C0BSPPBK9WE/Bi+Picture+copy.jpeg",
       "hidden": false,
       "aliases": [],
-      "mediaType": "image/jpeg",
-      "multihash": "12205729b91a0919b2020838a30e3218c3ed765f3ecfccad18e161302741a18bd55f"
+      "multihash": "12205729b91a0919b2020838a30e3218c3ed765f3ecfccad18e161302741a18bd55f",
+      "filename": "all-gods-children.jpeg",
+      "media_type": "image/jpeg",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/5b53b13285ede173115cb784/1592247131131-GOTVHWZE2C0BSPPBK9WE/Bi+Picture+copy.jpeg"
     },
     {
       "name": "Image Transcript",
-      "fileName": "all-gods-children-transcript.html",
-      "sourceUrl": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/all-gods-children-transcript.html",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/html",
-      "multihash": "12208df65017dbc810fb0a92f44e362a89a8ad760118cbdcbb1cfa681f79c60a2fb2"
+      "multihash": "12208df65017dbc810fb0a92f44e362a89a8ad760118cbdcbb1cfa681f79c60a2fb2",
+      "filename": "all-gods-children-transcript.html",
+      "media_type": "text/html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/all-gods-children-transcript.html"
     }
   ],
   "links": [
@@ -37,10 +37,10 @@
   "identities": [
     "asexual"
   ],
-  "fromYear": 1973,
   "decades": [
     1970
   ],
   "aliases": [],
-  "id": "z4trfOPcqpYU"
+  "id": "z4trfOPcqpYU",
+  "from_year": 1973
 }

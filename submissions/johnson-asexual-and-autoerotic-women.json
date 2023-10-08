@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "slug": "johnson-asexual-and-autoerotic-women",
   "title": "\"Asexual and Autoerotic Women: Two Invisible Groups\"",
   "summary": "One of the first academic papers on asexuality",
@@ -7,32 +7,32 @@
   "files": [
     {
       "name": "Digital Scan",
-      "fileName": "asexual-and-autoerotic-women.pdf",
-      "mediaType": "application/pdf",
-      "sourceUrl": "https://w3s.link/ipfs/bafybeiddkkdrgrue73tdh5alepcqhao6h3t3xrsfn3nvxucmeond23cj2u",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "multihash": "1220afd169afda0304854432635ad9ce7d8a172cf337116b8ac95aa4f6743e143da1"
+      "multihash": "1220afd169afda0304854432635ad9ce7d8a172cf337116b8ac95aa4f6743e143da1",
+      "filename": "asexual-and-autoerotic-women.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://w3s.link/ipfs/bafybeiddkkdrgrue73tdh5alepcqhao6h3t3xrsfn3nvxucmeond23cj2u"
     },
     {
       "name": "Transcript",
-      "fileName": "asexual-and-autoerotic-women-transcript/index.html",
-      "mediaType": "text/html",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreihvqgyu6lxjarvmaodoil5lepex346zoygfm23nrildteinjsjqku",
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "multihash": "1220f581b14f2ee9046ac0386e42fab23c97df3d9760c566b6d8a1639910d4c93055"
+      "multihash": "1220f581b14f2ee9046ac0386e42fab23c97df3d9760c566b6d8a1639910d4c93055",
+      "filename": "asexual-and-autoerotic-women-transcript/index.html",
+      "media_type": "text/html",
+      "source_url": "https://w3s.link/ipfs/bafkreihvqgyu6lxjarvmaodoil5lepex346zoygfm23nrildteinjsjqku"
     },
     {
       "name": "The Sexually Oppressed (Citation)",
-      "fileName": "the-sexually-oppressed.bib",
-      "sourceUrl": "https://w3s.link/ipfs/bafkreibi5rtpoimxvevnyif7f5bxx43wbas37egewb544oirds42jm3b44",
       "hidden": false,
       "aliases": [],
-      "mediaType": "text/plain",
-      "multihash": "122028ec66f72197a92adc20bf2f437bf3760825bf90c4b07bce39111cb9a4b361e7"
+      "multihash": "122028ec66f72197a92adc20bf2f437bf3760825bf90c4b07bce39111cb9a4b361e7",
+      "filename": "the-sexually-oppressed.bib",
+      "media_type": "text/plain",
+      "source_url": "https://w3s.link/ipfs/bafkreibi5rtpoimxvevnyif7f5bxx43wbas37egewb544oirds42jm3b44"
     }
   ],
   "links": [],
@@ -43,10 +43,10 @@
     "asexual",
     "autoerotic"
   ],
-  "fromYear": 1977,
   "decades": [
     1970
   ],
   "aliases": [],
-  "id": "eBfOdvW8kR86"
+  "id": "eBfOdvW8kR86",
+  "from_year": 1977
 }
