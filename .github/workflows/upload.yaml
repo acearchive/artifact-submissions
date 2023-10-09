@@ -1,7 +1,5 @@
 name: "Upload Submissions"
 
-# Because Workers KV is an eventually consistent system, we need to ensure that
-# only one process is ever writing to the KV namespace at a time.
 concurrency: "upload"
 
 on:
