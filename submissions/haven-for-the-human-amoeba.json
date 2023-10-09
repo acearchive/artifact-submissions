@@ -20,18 +20,6 @@
     {
       "name": "Browsable Archive",
       "url": "https://hha.acearchive.lgbt/"
-    },
-    {
-      "name": "Source Code",
-      "url": "https://github.com/acearchive/yahoo-groups-reader"
-    },
-    {
-      "name": "AVEN Thread",
-      "url": "https://www.asexuality.org/en/topic/190662-python-coders-wanted-help-save-the-haven-for-the-human-amoeba-archives/"
-    },
-    {
-      "name": "AVEN Thread",
-      "url": "https://web.archive.org/web/20220809044315/https://www.asexuality.org/en/topic/190662-python-coders-wanted-help-save-the-haven-for-the-human-amoeba-archives/"
     }
   ],
   "people": [
@@ -49,10 +37,7 @@
     "neuter",
     "nonsexual"
   ],
-  "decades": [
-    2000,
-    2010
-  ],
+  "decades": [2000, 2010],
   "aliases": [],
   "from_year": 2000,
   "to_year": 2019
