@@ -18,5 +18,5 @@ jobs:
     with:
       mode: "validate"
       # We default to HEAD~1 for pull_request events.
-      base_ref: ${{ github.event.inputs.base_ref || "HEAD~1" }}
+      base_ref: ${{ github.event.inputs.base_ref || 'HEAD~1' }}
     secrets: inherit
