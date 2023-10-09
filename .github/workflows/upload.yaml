@@ -1,17 +1,16 @@
 name: "Upload Submissions"
 
-# Because Workers KV is an eventually consistent system, we need to ensure that
-# only one process is ever writing to the KV namespace at a time.
 concurrency: "upload"
 
 on:
   workflow_dispatch:
-  push:
-    paths: ["submissions/*.json"]
-    branches: ["main"]
+  pull_request_review:
+    types: ["submitted"]
 
 jobs:
   submit:
+    # Only run on approving PR reviews.
+    if: github.event.review.state == 'APPROVED'
     name: "Submit Artifacts"
     uses: ./.github/workflows/submit.yaml
     with:
