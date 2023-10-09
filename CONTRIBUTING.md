@@ -15,8 +15,8 @@ start with `[Edit]`.
 To add a submission to the archive, you need to check it into this repo as a
 JSON file under the [`submissions/`](./submissions/) directory. At this point,
 you can make any changes you deem necessary to the user's submission by hand.
-The name of the JSON file should be the artifact slug. You should open a PR with
-the change; do not commit directly to `main`.
+The name of the JSON file should be the artifact slug. You must open a PR with
+the change; committing directly to `main` is disallowed by the repo settings.
 
 The PR title should start with `[Submission]` or `[Edit]`. Link to the issue
 number in the PR body.
@@ -37,13 +37,11 @@ fields, it's important that you follow each of the URLs of files in the
 submission to make sure they point where you expect them to. The idea is to make
 sure the links are direct download links and not web pages, the files haven't
 been deleted since the user created the submission, the files aren't malicious,
-etc. When you merge the PR, a second CI job will compare the hash again before
+etc. When you approve the PR, a second CI job will compare the hash again before
 uploading it to Ace Archive to make sure the file hasn't changed out from under
-you since you manually reviewed it. You want to do this review after the
-validation job (which calculates the hash) runs but before you merge the PR so
-that you can be sure the file doesn't change out from under you.
+you since you reviewed it.
 
-Once your PR in this repo is merged, the artifact will be returned by the Ace
+Once your PR in this repo is approved, the artifact will be returned by the Ace
 Archive API, but will not yet appear on the website. To make the artifact appear
 on the site, you need to check out the
 [acearchive/acearchive.lgbt](https://github.com/acearchive/acearchive.lgbt) repo

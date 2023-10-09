@@ -22,9 +22,9 @@ team members can manually edit the JSON if necessary without the bot overwriting
 their changes. Likewise, team members can delete the file hash or media type
 fields to have the bot recalculate them.
 
-When a PR is merged, the action downloads the files, re-hashes them to verify
-that the contents at the URL haven't changed since the PR was approved, and then
-uploads them to Ace Archive.
+When a PR is approved, the action downloads the files, re-hashes them to verify
+that the contents at the URL haven't changed, and then uploads them to Ace
+Archive.
 
 Additionally,
 [acearchive/hugo-artifact-action](https://github.com/acearchive/hugo-artifact-action)
