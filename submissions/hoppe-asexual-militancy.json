@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "slug": "hoppe-asexual-militancy",
+  "title": "\"The Innocent Bystander: Asexual Militancy\"",
+  "summary": "An interview with the president of the Asexual Liberation Movement",
+  "description": "An interview with the president of the Asexual Liberation Movement, who claims \"No one is born an A\"",
+  "files": [
+    {
+      "name": "Transcript",
+      "filename": "asexual-militancy-transcript.html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/asexual-militancy-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "filename": "asexual-militancy.bib",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/asexual-militancy.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Google Books",
+      "url": "https://books.google.com/books?id=_1pOAAAAIBAJ&pg=PA5#v=onepage&q&f=false"
+    }
+  ],
+  "people": ["Art Hoppe", "C. Wordsworth Gates"],
+  "identities": ["asexual", "A"],
+  "from_year": 1979,
+  "decades": [1970],
+  "aliases": []
+}
