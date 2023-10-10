@@ -21,7 +21,7 @@
       "aliases": [],
       "multihash": "12204e4e53304670ce995c42eb6eca31a3afab6318bcd15f9af437fd2ed484cb963c",
       "filename": "kertbeny-paragraph-143.bib",
-      "media_type": "text/plain",
+      "media_type": "text/x-bibtex",
       "source_url": "https://w3s.link/ipfs/bafkreicojzjtartqz2mvyqxln3fddi5pvnrrrpgrl6npin75f3kijs4whq"
     }
   ],
@@ -31,13 +31,9 @@
       "url": "https://katalog.ub.uni-leipzig.de/Record/0-1657911586"
     }
   ],
-  "people": [
-    "Karl-Maria Kertbeny"
-  ],
+  "people": ["Karl-Maria Kertbeny"],
   "identities": [],
-  "decades": [
-    1860
-  ],
+  "decades": [1860],
   "aliases": [],
   "id": "CVXPgQ7YrpDw",
   "from_year": 1869

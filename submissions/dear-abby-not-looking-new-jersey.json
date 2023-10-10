@@ -31,7 +31,7 @@
       "aliases": [],
       "multihash": "1220374f79fb3f94bcd8fdeb8ecee1be0d404333cdc463566514e72205b9cf30c533",
       "filename": "dear-abby-not-looking.bib",
-      "media_type": "text/plain",
+      "media_type": "text/x-bibtex",
       "source_url": "https://w3s.link/ipfs/bafkreibxj547wp4uxtmp324oz3q34dkaimz43rddkzsrjzzcaw446mgfgm"
     }
   ],
@@ -41,15 +41,9 @@
       "url": "https://news.google.com/newspapers?id=7q8_AAAAIBAJ&sjid=31YMAAAAIBAJ&pg=6814%2C6344642"
     }
   ],
-  "people": [
-    "Abigail Van Buren"
-  ],
-  "identities": [
-    "asexual"
-  ],
-  "decades": [
-    1990
-  ],
+  "people": ["Abigail Van Buren"],
+  "identities": ["asexual"],
+  "decades": [1990],
   "aliases": [],
   "id": "iySYZcG1zAmw",
   "from_year": 1995

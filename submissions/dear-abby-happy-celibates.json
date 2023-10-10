@@ -31,7 +31,7 @@
       "aliases": [],
       "multihash": "12205c46f6812dcc8aa386be662573451b336c93de2800999a002d07c36bb02137d6",
       "filename": "dear-abby-happy-celibates.bib",
-      "media_type": "text/plain",
+      "media_type": "text/x-bibtex",
       "source_url": "https://w3s.link/ipfs/bafkreic4i33iclomrkrynptgevzukgztnsj54kaatgnaalihynv3aijx2y"
     }
   ],
@@ -41,15 +41,9 @@
       "url": "https://news.google.com/newspapers?id=u0dBAAAAIBAJ&sjid=6qgMAAAAIBAJ&pg=6478%2C148486"
     }
   ],
-  "people": [
-    "Abigail Van Buren"
-  ],
-  "identities": [
-    "asexual"
-  ],
-  "decades": [
-    1980
-  ],
+  "people": ["Abigail Van Buren"],
+  "identities": ["asexual"],
+  "decades": [1980],
   "aliases": [],
   "id": "358ST884WFQJ",
   "from_year": 1981

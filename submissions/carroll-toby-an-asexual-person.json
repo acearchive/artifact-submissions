@@ -31,7 +31,7 @@
       "aliases": [],
       "multihash": "1220f33129491d3cc847ba47fc030bd743d2ae89230d0de733f22fa247a39aba47d2",
       "filename": "sexuality-now-embracing-diversity.bib",
-      "media_type": "text/plain",
+      "media_type": "text/x-bibtex",
       "source_url": "https://w3s.link/ipfs/bafkreihtgeuushj4zbd3ur74amf5oq6sv2esgdin44z7el5ci6rzvosh2i"
     }
   ],
@@ -41,18 +41,9 @@
       "url": "https://www.google.com/books/edition/Sexuality_Now_Embracing_Diversity/nKwJzgEACAAJ?hl=en"
     }
   ],
-  "people": [
-    "Jim Sinclair"
-  ],
-  "identities": [
-    "intersex",
-    "non-binary",
-    "neuter",
-    "asexual"
-  ],
-  "decades": [
-    2000
-  ],
+  "people": ["Jim Sinclair"],
+  "identities": ["intersex", "non-binary", "neuter", "asexual"],
+  "decades": [2000],
   "aliases": [],
   "id": "K27yw93kgkFz",
   "from_year": 2006

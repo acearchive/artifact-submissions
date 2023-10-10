@@ -31,7 +31,7 @@
       "aliases": [],
       "multihash": "1220d9bf0462dd438d1bbdcb713828ad4401aa58d9b2b0026ba5a3b95ef78ac26092",
       "filename": "hirschfeld-sexualpathologie.bib",
-      "media_type": "text/plain",
+      "media_type": "text/x-bibtex",
       "source_url": "https://w3s.link/ipfs/bafkreigzx4cgfxkdrun33s3rhauk2rabvjmntmvqajv2li5zl33yvqtasi"
     }
   ],
@@ -49,15 +49,9 @@
       "url": "https://web.archive.org/web/20220120124921/https://www.asexuality.org/en/topic/98639-indirect-mentions-of-asexuality-in-magnus-hirschfelds-books/"
     }
   ],
-  "people": [
-    "Magnus Hirschfeld"
-  ],
-  "identities": [
-    "asexual"
-  ],
-  "decades": [
-    1920
-  ],
+  "people": ["Magnus Hirschfeld"],
+  "identities": ["asexual"],
+  "decades": [1920],
   "aliases": [],
   "id": "ih6XiwIOYsv0",
   "from_year": 1921
