@@ -11,8 +11,15 @@
     }
   ],
   "people": [],
-  "identities": ["asexual", "lesbian", "celibate"],
+  "identities": [
+    "asexual",
+    "lesbian",
+    "celibate"
+  ],
   "from_year": 1972,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "UNpu3vcEfnwA"
 }
