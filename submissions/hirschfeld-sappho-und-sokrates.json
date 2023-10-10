@@ -39,9 +39,15 @@
       "url": "https://web.archive.org/web/20220120124921/https://www.asexuality.org/en/topic/98639-indirect-mentions-of-asexuality-in-magnus-hirschfelds-books/"
     }
   ],
-  "people": ["Magnus Hirschfeld"],
-  "identities": ["asexual"],
-  "decades": [1890],
+  "people": [
+    "Magnus Hirschfeld"
+  ],
+  "identities": [
+    "asexual"
+  ],
+  "decades": [
+    1890
+  ],
   "aliases": [],
   "id": "KVTv9LGw4ToR",
   "from_year": 1896

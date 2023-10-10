@@ -36,9 +36,15 @@
     }
   ],
   "links": [],
-  "people": ["Richard von Krafft-Ebing"],
-  "identities": ["asexual"],
-  "decades": [1880],
+  "people": [
+    "Richard von Krafft-Ebing"
+  ],
+  "identities": [
+    "asexual"
+  ],
+  "decades": [
+    1880
+  ],
   "aliases": [],
   "id": "GwIJ2igXQdvs",
   "from_year": 1886

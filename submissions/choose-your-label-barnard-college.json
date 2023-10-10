@@ -79,9 +79,16 @@
     }
   ],
   "people": [],
-  "identities": ["asexual", "lesbian"],
-  "decades": [1970],
-  "aliases": ["choose-your-label-bernard-college"],
+  "identities": [
+    "asexual",
+    "lesbian"
+  ],
+  "decades": [
+    1970
+  ],
+  "aliases": [
+    "choose-your-label-bernard-college"
+  ],
   "id": "cmD6HyZzoISB",
   "from_year": 1973
 }

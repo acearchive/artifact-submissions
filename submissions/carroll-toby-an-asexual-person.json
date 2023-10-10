@@ -41,9 +41,18 @@
       "url": "https://www.google.com/books/edition/Sexuality_Now_Embracing_Diversity/nKwJzgEACAAJ?hl=en"
     }
   ],
-  "people": ["Jim Sinclair"],
-  "identities": ["intersex", "non-binary", "neuter", "asexual"],
-  "decades": [2000],
+  "people": [
+    "Jim Sinclair"
+  ],
+  "identities": [
+    "intersex",
+    "non-binary",
+    "neuter",
+    "asexual"
+  ],
+  "decades": [
+    2000
+  ],
   "aliases": [],
   "id": "K27yw93kgkFz",
   "from_year": 2006
