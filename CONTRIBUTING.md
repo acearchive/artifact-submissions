@@ -57,3 +57,15 @@ This will update the `go.mod` and `go.sum` files. You can then commit these
 changes to the repo. Committing this change directly to `main` is probably safe,
 although you may want to check out what the artifact page will look like on the
 site first by using `npm run server` to spin up a local instance of the site.
+
+## Manually Dispatching Workflows
+
+The CI workflow only validates/uploads submission files which are different from
+the parent commit. That's how we determine whether an artifact submission has
+changed and needs to be reuploaded. Typically, this should work fine.
+
+However, if you ever need to run one of the workflows manually, you have to
+remember that it will only affect files modified since the parent commit. If you
+need to bypass this restriction, you can specify the base ref to diff against
+when you trigger a workflow via `workflow_dispatch`. You'll be prompted with a
+dialog, where the default base ref is `HEAD~1`.
