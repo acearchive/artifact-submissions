@@ -11,14 +11,18 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/not-a-freak-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/html",
+      "multihash": "1220806ddc7596489e2e621ebb03a937f57926414d88bdeec4a77a53bda8aea9e61c"
     },
     {
       "name": "Citation",
       "filename": "not-a-freak.bib",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/not-a-freak.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "1220cb65ac0018da8b649cd1ae9ebb20e0688e8214ca95b511334f63ce5bcc4b8183"
     }
   ],
   "links": [
@@ -27,9 +31,16 @@
       "url": "https://books.google.com/books?id=WTUzAAAAIBAJ&pg=PA4#v=onepage&q&f=false"
     }
   ],
-  "people": ["Ann Landers"],
-  "identities": ["asexual"],
+  "people": [
+    "Ann Landers"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "from_year": 1979,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "7RgeBXniHigL"
 }
