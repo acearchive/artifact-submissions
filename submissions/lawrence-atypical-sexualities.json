@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "slug": "lawrence-atypical-sexualities",
+  "title": "\"Atypical sexualities face oppression\"",
+  "summary": "A newspaper article in which a sex therapist expresses concern about celibates being labelled as asexual",
+  "files": [
+    {
+      "name": "Transcript",
+      "filename": "atypical-sexualities-transcript.html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/atypical-sexualities-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "filename": "atypical-sexualities.bib",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/atypical-sexualities.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Google Books",
+      "url": "https://books.google.com/books?id=WFsyAAAAIBAJ&pg=PA13#v=onepage&q&f=false"
+    }
+  ],
+  "people": ["Dennis Dailey"],
+  "identities": ["asexual", "celibate"],
+  "from_year": 1979,
+  "decades": [1970],
+  "aliases": []
+}
