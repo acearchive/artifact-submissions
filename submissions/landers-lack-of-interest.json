@@ -11,14 +11,18 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-interest-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/html",
+      "multihash": "1220d7b7d190ff86e4d087b498b28049f94e25dda53061444341e75a4cc0136eeaeb"
     },
     {
       "name": "Citation",
       "filename": "lack-of-interest.bib",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-interest.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "1220be7ba375b836aaa1512e78b74fd437e9708a2f87a3788a58cc41be163b7bf104"
     }
   ],
   "links": [
@@ -27,9 +31,16 @@
       "url": "https://books.google.com/books?id=_SBKAAAAIBAJ&pg=PA4#v=onepage&q&f=false"
     }
   ],
-  "people": ["Ann Landers"],
-  "identities": ["asexual"],
+  "people": [
+    "Ann Landers"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "from_year": 1983,
-  "decades": [1980],
-  "aliases": []
+  "decades": [
+    1980
+  ],
+  "aliases": [],
+  "id": "KhXKx7bQn6ev"
 }
