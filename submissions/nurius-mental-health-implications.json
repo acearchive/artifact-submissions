@@ -10,14 +10,18 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/mental-health-implications-of-sexual-orientation.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "122046399ea07bbd054358600ed694e4b2638481123789c9c39718bde0ad8bc40793"
     },
     {
       "name": "Citation",
       "filename": "mental-health-implications-of-sexual-orientation.bib",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/mental-health-implications-of-sexual-orientation.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "1220cf8ed78649c853df5f62d0d82a40a7c79e5b52ea6ca99be8d1c34f0a6e802168"
     }
   ],
   "links": [
@@ -26,9 +30,16 @@
       "url": "https://www.tandfonline.com/doi/abs/10.1080/00224498309551174"
     }
   ],
-  "people": ["Paula S. Nurius"],
-  "identities": ["asexual"],
+  "people": [
+    "Paula S. Nurius"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "from_year": 1983,
-  "decades": [1980],
-  "aliases": []
+  "decades": [
+    1980
+  ],
+  "aliases": [],
+  "id": "YQVf7HB1UJpP"
 }
