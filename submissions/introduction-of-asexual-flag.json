@@ -30,9 +30,17 @@
       "url": "https://www.asexuality.org/en/topic/53435-asexual-flag-and-the-winner-is/"
     }
   ],
-  "people": ["bristrek", "standup"],
-  "identities": ["asexual"],
-  "decades": [2000, 2010],
+  "people": [
+    "bristrek",
+    "standup"
+  ],
+  "identities": [
+    "asexual"
+  ],
+  "decades": [
+    2000,
+    2010
+  ],
   "aliases": [],
   "id": "0XPaZ7HyJVfM",
   "from_year": 2009,

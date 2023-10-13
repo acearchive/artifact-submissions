@@ -10,9 +10,15 @@
       "url": "https://www.rollingstone.com/feature/beat-godfather-meets-glitter-mainman-william-burroughs-interviews-david-bowie-92508/"
     }
   ],
-  "people": ["David Bowie"],
-  "identities": ["asexual"],
-  "decades": [1970],
+  "people": [
+    "David Bowie"
+  ],
+  "identities": [
+    "asexual"
+  ],
+  "decades": [
+    1970
+  ],
   "aliases": [],
   "id": "jHQ0bvOaYllU",
   "from_year": 1974

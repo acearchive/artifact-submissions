@@ -21,9 +21,16 @@
       "url": "https://digitalcommons.augustana.edu/wollstonecraftaward/41/"
     }
   ],
-  "people": ["Jaclyn Hernandez"],
-  "identities": ["asexual", "aromantic"],
-  "decades": [2020],
+  "people": [
+    "Jaclyn Hernandez"
+  ],
+  "identities": [
+    "asexual",
+    "aromantic"
+  ],
+  "decades": [
+    2020
+  ],
   "aliases": [],
   "id": "spcX90OYN8vV",
   "from_year": 2021

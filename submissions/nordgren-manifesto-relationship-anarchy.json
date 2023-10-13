@@ -35,9 +35,13 @@
       "url": "https://log.andie.se/post/26652940513/the-short-instructional-manifesto-for-relationship"
     }
   ],
-  "people": ["Andie Nordgren"],
+  "people": [
+    "Andie Nordgren"
+  ],
   "identities": [],
-  "decades": [2000],
+  "decades": [
+    2000
+  ],
   "aliases": [],
   "id": "PGQPnYtDNspJ",
   "from_year": 2006

@@ -31,9 +31,15 @@
       "url": "https://doi.org/10.1080/00224490409552235"
     }
   ],
-  "people": ["Anthony Bogaert"],
-  "identities": ["asexual"],
-  "decades": [2000],
+  "people": [
+    "Anthony Bogaert"
+  ],
+  "identities": [
+    "asexual"
+  ],
+  "decades": [
+    2000
+  ],
   "aliases": [],
   "id": "rbArjAmvNnIi",
   "from_year": 2004
