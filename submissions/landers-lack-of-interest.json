@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "slug": "landers-lack-of-interest",
+  "title": "\"St. Louis Woman Needs Therapy To Deal With Lack of Interest\"",
+  "summary": "An advice columnist suggests that a reader's asexuality is the result of anxiety and inhibitions",
+  "description": "A newspaper article in which a reader writes in to ask if they could be asexual, and the columnist defers to a doctor who pathologizes her asexuality",
+  "files": [
+    {
+      "name": "Transcript",
+      "filename": "lack-of-interest-transcript.html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-interest-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "filename": "lack-of-interest.bib",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lack-of-interest.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Google Books",
+      "url": "https://books.google.com/books?id=_SBKAAAAIBAJ&pg=PA4#v=onepage&q&f=false"
+    }
+  ],
+  "people": ["Ann Landers"],
+  "identities": ["asexual"],
+  "from_year": 1983,
+  "decades": [1980],
+  "aliases": []
+}
