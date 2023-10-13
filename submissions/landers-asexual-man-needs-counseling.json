@@ -11,14 +11,18 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/asexual-man-needs-counseling-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/html",
+      "multihash": "1220b90500f4fbf30abfcdbe61e58dffb4d657463e227b0e41c62d8dc9d1db09c838"
     },
     {
       "name": "Citation",
       "filename": "asexual-man-needs-counseling.bib",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/asexual-man-needs-counseling.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "1220606eb4bdafbd15900848d38be99847a3c5494d6ed14afa173baa314c7305141b"
     }
   ],
   "links": [
@@ -27,9 +31,16 @@
       "url": "https://books.google.com/books?id=O5AxAAAAIBAJ&pg=PA11#v=onepage&q&f=false"
     }
   ],
-  "people": ["Ann Landers"],
-  "identities": ["asexual"],
+  "people": [
+    "Ann Landers"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "from_year": 1983,
-  "decades": [1980],
-  "aliases": []
+  "decades": [
+    1980
+  ],
+  "aliases": [],
+  "id": "T3qvMRFaHPpV"
 }
