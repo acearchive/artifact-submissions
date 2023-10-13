@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "slug": "landers-asexual-man-needs-counseling",
+  "title": "\"Asexual Man Needs Counseling, Not Advice\"",
+  "summary": "An advice columnist suggests the reason a reader is asexual is his \"fear of close relationships\"",
+  "description": "A self-described asexual writes in to an advice column, where he is told he needs counseling for his \"fear of close relationships\"",
+  "files": [
+    {
+      "name": "Transcript",
+      "filename": "asexual-man-needs-counseling-transcript.html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/asexual-man-needs-counseling-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "filename": "asexual-man-needs-counseling.bib",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/asexual-man-needs-counseling.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Google Books",
+      "url": "https://books.google.com/books?id=O5AxAAAAIBAJ&pg=PA11#v=onepage&q&f=false"
+    }
+  ],
+  "people": ["Ann Landers"],
+  "identities": ["asexual"],
+  "from_year": 1983,
+  "decades": [1980],
+  "aliases": []
+}
