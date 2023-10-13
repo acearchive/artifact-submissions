@@ -9,21 +9,11 @@
     {
       "name": "Article",
       "url": "https://www.theguardian.com/science/2004/oct/14/science.research1"
-    },
-    {
-      "name": "Article",
-      "url": "https://web.archive.org/web/20210731082634/https://www.theguardian.com/science/2004/oct/14/science.research1"
     }
   ],
-  "people": [
-    "Tim Radford"
-  ],
-  "identities": [
-    "asexual"
-  ],
-  "decades": [
-    2000
-  ],
+  "people": ["Tim Radford"],
+  "identities": ["asexual"],
+  "decades": [2000],
   "aliases": [],
   "id": "nXn2LQq3brJj",
   "from_year": 2004

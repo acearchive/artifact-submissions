@@ -8,21 +8,11 @@
     {
       "name": "Pillowfort",
       "url": "https://www.pillowfort.social/posts/2580244"
-    },
-    {
-      "name": "Pillowfort",
-      "url": "https://web.archive.org/web/20230924154110/https://www.pillowfort.social/posts/2580244"
     }
   ],
-  "people": [
-    "Coyote"
-  ],
-  "identities": [
-    "aromantic"
-  ],
-  "decades": [
-    2010
-  ],
+  "people": ["Coyote"],
+  "identities": ["aromantic"],
+  "decades": [2010],
   "aliases": [],
   "id": "fDqRu5Im2H22",
   "from_year": 2010,

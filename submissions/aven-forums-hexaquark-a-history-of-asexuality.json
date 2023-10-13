@@ -8,21 +8,11 @@
     {
       "name": "Forum Thread",
       "url": "https://www.asexuality.org/en/topic/62278-a-history-of-asexuality"
-    },
-    {
-      "name": "Forum Thread",
-      "url": "https://web.archive.org/web/20210716012607/https://www.asexuality.org/en/topic/62278-a-history-of-asexuality/"
     }
   ],
-  "people": [
-    "hexaquark"
-  ],
-  "identities": [
-    "asexual"
-  ],
-  "decades": [
-    2010
-  ],
+  "people": ["hexaquark"],
+  "identities": ["asexual"],
+  "decades": [2010],
   "aliases": [],
   "id": "uiK0Mgomz3yF",
   "from_year": 2011

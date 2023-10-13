@@ -8,22 +8,11 @@
     {
       "name": "Forum Thread",
       "url": "https://www.asexuality.org/en/topic/15539-gray-as/"
-    },
-    {
-      "name": "Forum Thread",
-      "url": "https://web.archive.org/web/20220328213011/https://www.asexuality.org/en/topic/15539-gray-as/"
     }
   ],
-  "people": [
-    "KSpaz"
-  ],
-  "identities": [
-    "asexual",
-    "gray-asexual"
-  ],
-  "decades": [
-    2000
-  ],
+  "people": ["KSpaz"],
+  "identities": ["asexual", "gray-asexual"],
+  "decades": [2000],
   "aliases": [],
   "id": "S4BHsMdFia0w",
   "from_year": 2006

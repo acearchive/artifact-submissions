@@ -8,22 +8,11 @@
     {
       "name": "Forum Thread",
       "url": "https://www.asexuality.org/en/topic/14000-asexual-sex/"
-    },
-    {
-      "name": "Forum Thread",
-      "url": "https://web.archive.org/web/20220328213010/https://www.asexuality.org/en/topic/14000-asexual-sex/"
     }
   ],
-  "people": [
-    "sonofzeal"
-  ],
-  "identities": [
-    "asexual",
-    "demisexual"
-  ],
-  "decades": [
-    2000
-  ],
+  "people": ["sonofzeal"],
+  "identities": ["asexual", "demisexual"],
+  "decades": [2000],
   "aliases": [],
   "id": "hyURgyzMNTsV",
   "from_year": 2006
