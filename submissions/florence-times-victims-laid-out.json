@@ -11,14 +11,18 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/victims-laid-out-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/html",
+      "multihash": "122074b9a5d6238b7ec437786a6709b0be35c1a5ae16097bc30561e11da228feee4a"
     },
     {
       "name": "Citation",
       "filename": "victims-laid-out.bib",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/victims-laid-out.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "122098b138c876d7ce28e37ef6e273aa03b98ae420bd4b566f56398fee9cbfa768ca"
     }
   ],
   "links": [
@@ -28,8 +32,13 @@
     }
   ],
   "people": [],
-  "identities": ["asexual"],
+  "identities": [
+    "asexual"
+  ],
   "from_year": 1982,
-  "decades": [1980],
-  "aliases": []
+  "decades": [
+    1980
+  ],
+  "aliases": [],
+  "id": "RD27vaixManP"
 }
