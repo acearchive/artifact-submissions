@@ -11,14 +11,18 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/high-concept-movies-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/html",
+      "multihash": "1220520e4bb6a376ede651ae6234dd115f27d5ea5c7b5ed2c65a3b3f5da7c73b79f7"
     },
     {
       "name": "Citation",
       "filename": "high-concept-movies.bib",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/high-concept-movies.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "1220be91a9320335f7eea55eb40b80725e301087baaada994524b11e29264ba62dd4"
     }
   ],
   "links": [
@@ -27,9 +31,16 @@
       "url": "https://books.google.com/books?id=yApQAAAAIBAJ&pg=PA3#v=onepage&q&f=false"
     }
   ],
-  "people": ["Frank Sanello"],
-  "identities": ["asexual"],
+  "people": [
+    "Frank Sanello"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "from_year": 1986,
-  "decades": [1980],
-  "aliases": []
+  "decades": [
+    1980
+  ],
+  "aliases": [],
+  "id": "ImeEIIAxKlM9"
 }
