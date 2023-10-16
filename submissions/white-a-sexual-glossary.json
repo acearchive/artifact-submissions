@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "slug": "white-a-sexual-glossary",
+  "title": "\"A Sexual Glossary\"",
+  "summary": "A satirical glossary of queer identities which includes \"a-sexual\"",
+  "files": [
+    {
+      "name": "A Sexual Glossary",
+      "filename": "a-sexual-glossary.pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/a-sexual-glossary.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "The AIDS Project Newsletter, July 1988",
+      "filename": "aids-project-newsletter.pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/aids-project-newsletter.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "A Sexual Glossary (Transcript)",
+      "filename": "a-sexual-glossary-transcript.html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/a-sexual-glossary-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "A Sexual Glossary (Citation)",
+      "filename": "a-sexual-glossary.bib",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/a-sexual-glossary.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "USM Digital Commons",
+      "url": "https://digitalcommons.usm.maine.edu/aids_newsletter/14/"
+    }
+  ],
+  "people": ["Diane White"],
+  "identities": ["asexual", "antisexual", "nonsexual"],
+  "from_year": 1988,
+  "decades": [1980],
+  "aliases": []
+}
