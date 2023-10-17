@@ -11,14 +11,18 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/nonhomosexual-gender-dysphorias.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "122021dc364b4ecc4875e4533cc9ba4c18603e483ab401acf7280b708f56ec811e91"
     },
     {
       "name": "Citation",
       "filename": "nonhomosexual-gender-dysphorias.bib",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/nonhomosexual-gender-dysphorias.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "122070e8bf7d25c37185fb386aeac5a000d0c28d3d061648394855f74a10927cf967"
     }
   ],
   "links": [
@@ -27,9 +31,19 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/2673136/"
     }
   ],
-  "people": ["Ray Blanchard"],
-  "identities": ["asexual", "transgender", "analloerotic", "automonosexual"],
+  "people": [
+    "Ray Blanchard"
+  ],
+  "identities": [
+    "asexual",
+    "transgender",
+    "analloerotic",
+    "automonosexual"
+  ],
   "from_year": 1989,
-  "decades": [1980],
-  "aliases": []
+  "decades": [
+    1980
+  ],
+  "aliases": [],
+  "id": "H1QBfRWrKpy9"
 }
