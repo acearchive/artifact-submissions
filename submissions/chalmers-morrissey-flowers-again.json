@@ -11,9 +11,18 @@
       "url": "https://web.archive.org/web/20031229035929/http://motorcycleaupairboy.com/interviews/1992/observer.htm"
     }
   ],
-  "people": ["Robert Chalmers", "Morrissey"],
-  "identities": ["asexual", "celibate"],
+  "people": [
+    "Robert Chalmers",
+    "Morrissey"
+  ],
+  "identities": [
+    "asexual",
+    "celibate"
+  ],
   "from_year": 1992,
-  "decades": [1990],
-  "aliases": []
+  "decades": [
+    1990
+  ],
+  "aliases": [],
+  "id": "CjyqeVnJkgcb"
 }
