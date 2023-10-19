@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "slug": "chalmers-morrissey-flowers-again",
-  "title": "\"Morrissey flowers again\"",
+  "slug": "chalmers-morrissey-no-sex-please",
+  "title": "\"No Sex Please, I'm Morrissey\"",
   "summary": "An interview with the British pop singer Morrissey which discusses his sexuality and celibacy",
   "description": "An interview with the British pop singer Morrissey in which Morrissey discusses being celibate and the interviewer speculates about his sexuality",
   "files": [],
@@ -23,6 +23,8 @@
   "decades": [
     1990
   ],
-  "aliases": [],
+  "aliases": [
+    "chalmers-morrissey-flowers-again"
+  ],
   "id": "CjyqeVnJkgcb"
 }
