@@ -3,7 +3,7 @@
   "slug": "blanchard-nonhomosexual-gender-dysphorias",
   "title": "\"The Classification and Labeling of Nonhomosexual Gender Dysphorias\"",
   "summary": "A paper in which the author attempts to categorize transgender people by their sexual orientation, including asexuals",
-  "description": "A paper in which the author attempts to categorize transgender people by their sexual orientation, including \"analloerotics,\" who can be subclassified as \"automonosexual\" or asexual",
+  "description": "A now-discredited paper in which the author presents and unsubstantiated typology of transgender people categorizing them by their sexual orientation. This typology includes \"analloerotics,\" who can be subclassified as \"automonosexual\" or \"asexual.\" (CW: transphobia, misgendering, stereotypes of trans people)",
   "files": [
     {
       "name": "Paper",
@@ -31,19 +31,10 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/2673136/"
     }
   ],
-  "people": [
-    "Ray Blanchard"
-  ],
-  "identities": [
-    "asexual",
-    "transgender",
-    "analloerotic",
-    "automonosexual"
-  ],
+  "people": ["Ray Blanchard"],
+  "identities": ["asexual", "transgender", "analloerotic", "automonosexual"],
   "from_year": 1989,
-  "decades": [
-    1980
-  ],
+  "decades": [1980],
   "aliases": [],
   "id": "H1QBfRWrKpy9"
 }
