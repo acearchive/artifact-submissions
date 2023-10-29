@@ -31,9 +31,16 @@
       "url": "https://doi.org/10.1007/BF01541220"
     }
   ],
-  "people": ["Peter M. Bentler"],
-  "identities": ["asexual", "transgender"],
-  "decades": [1970],
+  "people": [
+    "Peter M. Bentler"
+  ],
+  "identities": [
+    "asexual",
+    "transgender"
+  ],
+  "decades": [
+    1970
+  ],
   "aliases": [],
   "id": "0TAcFGvq6fSM",
   "from_year": 1976
