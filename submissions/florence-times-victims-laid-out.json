@@ -32,9 +32,13 @@
     }
   ],
   "people": [],
-  "identities": ["asexual"],
+  "identities": [
+    "asexual"
+  ],
   "from_year": 1982,
-  "decades": [1980],
+  "decades": [
+    1980
+  ],
   "aliases": [],
   "id": "RD27vaixManP"
 }
