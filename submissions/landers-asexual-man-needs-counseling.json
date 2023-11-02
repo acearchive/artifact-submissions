@@ -31,10 +31,16 @@
       "url": "https://books.google.com/books?id=O5AxAAAAIBAJ&pg=PA11#v=onepage&q&f=false"
     }
   ],
-  "people": ["Ann Landers"],
-  "identities": ["asexual"],
+  "people": [
+    "Ann Landers"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "from_year": 1983,
-  "decades": [1980],
+  "decades": [
+    1980
+  ],
   "aliases": [],
   "id": "T3qvMRFaHPpV"
 }
