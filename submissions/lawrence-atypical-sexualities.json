@@ -31,10 +31,17 @@
       "url": "https://books.google.com/books?id=WFsyAAAAIBAJ&pg=PA13#v=onepage&q&f=false"
     }
   ],
-  "people": ["Dennis Dailey"],
-  "identities": ["asexual", "celibate"],
+  "people": [
+    "Dennis Dailey"
+  ],
+  "identities": [
+    "asexual",
+    "celibate"
+  ],
   "from_year": 1979,
-  "decades": [1970],
+  "decades": [
+    1970
+  ],
   "aliases": [],
   "id": "WU2c8JsZxcDE"
 }
