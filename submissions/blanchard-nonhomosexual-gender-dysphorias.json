@@ -31,10 +31,19 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/2673136/"
     }
   ],
-  "people": ["Ray Blanchard"],
-  "identities": ["asexual", "transgender", "analloerotic", "automonosexual"],
+  "people": [
+    "Ray Blanchard"
+  ],
+  "identities": [
+    "asexual",
+    "transgender",
+    "analloerotic",
+    "automonosexual"
+  ],
   "from_year": 1989,
-  "decades": [1980],
+  "decades": [
+    1980
+  ],
   "aliases": [],
   "id": "H1QBfRWrKpy9"
 }
