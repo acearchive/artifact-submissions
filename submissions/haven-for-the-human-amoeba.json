@@ -37,7 +37,10 @@
     "neuter",
     "nonsexual"
   ],
-  "decades": [2000, 2010],
+  "decades": [
+    2000,
+    2010
+  ],
   "aliases": [],
   "from_year": 2000,
   "to_year": 2019
