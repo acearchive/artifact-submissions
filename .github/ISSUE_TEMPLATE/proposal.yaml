@@ -34,28 +34,12 @@ body:
         Machine](https://web.archive.org/) links are fine!
     validations:
       required: true
-  - type: input
-    id: people
+  - type: textarea
+    id: warnings
     attributes:
-      label: "People"
+      label: "Content warnings"
       description: >
-        List any significant people associated with this content, if applicable.
-        It could be the author of a book, a commenter in a forum thread, the
-        subject of a photo, etc.
-  - type: input
-    id: identities
-    attributes:
-      label: "Identities"
-      description: >
-        List any specific queer identities associated with this content. Is this
-        a blog post about non-binary people? A book about aromanticism?
-  - type: input
-    id: years
-    attributes:
-      label: "Years"
-      description: >
-        When was this content published/written/posted? This can be a range of
-        years.
+        Are there any content warnings which should be attached to this content?
   - type: textarea
     id: extra
     attributes:
