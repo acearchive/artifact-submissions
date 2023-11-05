@@ -3,6 +3,7 @@
   "slug": "david-jay-tucker",
   "title": "David Jay on *Tucker*",
   "summary": "David Jay, founder of AVEN, is interviewed on MSNBC's *Tucker*",
+  "description": "David Jay, founder of AVEN, is interviewed on MSNBC's *Tucker* (CW: acephobia)",
   "files": [
     {
       "name": "Video",
@@ -21,15 +22,9 @@
       "url": "https://youtu.be/Iwxo6t7XBYs"
     }
   ],
-  "people": [
-    "David Jay"
-  ],
-  "identities": [
-    "asexual"
-  ],
-  "decades": [
-    2000
-  ],
+  "people": ["David Jay"],
+  "identities": ["asexual"],
+  "decades": [2000],
   "aliases": [],
   "id": "Qg7ng3bkN8Ab",
   "from_year": 2006
