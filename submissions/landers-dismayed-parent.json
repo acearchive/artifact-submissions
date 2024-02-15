@@ -11,14 +11,18 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/dismayed-parent-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/html",
+      "multihash": "12200d61d436ccecf4fcf978ee37caf81358591aca2f9e322a298460fa2b620eeaf8"
     },
     {
       "name": "Citation",
       "filename": "dismayed-parent.bib",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/dismayed-parent.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "122058f3b60ba94732cc83f45846427bc9adb40b3c438123746ccb8166c0cd256708"
     }
   ],
   "links": [
@@ -27,9 +31,18 @@
       "url": "https://books.google.com/books?id=DawkAAAAIBAJ&pg=PA13#v=onepage&q&f=false"
     }
   ],
-  "people": ["Ann Landers"],
-  "identities": ["homosexual", "bisexual", "asexual"],
+  "people": [
+    "Ann Landers"
+  ],
+  "identities": [
+    "homosexual",
+    "bisexual",
+    "asexual"
+  ],
   "from_year": 1992,
-  "decades": [1990],
-  "aliases": []
+  "decades": [
+    1990
+  ],
+  "aliases": [],
+  "id": "zNL11xo7gILl"
 }
