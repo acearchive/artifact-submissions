@@ -12,8 +12,7 @@
       "lang": "en",
       "hidden": false,
       "aliases": [],
-      "media_type": "text/html",
-      "multihash": "12203d35d88bf06d6da00be5b9da0a7fb0703d39f2ab74fb4ffc13902ece4cb910a2"
+      "media_type": "text/html"
     },
     {
       "name": "Citation",
@@ -31,17 +30,10 @@
       "url": "https://books.google.com/books?id=7uUyAAAAIBAJ&pg=PA13#v=onepage&q&f=false"
     }
   ],
-  "people": [
-    "Shirl Kasper"
-  ],
-  "identities": [
-    "asexual",
-    "celibate"
-  ],
+  "people": ["Shirl Kasper"],
+  "identities": ["asexual", "celibate"],
   "from_year": 1993,
-  "decades": [
-    1990
-  ],
+  "decades": [1990],
   "aliases": [],
   "id": "Sgj95CG2d9G0"
 }
