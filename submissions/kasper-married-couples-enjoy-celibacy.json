@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "slug": "kasper-married-couples-enjoy-celibacy",
+  "title": "\"Some married couples enjoy celibacy\"",
+  "summary": "A newspaper article about married couples who are celibate",
+  "description": "A newspaper article about married couples who are celibate, either by mutual agreement, or to the dissatisfaction of one partner",
+  "files": [
+    {
+      "name": "Transcript",
+      "filename": "married-couples-enjoy-celibacy-transcript.html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/married-couples-enjoy-celibacy-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "text/html",
+      "multihash": "1220d0fcc45df738d921478e0e52d8d9be8709b74cf714bdafbadd0dad643bf93abb"
+    },
+    {
+      "name": "Citation",
+      "filename": "married-couples-enjoy-celibacy.bib",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/married-couples-enjoy-celibacy.bib",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "1220c47da98cedb83ccfe1e8929ae02f584df622b489ea07c0c95d8bd18fdbd6277b"
+    }
+  ],
+  "links": [
+    {
+      "name": "Google Books",
+      "url": "https://books.google.com/books?id=7uUyAAAAIBAJ&pg=PA13#v=onepage&q&f=false"
+    }
+  ],
+  "people": [
+    "Shirl Kasper"
+  ],
+  "identities": [
+    "asexual",
+    "celibate"
+  ],
+  "from_year": 1993,
+  "decades": [
+    1990
+  ],
+  "aliases": [],
+  "id": "Sgj95CG2d9G0"
+}
