@@ -11,14 +11,18 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/gender-flex.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "122096996ff34866dbb96f11c70f026ec70346434cc99d2b4642863a144f6abe8565"
     },
     {
       "name": "Citation",
       "filename": "veronica-variations.bib",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/veronica-variations.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "12200e04b88feb4ceb72e17deb03f96d50d3432f92b58906333a492c3cc712e4037e"
     }
   ],
   "links": [
@@ -27,9 +31,18 @@
       "url": "https://www.digitaltransgenderarchive.net/files/qn59q4121"
     }
   ],
-  "people": ["Veronica Smith"],
-  "identities": ["asexual", "monosexual", "intersex"],
+  "people": [
+    "Veronica Smith"
+  ],
+  "identities": [
+    "asexual",
+    "monosexual",
+    "intersex"
+  ],
   "from_year": 1993,
-  "decades": [1990],
-  "aliases": []
+  "decades": [
+    1990
+  ],
+  "aliases": [],
+  "id": "csDk4LqnT1bP"
 }
