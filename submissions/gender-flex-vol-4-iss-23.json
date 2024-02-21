@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "slug": "gender-flex-vol-4-iss-23",
+  "title": "*Gender Flex*, vol. 4, iss. 23",
+  "summary": "An article in a queer newsjournal that mentions that trans men can be of any orientation, including asexual",
+  "files": [
+    {
+      "name": "GenderFlex",
+      "filename": "gender-flex.pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/gender-flex.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "filename": "perspective-from-a-transgendered-man.bib",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/perspective-from-a-transgendered-man.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Digital Transgender Archive",
+      "url": "https://www.digitaltransgenderarchive.net/files/gx41mh96x"
+    }
+  ],
+  "people": ["Michael Hernandez"],
+  "identities": ["asexual", "transgender"],
+  "from_year": 1994,
+  "decades": [1990],
+  "aliases": []
+}
