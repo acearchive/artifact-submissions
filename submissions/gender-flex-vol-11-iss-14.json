@@ -10,14 +10,18 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/gender-flex.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "12205279bf295df3952879e973bd1302b3d6dc31edea172de179c8c8b6760691dab3"
     },
     {
       "name": "Citation",
       "filename": "billie-jean-blabs.bib",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/billie-jean-blabs.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "1220b821ebd132bb99b8d3753be2e8ca65689b15ac307b485481d1f4a222baf959ab"
     }
   ],
   "links": [
@@ -26,10 +30,18 @@
       "url": "https://www.digitaltransgenderarchive.net/files/2227mp76z"
     }
   ],
-  "people": ["Billie Jean Jones"],
-  "identities": ["asexual", "onosexual"],
+  "people": [
+    "Billie Jean Jones"
+  ],
+  "identities": [
+    "asexual",
+    "onosexual"
+  ],
   "from_year": 1992,
   "to_year": 1993,
-  "decades": [1990],
-  "aliases": []
+  "decades": [
+    1990
+  ],
+  "aliases": [],
+  "id": "W1yBDu5IQeAR"
 }
