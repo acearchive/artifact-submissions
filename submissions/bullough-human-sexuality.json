@@ -11,14 +11,18 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/human-sexuality-an-encyclopedia.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "12202183a19c683dedd707259469a8bb0428c9322ae739b9e5ff68118199eef78c7f"
     },
     {
       "name": "Citation (Lovemaps)",
       "filename": "lovemaps.bib",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/lovemaps.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "1220cf57e5ae6f6e6eedcffe78b43a6cf92e6d3dfc347036c72689fa7001e3f788e8"
     }
   ],
   "links": [
@@ -27,9 +31,18 @@
       "url": "https://archive.org/details/humansexuality00arie/page/372/mode/2up"
     }
   ],
-  "people": ["Vern L. Bullough", "Bonnie Bullough"],
-  "identities": ["asexual", "anerotic"],
+  "people": [
+    "Vern L. Bullough",
+    "Bonnie Bullough"
+  ],
+  "identities": [
+    "asexual",
+    "anerotic"
+  ],
   "from_year": 1994,
-  "decades": [1990],
-  "aliases": []
+  "decades": [
+    1990
+  ],
+  "aliases": [],
+  "id": "tV2ZQOli4LSi"
 }
