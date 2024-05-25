@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "slug": "liber-between-mental-health",
+  "title": "\"Between Mental Health and Mental Disease\"",
+  "summary": "A medical case study that describes a woman who does not want to have sex with her husband as asexual",
+  "description": "A medical case study that describes a woman who does not want to have sex with her husband or anyone else as asexual (CW: pathologizing asexuality, conflating asexuality with being intersex)",
+  "files": [
+    {
+      "name": "New York State Journal of Medicine (Full Text)",
+      "filename": "journal-of-medicine.pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/journal-of-medicine.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Partial Transcript",
+      "filename": "between-mental-health-partial-transcript.html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/journal-of-medicine-partial-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Internet Archive",
+      "url": "https://archive.org/details/in.ernet.dli.2015.67832/page/n454/mode/1up?q=Asexual"
+    }
+  ],
+  "people": ["B Liber"],
+  "identities": ["asexual"],
+  "from_year": 1939,
+  "decades": [1930],
+  "aliases": []
+}
