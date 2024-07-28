@@ -11,7 +11,9 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-spinsters-prize-scan.jpg",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "image/jpeg",
+      "multihash": "12207b4687297fafdc85aec3253b72baf26316fef1a89459c6b992a2cbcd5c7b6a31"
     },
     {
       "name": "Transcript",
@@ -19,7 +21,9 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/the-spinsters-prize-transcript.html",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/html",
+      "multihash": "12209d323f05cec4dbf9c25187ed2308d435c79fc344816b4d111a77aeb73bbb29bb"
     }
   ],
   "links": [
@@ -33,8 +37,13 @@
     }
   ],
   "people": [],
-  "identities": ["spinster"],
+  "identities": [
+    "spinster"
+  ],
   "from_year": 1889,
-  "decades": [1880],
-  "aliases": []
+  "decades": [
+    1880
+  ],
+  "aliases": [],
+  "id": "nDljEHBr6WuV"
 }
