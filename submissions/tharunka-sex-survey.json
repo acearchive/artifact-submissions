@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "slug": "tharunka-sex-survey",
+  "title": "Tharunka Student Sex Survey Results",
+  "summary": "Results from an Australian (NSW) student survey where 2% of respondents said they were \"asexual (i.e. no sex drive)\".",
+  "files": [
+    {
+      "name": "Article",
+      "filename": "tharunka-sex-survey.pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/tharunka-sex-survey.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "Citation",
+      "filename": "tharunka-sex-survey.bib",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/tharunka-sex-survey.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [
+    {
+      "name": "Trove - National Library of Australia",
+      "url": "https://trove.nla.gov.au/newspaper/page/24738654"
+    }
+  ],
+  "people": [],
+  "identities": ["asexual", "homosexual", "bisexual"],
+  "from_year": 1980,
+  "decades": [1980],
+  "aliases": []
+}
