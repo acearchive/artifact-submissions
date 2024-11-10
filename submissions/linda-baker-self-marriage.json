@@ -11,9 +11,18 @@
       "url": "https://www.latimes.com/archives/la-xpm-1993-12-23-we-4659-story.html"
     }
   ],
-  "people": ["Linda Baker", "Patricia Ward Biederman"],
-  "identities": ["sologamous", "self-married"],
+  "people": [
+    "Linda Baker",
+    "Patricia Ward Biederman"
+  ],
+  "identities": [
+    "sologamous",
+    "self-married"
+  ],
   "from_year": 1993,
-  "decades": [1990],
-  "aliases": []
+  "decades": [
+    1990
+  ],
+  "aliases": [],
+  "id": "3pTVRI9kRN9u"
 }

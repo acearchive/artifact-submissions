@@ -10,14 +10,18 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/tharunka-sex-survey.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "122073b97a3146318dc7e171f8af038954560cd7ecd40103630fd28da06e4e7c40f1"
     },
     {
       "name": "Citation",
       "filename": "tharunka-sex-survey.bib",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/tharunka-sex-survey.bib",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "122022f6e1dee7b58ab365b7b98f063210b40b3d9879916a1d9d9f787d1bd6de43ca"
     }
   ],
   "links": [
@@ -27,8 +31,15 @@
     }
   ],
   "people": [],
-  "identities": ["asexual", "homosexual", "bisexual"],
+  "identities": [
+    "asexual",
+    "homosexual",
+    "bisexual"
+  ],
   "from_year": 1980,
-  "decades": [1980],
-  "aliases": []
+  "decades": [
+    1980
+  ],
+  "aliases": [],
+  "id": "twy8V5lKdSX6"
 }

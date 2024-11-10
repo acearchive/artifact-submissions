@@ -11,7 +11,9 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-impotence-male-and-female.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "12208327999d621961c9f8c2345ae70388c62832273b394a49028714544188cb0048"
     }
   ],
   "links": [
@@ -24,10 +26,17 @@
       "url": "https://archive.org/details/sexualimpotencei00hamm/"
     }
   ],
-  "people": ["William A Hammond"],
-  "identities": ["asexual"],
+  "people": [
+    "William A Hammond"
+  ],
+  "identities": [
+    "asexual"
+  ],
   "from_year": 1883,
   "to_year": 1887,
-  "decades": [1880],
-  "aliases": []
+  "decades": [
+    1880
+  ],
+  "aliases": [],
+  "id": "G5TzTK6tkXIn"
 }
