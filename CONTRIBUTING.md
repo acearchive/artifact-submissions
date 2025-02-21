@@ -50,7 +50,7 @@ on the site, you need to check out the
 and run:
 
 ```shell
-hugo mod get github.com/acearchive/hugo-artifacts
+npm run update-artifacts
 ```
 
 This will update the `go.mod` and `go.sum` files. You can then commit these
