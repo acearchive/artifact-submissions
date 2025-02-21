@@ -31,10 +31,18 @@
       "url": "https://www.digitaltransgenderarchive.net/files/1544bp20p"
     }
   ],
-  "people": ["Billie Jean Jones"],
-  "identities": ["asexual", "transgender", "transsexual"],
+  "people": [
+    "Billie Jean Jones"
+  ],
+  "identities": [
+    "asexual",
+    "transgender",
+    "transsexual"
+  ],
   "from_year": 1992,
-  "decades": [1990],
+  "decades": [
+    1990
+  ],
   "aliases": [],
   "id": "ehvbKRQ2Thgc"
 }

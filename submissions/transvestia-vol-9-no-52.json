@@ -33,9 +33,15 @@
     }
   ],
   "people": [],
-  "identities": ["asexual", "transvestite", "transsexual"],
+  "identities": [
+    "asexual",
+    "transvestite",
+    "transsexual"
+  ],
   "from_year": 1968,
-  "decades": [1960],
+  "decades": [
+    1960
+  ],
   "aliases": [],
   "id": "Mk81Z9GfUdpb"
 }
