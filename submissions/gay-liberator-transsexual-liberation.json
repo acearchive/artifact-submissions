@@ -52,13 +52,8 @@
     }
   ],
   "people": [],
-  "identities": [
-    "transgender",
-    "asexual"
-  ],
-  "decades": [
-    1970
-  ],
+  "identities": ["transsexual", "transvestite", "asexual"],
+  "decades": [1970],
   "aliases": [],
   "id": "FJXeTAaaQbjY",
   "from_year": 1971
