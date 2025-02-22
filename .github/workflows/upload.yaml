@@ -24,6 +24,7 @@ jobs:
     uses: ./.github/workflows/submit.yaml
     with:
       mode: "upload"
+      ref: ${{ github.event.inputs.ref || github.ref }}
       # We default to HEAD~1 for push events.
       base_ref: ${{ github.event.inputs.base_ref || 'HEAD~1' }}
     secrets: inherit
@@ -31,6 +32,10 @@ jobs:
     name: "Generate Hugo Files"
     needs: submit
     runs-on: ubuntu-latest
+    # We only have one repos for generated Hugo files rather than separate repos
+    # for the dev and prod environments, so we should only run this job on prod
+    # deployments.
+    if: ${{ contains(['main', 'refs/heads/main'], github.event.inputs.ref || github.ref) }}
     steps:
       - name: "Generate Token"
         id: token
