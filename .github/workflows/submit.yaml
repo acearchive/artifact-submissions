@@ -32,7 +32,7 @@ jobs:
     outputs:
       artifacts: ${{ steps.submit.outputs.artifacts }}
     env:
-      PROD: ${{ contains(['main', 'refs/heads/main'], github.event.inputs.ref || github.ref) }}
+      PROD: ${{ contains(fromJSON('["main", "refs/heads/main"]'), github.event.inputs.ref || github.ref) }}
     steps:
       - name: "Generate Token"
         id: token
