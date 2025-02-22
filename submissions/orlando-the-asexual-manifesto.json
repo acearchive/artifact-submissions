@@ -1,7 +1,7 @@
 {
   "version": 2,
   "title": "*The Asexual Manifesto*",
-  "summary": "A paper by the Asexual Caucus of the New York Radical Feminists",
+  "summary": "THIS IS A TEST SUMMARY",
   "files": [
     {
       "name": "Digital Scan",
@@ -30,16 +30,9 @@
       "url": "https://archive.org/details/asexualmanifestolisaorlando"
     }
   ],
-  "people": [
-    "Lisa Orlando",
-    "Barbara Getz"
-  ],
-  "identities": [
-    "asexual"
-  ],
-  "decades": [
-    1970
-  ],
+  "people": ["Lisa Orlando", "Barbara Getz"],
+  "identities": ["asexual"],
+  "decades": [1970],
   "slug": "orlando-the-asexual-manifesto",
   "aliases": [],
   "id": "MKbNWmmhCog6",
