@@ -32,10 +32,8 @@ jobs:
     name: "Generate Hugo Files"
     needs: submit
     runs-on: ubuntu-latest
-    # We only have one repos for generated Hugo files rather than separate repos
-    # for the dev and prod environments, so we should only run this job on prod
-    # deployments.
-    if: ${{ contains(fromJSON('["main", "refs/heads/main"]'), github.event.inputs.ref || github.ref) }}
+    env:
+      PROD: ${{ contains(fromJSON('["main", "refs/heads/main"]'), github.event.inputs.ref || github.ref) }}
     steps:
       - name: "Generate Token"
         id: token
@@ -53,7 +51,7 @@ jobs:
         with:
           repository: "acearchive/hugo-artifacts"
           token: ${{ steps.token.outputs.token }}
-          ref: ${{ github.event.inputs.ref || github.ref }}
+          ref: ${{ env.PROD == 'true' && 'main' || 'dev' }}
       - name: "Generate Files"
         uses: "acearchive/hugo-artifact-action@main"
         with:
