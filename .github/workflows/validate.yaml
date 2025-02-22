@@ -3,8 +3,12 @@ name: "Validate Submissions"
 on:
   workflow_dispatch:
     inputs:
+      ref:
+        description: "The branch or commit to validate artifacts from"
+        required: true
+        type: string
       base_ref:
-        description: "The base ref to determine which artifacts to upload"
+        description: "The base ref to determine which artifacts to validate"
         required: true
         default: "HEAD~1"
         type: string

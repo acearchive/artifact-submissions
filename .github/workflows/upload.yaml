@@ -5,6 +5,10 @@ concurrency: "upload"
 on:
   workflow_dispatch:
     inputs:
+      ref:
+        description: "The branch or commit to upload artifacts from"
+        required: true
+        type: string
       base_ref:
         description: "The base ref to determine which artifacts to upload"
         required: true
@@ -40,10 +44,11 @@ jobs:
           private_key: ${{ secrets.GH_APP_PRIVATE_KEY }}
           repository: "acearchive/hugo-artifacts"
       - name: "Checkout"
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: "acearchive/hugo-artifacts"
           token: ${{ steps.token.outputs.token }}
+          ref: ${{ github.event.inputs.ref || github.ref }}
       - name: "Generate Files"
         uses: "acearchive/hugo-artifact-action@main"
         with:
