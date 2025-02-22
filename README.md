@@ -35,3 +35,7 @@ We may periodically need to change the format of these submission files. The
 [migrations/](./migrations/) directory contains scripts used to migrate
 submission files from one version to the next. Each submission file contains a
 top-level `version` key which indicates the current version.
+
+Changes merged to the `main` branch are deployed to the Ace Archive prod
+environment. Changes can be merged or pushed directly to the `dev` branch to
+deploy to the Ace Archive dev environment.
