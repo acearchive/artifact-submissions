@@ -35,7 +35,7 @@ jobs:
     # We only have one repos for generated Hugo files rather than separate repos
     # for the dev and prod environments, so we should only run this job on prod
     # deployments.
-    if: ${{ contains(['main', 'refs/heads/main'], github.event.inputs.ref || github.ref) }}
+    if: ${{ contains(fromJSON('["main", "refs/heads/main"]'), github.event.inputs.ref || github.ref) }}
     steps:
       - name: "Generate Token"
         id: token
