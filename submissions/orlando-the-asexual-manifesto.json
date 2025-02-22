@@ -1,7 +1,7 @@
 {
   "version": 2,
   "title": "*The Asexual Manifesto*",
-  "summary": "THIS IS A TEST SUMMARY",
+  "summary": "THIS IS A TEST SUMMARY 2",
   "files": [
     {
       "name": "Digital Scan",
@@ -30,16 +30,9 @@
       "url": "https://archive.org/details/asexualmanifestolisaorlando"
     }
   ],
-  "people": [
-    "Lisa Orlando",
-    "Barbara Getz"
-  ],
-  "identities": [
-    "asexual"
-  ],
-  "decades": [
-    1970
-  ],
+  "people": ["Lisa Orlando", "Barbara Getz"],
+  "identities": ["asexual"],
+  "decades": [1970],
   "slug": "orlando-the-asexual-manifesto",
   "aliases": [],
   "id": "MKbNWmmhCog6",
