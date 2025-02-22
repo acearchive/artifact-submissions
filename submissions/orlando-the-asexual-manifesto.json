@@ -30,9 +30,16 @@
       "url": "https://archive.org/details/asexualmanifestolisaorlando"
     }
   ],
-  "people": ["Lisa Orlando", "Barbara Getz"],
-  "identities": ["asexual"],
-  "decades": [1970],
+  "people": [
+    "Lisa Orlando",
+    "Barbara Getz"
+  ],
+  "identities": [
+    "asexual"
+  ],
+  "decades": [
+    1970
+  ],
   "slug": "orlando-the-asexual-manifesto",
   "aliases": [],
   "id": "MKbNWmmhCog6",
