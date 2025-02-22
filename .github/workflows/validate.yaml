@@ -21,6 +21,7 @@ jobs:
     uses: ./.github/workflows/submit.yaml
     with:
       mode: "validate"
+      ref: ${{ github.event.inputs.ref || github.ref }}
       # We default to HEAD~1 for pull_request events.
       base_ref: ${{ github.event.inputs.base_ref || 'HEAD~1' }}
     secrets: inherit
