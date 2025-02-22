@@ -16,7 +16,7 @@ on:
         type: string
   push:
     paths: ["submissions/*.json"]
-    branches: ["main"]
+    branches: ["main", "dev"]
 
 jobs:
   submit:
