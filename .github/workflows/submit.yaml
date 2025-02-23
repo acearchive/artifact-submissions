@@ -18,19 +18,11 @@ on:
       base_ref:
         required: true
         type: string
-    outputs:
-      artifacts:
-        description: >
-          A JSON array containing the artifact metadata generated from each
-          submission file.
-        value: ${{ jobs.submit.outputs.artifacts }}
 
 jobs:
   submit:
     name: "Submit"
     runs-on: ubuntu-latest
-    outputs:
-      artifacts: ${{ steps.submit.outputs.artifacts }}
     env:
       PROD: ${{ contains(fromJSON('["main", "refs/heads/main"]'), github.event.inputs.ref || github.ref) }}
     steps:
