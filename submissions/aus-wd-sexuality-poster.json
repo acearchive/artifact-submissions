@@ -11,7 +11,9 @@
       "source_url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/13367816-e33c-47c4-acbe-f1eea07096d2/content",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "122050cd1934c88b1feaa312ab8dc16a4f8d79e1118aa29ade727a3613ff8bf04f21"
     }
   ],
   "links": [
@@ -21,8 +23,15 @@
     }
   ],
   "people": [],
-  "identities": ["asexual", "celibate", "homosexual"],
+  "identities": [
+    "asexual",
+    "celibate",
+    "homosexual"
+  ],
   "from_year": 1975,
-  "decades": [1970],
-  "aliases": []
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "1F1xjRj6tRMx"
 }
