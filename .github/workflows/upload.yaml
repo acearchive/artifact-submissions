@@ -62,3 +62,4 @@ jobs:
         with:
           commit_message: "Apply automatic changes"
           file_pattern: "artifacts/*.md"
+          disable_globbing: true
