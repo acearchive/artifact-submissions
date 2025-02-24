@@ -7,7 +7,7 @@
   "files": [
     {
       "name": "Poster",
-      "filename": "aus-wd-sexuality-poster",
+      "filename": "aus-wd-sexuality-poster.pdf",
       "source_url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/13367816-e33c-47c4-acbe-f1eea07096d2/content",
       "lang": "en",
       "hidden": false,
@@ -23,15 +23,9 @@
     }
   ],
   "people": [],
-  "identities": [
-    "asexual",
-    "celibate",
-    "homosexual"
-  ],
+  "identities": ["asexual", "celibate", "homosexual"],
   "from_year": 1975,
-  "decades": [
-    1970
-  ],
+  "decades": [1970],
   "aliases": [],
   "id": "1F1xjRj6tRMx"
 }
