@@ -11,7 +11,9 @@
       "source_url": "https://archive.org/download/asexualmanifestolisaorlando/Asexual-Manifesto-Lisa-Orlando.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "1220f907ed09addad95bd17de1efe76c7a624ba8144f0e2165edaf832447cded5f54"
     }
   ],
   "links": [
@@ -21,9 +23,15 @@
     }
   ],
   "people": [],
-  "identities": ["asexual", "celibate", "homosexual"],
+  "identities": [
+    "asexual",
+    "celibate",
+    "homosexual"
+  ],
   "from_year": 1975,
-  "decades": [1970],
+  "decades": [
+    1970
+  ],
   "aliases": [],
   "id": "1F1xjRj6tRMx"
 }
