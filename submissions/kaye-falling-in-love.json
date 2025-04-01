@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "slug": "kaye-falling-in-love",
+  "title": "\"Is Falling In Love a Health Hazard?\"",
+  "summary": "A 1978 article from *The Australian Women's Weekly*, reporting on Dorothy Tennov's research into limerence and non-limerence.",
+  "files": [
+    {
+      "name": "Issue",
+      "filename": "australian-womens-weekly.pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/australian-womens-weekly.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "122024d06303b278ad1ba63e5b2ebfe5a5a03c15ee4fbafdae8ad5cd836a9eb6567e"
+    },
+    {
+      "name": "Transcript",
+      "filename": "falling-in-love-transcript.html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/falling-in-love-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "text/html",
+      "multihash": "1220be71d9a1d3fd4d74d7ec2a332faa526b15b9ea1cc198e4af5cd99ca4f26b314c"
+    },
+    {
+      "name": "Citation",
+      "filename": "falling-in-love.bib",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/falling-in-love.bib",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "12209f35203528b8c9c026ccefd4bce4632b292f254495bea7f0ad8d868a6721ed7e"
+    }
+  ],
+  "links": [
+    {
+      "name": "Trove - National Library of Australia",
+      "url": "https://trove.nla.gov.au/newspaper/article/51594423/"
+    }
+  ],
+  "people": [
+    "Dorothy Tennov",
+    "Elizabeth Kaye"
+  ],
+  "identities": [
+    "nonlimerent"
+  ],
+  "from_year": 1978,
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "Kj3X1ZcUCvqy"
+}
