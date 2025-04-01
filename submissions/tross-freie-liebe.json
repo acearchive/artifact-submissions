@@ -22,10 +22,17 @@
       "url": "https://www.digitale-sammlungen.de/en/view/bsb00139397"
     }
   ],
-  "people": ["Emma Trosse"],
-  "identities": ["asexual", "asensual"],
+  "people": [
+    "Emma Trosse"
+  ],
+  "identities": [
+    "asexual",
+    "asensual"
+  ],
   "from_year": 1897,
-  "decades": [1890],
+  "decades": [
+    1890
+  ],
   "aliases": [],
   "id": "rIcd2PDkKWLU"
 }
