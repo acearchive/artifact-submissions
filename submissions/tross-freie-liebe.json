@@ -10,7 +10,10 @@
       "filename": "ist-freie-liebe-sittenlosigkeit.pdf",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/ist-freie-liebe-sittenlosigkeit.pdf",
       "lang": "de",
-      "hidden": false
+      "hidden": false,
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "1220073650191947882ec72cb46a46ad2463af05b98ec70253fe3a9144883eb4bd1d"
     }
   ],
   "links": [
@@ -19,10 +22,17 @@
       "url": "https://www.digitale-sammlungen.de/en/view/bsb00139397"
     }
   ],
-  "people": ["Emma Trosse"],
-  "identities": ["asexual", "asensual"],
+  "people": [
+    "Emma Trosse"
+  ],
+  "identities": [
+    "asexual",
+    "asensual"
+  ],
   "from_year": 1897,
-  "decades": [1890],
+  "decades": [
+    1890
+  ],
   "aliases": [],
   "id": "rIcd2PDkKWLU"
 }
