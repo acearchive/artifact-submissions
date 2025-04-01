@@ -11,7 +11,9 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/campaign-brochure-2016.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "12205306e93456483b7eff577b90743c98ff41756dd3f67347b10c3348009536dbe7"
     }
   ],
   "links": [
@@ -20,10 +22,16 @@
       "url": "https://web.archive.org/web/20250125185011/http://www.newviewcampaign.org/default.asp"
     }
   ],
-  "people": ["Leonore Tiefer"],
+  "people": [
+    "Leonore Tiefer"
+  ],
   "identities": [],
   "from_year": 2000,
   "to_year": 2016,
-  "decades": [2000, 2010],
-  "aliases": []
+  "decades": [
+    2000,
+    2010
+  ],
+  "aliases": [],
+  "id": "s0P9UWeUBbW2"
 }
