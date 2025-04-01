@@ -31,15 +31,9 @@
       "url": "https://www.google.com/books/edition/Ein_Weib/rKzISmJ3YuYC?hl=en"
     }
   ],
-  "people": [
-    "Emma Trosse"
-  ],
-  "identities": [
-    "asexual"
-  ],
-  "decades": [
-    1890
-  ],
+  "people": ["Emma Trosse"],
+  "identities": ["asexual", "asensual"],
+  "decades": [1890],
   "aliases": [],
   "id": "6Sf4PzbuoYLh",
   "from_year": 1897
