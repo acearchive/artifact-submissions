@@ -11,7 +11,9 @@
       "source_url": "https://drive.usercontent.google.com/download?id=1KQuMQUCmKL_lSj4ejrJwEhysE9Ckxw_x&export=download&authuser=0",
       "lang": "de",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "application/octet-stream",
+      "multihash": "1220073650191947882ec72cb46a46ad2463af05b98ec70253fe3a9144883eb4bd1d"
     }
   ],
   "links": [
@@ -20,9 +22,17 @@
       "url": "https://www.digitale-sammlungen.de/en/view/bsb00139397"
     }
   ],
-  "people": ["Emma Trosse"],
-  "identities": ["asexual", "asensual"],
+  "people": [
+    "Emma Trosse"
+  ],
+  "identities": [
+    "asexual",
+    "asensual"
+  ],
   "from_year": 1897,
-  "decades": [1890],
-  "aliases": []
+  "decades": [
+    1890
+  ],
+  "aliases": [],
+  "id": "rIcd2PDkKWLU"
 }
