@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "slug": "tross-freie-liebe",
+  "slug": "trosse-freie-liebe",
   "title": "*Ist \"freie Liebe\" Sittenlosigkeit?*",
   "summary": "A book by Emma Trosse, translated as *Is \"free love\" immoral?*, in which she self-identifies as being \"without sensuality\".",
   "description": "A book by Emma Trosse, translated as *Is \"free love\" immoral?*, in which she self-identifies as being \"without sensuality\". See pages 6-7: \"einen Menschen – ohne Sinnlichkeit… Verfasser hat den Mut, sich zu jener Kategorie zu bekennen\" [a person without sensuality… author has the courage to confess to that category].",
@@ -22,17 +22,10 @@
       "url": "https://www.digitale-sammlungen.de/en/view/bsb00139397"
     }
   ],
-  "people": [
-    "Emma Trosse"
-  ],
-  "identities": [
-    "asexual",
-    "asensual"
-  ],
+  "people": ["Emma Trosse"],
+  "identities": ["asexual", "asensual"],
   "from_year": 1897,
-  "decades": [
-    1890
-  ],
+  "decades": [1890],
   "aliases": [],
   "id": "rIcd2PDkKWLU"
 }
