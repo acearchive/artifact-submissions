@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "slug": "aus-wd-sexuality-pamphlet",
+  "title": "*Sexuality*: An AUS Women's Department Pamphlet",
+  "summary": "A queer feminist pamphlet by the Australian Union of Students (AUS) Women's Department. References both asexuality and celibacy.",
+  "description": "A queer, feminist, sex-positive educational pamphlet by the Australian Union of Students (AUS) Women's Department. References both asexuality and celibacy.",
+  "files": [
+    {
+      "name": "\"Introduction\" (Digital Scan)",
+      "filename": "introduction.pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/introduction.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "\"Introduction\" (Transcript)",
+      "filename": "introduction-transcript.html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/introduction-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "\"Introduction\" (Citation)",
+      "filename": "introduction.bib",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/introduction.bib",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "\"By myself\" (Digital Scan)",
+      "filename": "by-myself.pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/by-myself.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "\"By myself\" (Transcript)",
+      "filename": "by-myself-transcript.html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/by-myself-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": []
+    },
+    {
+      "name": "\"By myself\" (Citation)",
+      "filename": "by-myself.bib",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/by-myself.bib",
+      "hidden": false,
+      "aliases": []
+    }
+  ],
+  "links": [],
+  "people": [],
+  "identities": ["asexual", "celibate", "homosexual"],
+  "from_year": 1975,
+  "decades": [1970],
+  "aliases": []
+}
