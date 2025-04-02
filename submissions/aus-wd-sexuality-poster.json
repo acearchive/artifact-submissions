@@ -23,9 +23,15 @@
     }
   ],
   "people": [],
-  "identities": ["asexual", "celibate", "homosexual"],
+  "identities": [
+    "asexual",
+    "celibate",
+    "homosexual"
+  ],
   "from_year": 1975,
-  "decades": [1970],
+  "decades": [
+    1970
+  ],
   "aliases": [],
   "id": "1F1xjRj6tRMx"
 }
