@@ -1,0 +1,80 @@
+{
+  "version": 2,
+  "slug": "aus-wd-sexuality-pamphlet",
+  "title": "*Sexuality*: An AUS Women's Department Pamphlet",
+  "summary": "A queer feminist pamphlet by the Australian Union of Students (AUS) Women's Department. References both asexuality and celibacy.",
+  "description": "A queer, feminist, sex-positive educational pamphlet by the Australian Union of Students (AUS) Women's Department. References both asexuality and celibacy.",
+  "files": [
+    {
+      "name": "\"Introduction\" (Digital Scan)",
+      "filename": "introduction.pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/introduction.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "122096d3fa80e93905f46d46d0ec561f968fb98fdcbd6e78c040641a3e3e4e9053c4"
+    },
+    {
+      "name": "\"Introduction\" (Transcript)",
+      "filename": "introduction-transcript.html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/introduction-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "text/html",
+      "multihash": "122067771181bc0946fe064083d0308bc1a25095fe2c41d448dd5fb2f4b266761acb"
+    },
+    {
+      "name": "\"Introduction\" (Citation)",
+      "filename": "introduction.bib",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/introduction.bib",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "1220ebbd15361265610eff42682aa9dcb89f4ca4d70fc14a211eb0bea5e8d6baafcb"
+    },
+    {
+      "name": "\"By myself\" (Digital Scan)",
+      "filename": "by-myself.pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/by-myself.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "122046da9f31e87d4ac6666bf8513de5355b3023d4ae385d6c37d8dfd2208b8695fc"
+    },
+    {
+      "name": "\"By myself\" (Transcript)",
+      "filename": "by-myself-transcript.html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/by-myself-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "text/html",
+      "multihash": "1220f0b82ebc66309402b058a25c58a2930e3c41af59a621cf13fd2187437c04cf29"
+    },
+    {
+      "name": "\"By myself\" (Citation)",
+      "filename": "by-myself.bib",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/by-myself.bib",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "1220e26e2c2c1cc74e5c512436a701c1138dd5b08bfc64d8c072115732226ac17acc"
+    }
+  ],
+  "links": [],
+  "people": [],
+  "identities": [
+    "asexual",
+    "celibate",
+    "homosexual"
+  ],
+  "from_year": 1975,
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "p98qx9nCcDZa"
+}
