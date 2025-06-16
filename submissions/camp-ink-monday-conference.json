@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "slug": "camp-ink-monday-conference",
+  "title": "*CAMP INK*, vol. 4, no. 5",
+  "summary": "An article in one of Australia's first LGBTQ magazines which mentions asexuality",
+  "description": "An article in one of Australia's first LGBTQ magazines which mentions asexuality. CAMP INK was a publication of the Campaign Against Moral Persecution, produced in Sydney.",
+  "files": [
+    {
+      "name": "Digital Scan",
+      "filename": "camp-ink-vol-4-no-5.pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/camp-ink-vol-4-no-5.pdf",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "12201691cabaeb0f37d9ef10d4ac695b4c0e886f26c3560574d728c713cac9071661"
+    },
+    {
+      "name": "Partial Transcript",
+      "filename": "monday-conference-transcript.html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/monday-conference-transcript.html",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "text/html",
+      "multihash": "12204b55d8ae77a6a8119204afa28f83c4d21bd0db1ba9af7e9a1fb98f351dd65584"
+    },
+    {
+      "name": "Citation",
+      "filename": "monday-conference.bib",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/monday-conference.bib",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "text/x-bibtex",
+      "multihash": "122099c1ac60c1ad7dd5bf06d87c78b0aa9b2b8656ea2ca2468dd9b69eae0aa22371"
+    }
+  ],
+  "links": [
+    {
+      "name": "Trove - National Library of Australia",
+      "url": "https://nla.gov.au/nla.obj-788147173/"
+    }
+  ],
+  "people": [],
+  "identities": [
+    "asexual",
+    "homosexual",
+    "bisexual"
+  ],
+  "from_year": 1975,
+  "decades": [
+    1970
+  ],
+  "aliases": [],
+  "id": "eVBNvJKC93hO"
+}
