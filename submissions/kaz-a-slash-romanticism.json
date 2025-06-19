@@ -24,10 +24,21 @@
       "url": "https://replayweb.page/?source=https://files.acearchive.lgbt/artifacts/kaz-a-slash-romanticism/coining-of-queerplatonic.warc#view=resources&urlSearchType=prefix&url=https%3A%2F%2Fkaz.dreamwidth.org%2F238564.html"
     }
   ],
-  "people": ["Kaz", "Meloukhia"],
-  "identities": ["aromantic", "wtfromantic", "queerplatonic"],
-  "decades": [2010],
-  "collections": ["Terms and Where They Came From"],
+  "people": [
+    "Kaz",
+    "Meloukhia"
+  ],
+  "identities": [
+    "aromantic",
+    "wtfromantic",
+    "queerplatonic"
+  ],
+  "decades": [
+    2010
+  ],
+  "collections": [
+    "Terms and Where They Came From"
+  ],
   "aliases": [],
   "id": "GLYGvjpYITp4",
   "from_year": 2010

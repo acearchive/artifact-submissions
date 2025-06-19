@@ -10,10 +10,19 @@
       "url": "https://www.asexuality.org/en/topic/14000-asexual-sex/"
     }
   ],
-  "people": ["sonofzeal"],
-  "identities": ["asexual", "demisexual"],
-  "decades": [2000],
-  "collections": ["Terms and Where They Came From"],
+  "people": [
+    "sonofzeal"
+  ],
+  "identities": [
+    "asexual",
+    "demisexual"
+  ],
+  "decades": [
+    2000
+  ],
+  "collections": [
+    "Terms and Where They Came From"
+  ],
   "aliases": [],
   "id": "hyURgyzMNTsV",
   "from_year": 2006
