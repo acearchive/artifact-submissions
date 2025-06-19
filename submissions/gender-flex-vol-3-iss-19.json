@@ -31,11 +31,21 @@
       "url": "https://www.digitaltransgenderarchive.net/files/qn59q4121"
     }
   ],
-  "people": ["Veronica Smith"],
-  "identities": ["asexual", "monosexual", "intersex"],
+  "people": [
+    "Veronica Smith"
+  ],
+  "identities": [
+    "asexual",
+    "monosexual",
+    "intersex"
+  ],
   "from_year": 1993,
-  "decades": [1990],
-  "collections": ["Newsjournals and Underground Press"],
+  "decades": [
+    1990
+  ],
+  "collections": [
+    "Newsjournals and Underground Press"
+  ],
   "aliases": [],
   "id": "csDk4LqnT1bP"
 }

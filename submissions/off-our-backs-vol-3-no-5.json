@@ -70,10 +70,19 @@
       "url": "https://www.jstor.org/stable/community.28041796?seq=7"
     }
   ],
-  "people": ["Barbara Getz"],
-  "identities": ["lesbian", "asexual"],
-  "decades": [1970],
-  "collections": ["Newsjournals and Underground Press"],
+  "people": [
+    "Barbara Getz"
+  ],
+  "identities": [
+    "lesbian",
+    "asexual"
+  ],
+  "decades": [
+    1970
+  ],
+  "collections": [
+    "Newsjournals and Underground Press"
+  ],
   "aliases": [],
   "id": "XjAOWBKYDkjd",
   "from_year": 1973

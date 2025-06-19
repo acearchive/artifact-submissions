@@ -66,10 +66,18 @@
   ],
   "links": [],
   "people": [],
-  "identities": ["asexual", "celibate", "homosexual"],
+  "identities": [
+    "asexual",
+    "celibate",
+    "homosexual"
+  ],
   "from_year": 1975,
-  "decades": [1970],
-  "collections": ["Newsjournals and Underground Press"],
+  "decades": [
+    1970
+  ],
+  "collections": [
+    "Newsjournals and Underground Press"
+  ],
   "aliases": [],
   "id": "p98qx9nCcDZa"
 }

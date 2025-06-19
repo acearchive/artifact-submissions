@@ -33,10 +33,18 @@
     }
   ],
   "people": [],
-  "identities": ["asexual", "transvestite", "transsexual"],
+  "identities": [
+    "asexual",
+    "transvestite",
+    "transsexual"
+  ],
   "from_year": 1968,
-  "decades": [1960],
-  "collections": ["Newsjournals and Underground Press"],
+  "decades": [
+    1960
+  ],
+  "collections": [
+    "Newsjournals and Underground Press"
+  ],
   "aliases": [],
   "id": "Mk81Z9GfUdpb"
 }
