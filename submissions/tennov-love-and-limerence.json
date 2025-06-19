@@ -31,16 +31,10 @@
       "url": "https://archive.org/details/lovelimerenceexp00tenn"
     }
   ],
-  "people": [
-    "Dorothy Tennov"
-  ],
-  "identities": [
-    "asexual",
-    "nonlimerent"
-  ],
-  "decades": [
-    1970
-  ],
+  "people": ["Dorothy Tennov"],
+  "identities": ["asexual", "nonlimerent"],
+  "decades": [1970],
+  "collections": ["Terms and Where They Came From"],
   "aliases": [],
   "id": "zCIFmamX7CP9",
   "from_year": 1979
