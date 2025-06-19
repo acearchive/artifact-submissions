@@ -30,18 +30,12 @@
       "url": "https://www.digitaltransgenderarchive.net/files/2227mp76z"
     }
   ],
-  "people": [
-    "Billie Jean Jones"
-  ],
-  "identities": [
-    "asexual",
-    "onosexual"
-  ],
+  "people": ["Billie Jean Jones"],
+  "identities": ["asexual", "onosexual"],
   "from_year": 1992,
   "to_year": 1993,
-  "decades": [
-    1990
-  ],
+  "decades": [1990],
+  "collections": ["Newsjournals and Underground Press"],
   "aliases": [],
   "id": "W1yBDu5IQeAR"
 }

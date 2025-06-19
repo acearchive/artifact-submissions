@@ -42,15 +42,10 @@
     }
   ],
   "people": [],
-  "identities": [
-    "asexual",
-    "homosexual",
-    "bisexual"
-  ],
+  "identities": ["asexual", "homosexual", "bisexual"],
   "from_year": 1975,
-  "decades": [
-    1970
-  ],
+  "decades": [1970],
+  "collections": ["Newsjournals and Underground Press"],
   "aliases": [],
   "id": "eVBNvJKC93hO"
 }

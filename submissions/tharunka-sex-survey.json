@@ -31,15 +31,10 @@
     }
   ],
   "people": [],
-  "identities": [
-    "asexual",
-    "homosexual",
-    "bisexual"
-  ],
+  "identities": ["asexual", "homosexual", "bisexual"],
   "from_year": 1980,
-  "decades": [
-    1980
-  ],
+  "decades": [1980],
+  "collections": ["Newsjournals and Underground Press"],
   "aliases": [],
   "id": "twy8V5lKdSX6"
 }

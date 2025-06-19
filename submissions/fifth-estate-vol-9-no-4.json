@@ -51,15 +51,10 @@
       "url": "https://www.jstor.org/stable/community.28036536?seq=22"
     }
   ],
-  "people": [
-    "E. O. Line"
-  ],
-  "identities": [
-    "asexual"
-  ],
-  "decades": [
-    1970
-  ],
+  "people": ["E. O. Line"],
+  "identities": ["asexual"],
+  "decades": [1970],
+  "collections": ["Newsjournals and Underground Press"],
   "aliases": [],
   "id": "k8LDou8nu7G3",
   "from_year": 1974

@@ -61,16 +61,10 @@
       "url": "https://youtube.com/playlist?list=PLb6InlHRpvBMFIHiXGhmEdPS29DE5Q58d"
     }
   ],
-  "people": [
-    "Jim Sinclair"
-  ],
-  "identities": [
-    "asexual",
-    "neuter"
-  ],
-  "decades": [
-    1980
-  ],
+  "people": ["Jim Sinclair"],
+  "identities": ["asexual", "neuter"],
+  "decades": [1980],
+  "collections": ["News Coverage"],
   "slug": "toby-on-sally",
   "aliases": [],
   "id": "iP6QdSaIJCAK",

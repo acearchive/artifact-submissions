@@ -52,13 +52,9 @@
     }
   ],
   "people": [],
-  "identities": [
-    "asexual",
-    "homosexual"
-  ],
-  "decades": [
-    1970
-  ],
+  "identities": ["asexual", "homosexual"],
+  "decades": [1970],
+  "collections": ["Newsjournals and Underground Press"],
   "aliases": [],
   "id": "GxEyG3ecHOUu",
   "from_year": 1970

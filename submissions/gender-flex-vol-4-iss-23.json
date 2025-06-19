@@ -30,17 +30,11 @@
       "url": "https://www.digitaltransgenderarchive.net/files/gx41mh96x"
     }
   ],
-  "people": [
-    "Michael Hernandez"
-  ],
-  "identities": [
-    "asexual",
-    "transgender"
-  ],
+  "people": ["Michael Hernandez"],
+  "identities": ["asexual", "transgender"],
   "from_year": 1994,
-  "decades": [
-    1990
-  ],
+  "decades": [1990],
+  "collections": ["Newsjournals and Underground Press"],
   "aliases": [],
   "id": "ERBlzZCQ5hVM"
 }

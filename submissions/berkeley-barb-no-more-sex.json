@@ -52,12 +52,9 @@
     }
   ],
   "people": [],
-  "identities": [
-    "asexual"
-  ],
-  "decades": [
-    1970
-  ],
+  "identities": ["asexual"],
+  "decades": [1970],
+  "collections": ["News Coverage"],
   "aliases": [],
   "id": "iw476bQ8Gxzq",
   "from_year": 1978
