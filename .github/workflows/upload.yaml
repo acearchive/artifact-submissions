@@ -15,7 +15,9 @@ on:
         default: "HEAD~1"
         type: string
   push:
-    paths: ["submissions/*.json"]
+    paths:
+      - "submissions/*.json"
+      - "metadata.json"
     branches: ["main", "dev"]
 
 jobs:
