@@ -11,8 +11,8 @@
       "description": "Often defined as someone who does not experience romantic attraction"
     },
     {
-      "kind": "quoiromantic",
-      "name": "identity",
+      "name": "quoiromantic",
+      "kind": "identity",
       "description": "Not differentiating between romantic and platonic attraction, also sometimes called WTFromantic"
     }
   ]
