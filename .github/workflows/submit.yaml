@@ -50,6 +50,7 @@ jobs:
         with:
           mode: ${{ inputs.mode }}
           path: "submissions/"
+          metadata_path: "metadata.json"
           base_url: "https://${{ env.PROD == 'true' && vars.FILES_WORKER_DOMAIN || vars.FILES_WORKER_DEV_DOMAIN }}"
           secondary_base_url: ${{ env.PROD == 'false' && format('https://{0}', vars.FILES_WORKER_DOMAIN) || '' }}
           base_ref: ${{ inputs.base_ref }}

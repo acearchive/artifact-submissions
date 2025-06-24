@@ -1,0 +1,19 @@
+{
+  "tags": [
+    {
+      "name": "asexual",
+      "kind": "identity",
+      "description": "Often defined as someone who does not experience sexual attraction"
+    },
+    {
+      "name": "aromantic",
+      "kind": "identity",
+      "description": "Often defined as someone who does not experience romantic attraction"
+    },
+    {
+      "name": "quoiromantic",
+      "kind": "identity",
+      "description": "Not differentiating between romantic and platonic attraction, also sometimes called WTFromantic"
+    }
+  ]
+}
