@@ -63,7 +63,7 @@
     {
       "name": "gray-asexual",
       "kind": "identity",
-      "description": "Often defined as someone who experiences sexual attraction infrequently or under specific circumstances."
+      "description": "Often defined as someone who experiences sexual attraction infrequently or only under specific circumstances."
     },
     {
       "name": "intersex",
@@ -93,7 +93,7 @@
     {
       "name": "transvestite",
       "kind": "identity",
-      "description": "An outdated term for someone who crossdresses. In the past, this was sometimes used to refer to trans people, different from crossdressing. This term was wonce used by the trans community, but is no longer considered appropriate."
+      "description": "An outdated term for someone who crossdresses. In the past, this was sometimes used to refer to trans people, different from crossdressing. This term was once used by the trans community, but is no longer considered appropriate."
     }
   ]
 }
