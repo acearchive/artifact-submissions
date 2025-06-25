@@ -57,11 +57,12 @@ jobs:
       - name: "Generate Files"
         uses: "acearchive/hugo-artifact-action@main"
         with:
-          path: "artifacts/"
+          artifacts_path: "artifacts/"
+          metadata_path: "metadata.json"
           endpoint: "https://${{ env.PROD == 'true' && vars.API_DOMAIN || vars.API_DEV_DOMAIN }}/v0"
       - name: "Commit Changes"
         uses: "stefanzweifel/git-auto-commit-action@v4"
         with:
           commit_message: "Apply automatic changes"
-          file_pattern: "artifacts/*.md"
+          file_pattern: "metadata.json artifacts/*.md"
           disable_globbing: true
