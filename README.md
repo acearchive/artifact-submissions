@@ -52,7 +52,6 @@ them to the dev environment.
 
 ## Migrations
 
-We may periodically need to change the format of these submission files. The
-[migrations/](./migrations/) directory contains scripts used to migrate
-submission files from one version to the next. Each submission file contains a
-top-level `version` key which indicates the current version.
+We may periodically need to change the format of these submission files. Each
+submission file contains a top-level `version` key which indicates the current
+version.
