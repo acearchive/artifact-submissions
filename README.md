@@ -33,6 +33,14 @@ Additionally,
 is used to automatically generate static assets from the artifact submissions
 which are used to build the static site.
 
+## Metadata
+
+This repo also contains site-wide metadata, in [metadata.json](./metadata.json).
+Currently, this just includes the descriptions associated with tags
+(collections, decades, identities, people, etc.). When a PR is merged,
+[acearchive/artifact-submit-action](https://github.com/acearchive/artifact-submit-action)
+uploads this metadata to Ace Archive.
+
 ## Deployments
 
 There are two deployments of Ace Archive, each with their own infrastructure
