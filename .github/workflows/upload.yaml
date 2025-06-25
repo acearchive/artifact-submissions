@@ -64,5 +64,5 @@ jobs:
         uses: "stefanzweifel/git-auto-commit-action@v4"
         with:
           commit_message: "Apply automatic changes"
-          file_pattern: "artifacts/*.md"
+          file_pattern: "metadata.json artifacts/*.md"
           disable_globbing: true
