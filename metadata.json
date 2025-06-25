@@ -3,47 +3,97 @@
     {
       "name": "catalogs and bibliographies",
       "kind": "collection",
-      "description": "Lists of published works about asexuality"
+      "description": "Lists of published works about asexuality."
     },
     {
       "name": "communities and community spaces",
       "kind": "collection",
-      "description": "Current and former online and offline spaces where asexual people connect"
+      "description": "Current and former online and offline spaces where asexual people connect."
     },
     {
       "name": "histories and timelines",
       "kind": "collection",
-      "description": "Historical accounts of the asexual community and how it has changed over time"
+      "description": "Historical accounts of the asexual community and how it has changed over time."
     },
     {
       "name": "news coverage",
       "kind": "collection",
-      "description": "News coverage about asexuality and the asexual community"
+      "description": "News coverage about asexuality and the asexual community."
     },
     {
       "name": "newsjournals and underground press",
       "kind": "collection",
-      "description": "Underground, indie, and alternative publications that cover asexuality"
+      "description": "Underground, indie, and alternative publications that cover asexuality."
     },
     {
       "name": "terms and where they came from",
       "kind": "collection",
-      "description": "The origins of terms and labels used by the asexual community"
+      "description": "The origins of terms and labels used by the asexual community."
     },
     {
       "name": "asexual",
       "kind": "identity",
-      "description": "Often defined as someone who does not experience sexual attraction"
+      "description": "Often defined as someone who does not experience sexual attraction."
     },
     {
       "name": "aromantic",
       "kind": "identity",
-      "description": "Often defined as someone who does not experience romantic attraction"
+      "description": "Often defined as someone who does not experience romantic attraction."
     },
     {
       "name": "quoiromantic",
       "kind": "identity",
-      "description": "Not differentiating between romantic and platonic attraction, also sometimes called WTFromantic"
+      "description": "Often defined as someone who does not differentiate between romantic and platonic attraction, also called WTFromantic."
+    },
+    {
+      "name": "wtfromantic",
+      "kind": "identity",
+      "description": "Often defined as someone who does not differentiate between romantic and platonic attraction, also called Quoiromantic."
+    },
+    {
+      "name": "celibate",
+      "kind": "identity",
+      "description": "Someone who does not or is not engaging in sexual activity, different from asexuality."
+    },
+    {
+      "name": "demisexual",
+      "kind": "identity",
+      "description": "Often defined as someone who needs a strong emotional connection before experiencing sexual attraction."
+    },
+    {
+      "name": "gray-asexual",
+      "kind": "identity",
+      "description": "Often defined as someone who experiences sexual attraction infrequently or under specific circumstances."
+    },
+    {
+      "name": "intersex",
+      "kind": "identity",
+      "description": "Someone born with physical characteristics that do not fit typical binary notions of male or female bodies, different from gender identity."
+    },
+    {
+      "name": "non-binary",
+      "kind": "identity",
+      "description": "Someone whose gender identity exists outside the man/woman gender binary."
+    },
+    {
+      "name": "queerplatonic",
+      "kind": "identity",
+      "description": "Often defined as a relationship that has a high level of emotional intimacy and commitment but is not romantic."
+    },
+    {
+      "name": "transgender",
+      "kind": "identity",
+      "description": "Someone whose gender identity is different from the one typically associated with the sex they were assigned at birth."
+    },
+    {
+      "name": "transsexual",
+      "kind": "identity",
+      "description": "An outdated term for a transgender person. This term was once used by the trans community, but is no longer considered appropriate."
+    },
+    {
+      "name": "transvestite",
+      "kind": "identity",
+      "description": "An outdated term for someone who crossdresses. In the past, this was sometimes used to refer to trans people, different from crossdressing. This term was wonce used by the trans community, but is no longer considered appropriate."
     }
   ]
 }
