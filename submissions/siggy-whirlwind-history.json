@@ -10,11 +10,22 @@
       "url": "https://asexualagenda.wordpress.com/2022/08/07/a-whirlwind-history-of-asexual-communities/"
     }
   ],
-  "people": ["Siggy", "Sennkestra", "Coyote"],
-  "identities": ["asexual", "aromantic"],
+  "people": [
+    "Siggy",
+    "Sennkestra",
+    "Coyote"
+  ],
+  "identities": [
+    "asexual",
+    "aromantic"
+  ],
   "from_year": 2022,
-  "decades": [2020],
+  "decades": [
+    2020
+  ],
   "aliases": [],
-  "collections": ["Histories and Timelines"],
+  "collections": [
+    "Histories and Timelines"
+  ],
   "id": "31rZGAxtZx8Z"
 }
