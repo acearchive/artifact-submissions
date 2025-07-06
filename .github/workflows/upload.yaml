@@ -66,3 +66,42 @@ jobs:
           commit_message: "Apply automatic changes"
           file_pattern: "metadata.json artifacts/*.md"
           disable_globbing: true
+  sync:
+    name: "Update Site"
+    needs: generate
+    runs-on: ubuntu-latest
+    env:
+      PROD: ${{ contains(fromJSON('["main", "refs/heads/main"]'), github.event.inputs.ref || github.ref) }}
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v4
+        with:
+          repository: acearchive/acearchive.lgbt
+          ref: ${{ env.PROD == 'true' && 'prod' || 'main' }}
+          lfs: true
+
+      - name: "Install"
+        run: npm ci
+
+      - name: "Sync Artifacts (dev)"
+        if: env.PROD == 'false'
+        run: npm run sync:dev
+
+      - name: "Sync Artifacts (prod)"
+        if: env.PROD == 'true'
+        run: npm run sync:prod
+
+      - name: "Build (dev)"
+        if: env.PROD == 'false'
+        run: npm run build:dev
+
+      - name: "Build (prod)"
+        if: env.PROD == 'true'
+        run: npm run build:prod
+
+      - name: "Deploy"
+        uses: cloudflare/wrangler-action@v3
+        with:
+          environment: ${{ env.PROD == 'true' && 'prod' || 'dev' }}
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
