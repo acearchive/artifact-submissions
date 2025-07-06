@@ -43,47 +43,6 @@ you since you manually reviewed it. You want to do this review after the
 validation job (which calculates the hash) runs but before you merge the PR so
 that you can be sure the file doesn't change out from under you.
 
-## Deploying the changes
-
-Once your PR in this repo is merged, the artifact will be returned by the Ace
-Archive API, but will not yet appear on the website. To make the artifact appear
-on the site, you need to check out the
-[acearchive/acearchive.lgbt](https://github.com/acearchive/acearchive.lgbt) repo
-and run:
-
-```shell
-npm run update-artifacts
-```
-
-This will update the `go.mod` and `go.sum` files. You can then commit these
-changes to the repo. Committing these changes directly to `prod` is probably
-safe, but if you want to see what the artifact page will look like, you can
-either:
-
-- Run `npm run server` to spin up a local instance of the site.
-- Commit to `main` to deploy to the dev environment
-  (<https://dev.acearchive.lgbt>).
-
-## Deploying to the dev environment
-
-Pushing artifact submissions to the `dev` branch in this repo will upload them
-to the Ace Archive dev environment instead of the prod environment. This is
-useful for testing or debugging the submission pipeline.
-
-To show this test data in the dev deployment of the site, you'll need to instead
-run this command in the
-[acearchive/acearchive.lgbt](https://github.com/acearchive/acearchive.lgbt)
-repo:
-
-```shell
-npm run update-artifacts-dev
-```
-
-You can then commit the updated `go.mod` and `go.sum` files to the `main`
-branch. **Do not** run `npm run update-artifacts-dev` and then commit the
-changes to the `prod` branch. That would mean deploying testing data to the
-production site!
-
 ## Manually dispatching workflows
 
 The CI workflow only validates/uploads submission files which are different from
