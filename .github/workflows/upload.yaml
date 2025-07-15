@@ -79,7 +79,6 @@ jobs:
           lfs: true
 
       - name: "Install"
-        working-directory: ./site/
         run: npm ci
 
       - name: "Sync Artifacts (dev)"
@@ -106,6 +105,5 @@ jobs:
         uses: cloudflare/wrangler-action@v3
         with:
           environment: ${{ env.PROD == 'true' && 'prod' || 'dev' }}
-          workingDirectory: ./site/
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
