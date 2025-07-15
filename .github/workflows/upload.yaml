@@ -79,27 +79,33 @@ jobs:
           lfs: true
 
       - name: "Install"
+        working-directory: ./site/
         run: npm ci
 
       - name: "Sync Artifacts (dev)"
         if: env.PROD == 'false'
+        working-directory: ./site/
         run: npm run sync:dev
 
       - name: "Sync Artifacts (prod)"
         if: env.PROD == 'true'
+        working-directory: ./site/
         run: npm run sync:prod
 
       - name: "Build (dev)"
         if: env.PROD == 'false'
+        working-directory: ./site/
         run: npm run build:dev
 
       - name: "Build (prod)"
         if: env.PROD == 'true'
+        working-directory: ./site/
         run: npm run build:prod
 
       - name: "Deploy"
         uses: cloudflare/wrangler-action@v3
         with:
           environment: ${{ env.PROD == 'true' && 'prod' || 'dev' }}
+          workingDirectory: ./site/
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
