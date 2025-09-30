@@ -10,3 +10,6 @@ pull issue:
 submit issue branch:
   ./tools/open-pr.nu {{ issue }} {{ branch }}
 
+# upload a file to a bucket temporarily to get a direct download link
+upload file:
+  ./tools/upload-file.nu {{ file }}
