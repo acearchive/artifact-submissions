@@ -6,25 +6,30 @@ This file contains instructions for code contributors.
 
 This section outlines the process for approving submissions to the archive.
 
-Submissions take the form of GitHub issues with the artifact metadata JSON in
-the body. If the user is submitting a new artifact, it will have the
-`submission` label and the title will start with `[Submission]`. If the user is
-editing an existing artifact, it will have the `edit` label and the title will
-start with `[Edit]`.
+As a prerequisite, you will need to install:
 
-To add a submission to the archive, you need to check it into this repo as a
-JSON file under the [`submissions/`](./submissions/) directory. At this point,
-you can make any changes you deem necessary to the user's submission by hand.
-The name of the JSON file must be the artifact slug. You must open a PR with the
-change; the branch protection rules don't allow committing directly to `main`.
+- [just](https://github.com/casey/just?tab=readme-ov-file#installation)
+- [Nu](https://www.nushell.sh/book/installation.html)
 
-The PR title should start with `[Submission]` or `[Edit]` and have the
-corresponding label as well. Link to the issue number in the PR body.
+Submissions take the form of GitHub issues. To add a submission to the archive:
 
-A CI job will validate the contents of the JSON file. It will also calculate the
-hash and media type of each file in the submission and generate a random
-artifact ID for the artifact. These changes are committed back to the branch by
-a bot.
+1. Run `just pull <issue_number>` to pull the artifact metadata into your
+   working tree.
+2. Make any changes you deem necessary to the user's submission by hand.
+3. Commit the file and push to a new branch.
+4. Run `just submit <issue_number> <branch_name>` to open a PR.
+5. An automation will run to validate the artifact metadata. Wait for that to
+   complete.
+6. Once the automation completes, visit each of the URLs of files in the
+   submission to validate they're direct download links and haven't changed or
+   been deleted since the user created the submission.
+7. Merge the PR. This will upload the files and add the artifact to the archive.
+
+## Technical details
+
+A CI job validates the contents of the JSON file. It also calculates the hash
+and media type of each file in the submission and generates a random artifact ID
+for the artifact. These changes are committed back to the branch by a bot.
 
 If you need to change the media type or hash of a file by hand, the CI job will
 not overwrite your changes. If you need the CI job to regenerate those fields,
