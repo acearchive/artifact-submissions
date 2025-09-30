@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "slug": "trosse-kontrarsexualismus",
+  "title": "*Der Konträrsexualismus inbezug auf Ehe und Frauenfrage*",
+  "summary": "Pamphlet published in 1895 by Emma Trosse in which she explores Sinnlichkeitslosigkeit (absence of sexual desire)",
+  "description": "Pamphlet published in 1895 by Emma Trosse, exploring contrary sexuality and Sinnlichkeitslosigkeit (absence of sexual desire) in relation to marriage and the woman question. Among the earliest works by a woman to legitimize sexual diversity beyond pathological frameworks.",
+  "files": [
+    {
+      "name": "Digital Scan",
+      "filename": "kontrasexualismus.pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/kontrasexualismus.pdf",
+      "lang": "de",
+      "hidden": false,
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "1220228afc5a3e73d6cea5de2fafacab94391d2addb4d284653a5492b0ddc49fbdb1"
+    }
+  ],
+  "links": [
+    {
+      "name": "Munich Digitization Center (MDZ)",
+      "url": "https://www.digitale-sammlungen.de/en/view/bsb00139407?page=,1"
+    }
+  ],
+  "people": [
+    "Emma Trosse"
+  ],
+  "identities": [
+    "asexual",
+    "lesbian"
+  ],
+  "from_year": 1895,
+  "decades": [
+    1890
+  ],
+  "aliases": [],
+  "collections": [],
+  "id": "G5Kk7ZCxivr4"
+}
