@@ -9,7 +9,10 @@
       "filename": "spinster-in-society-transcript.html",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/spinster-in-society-transcript.html",
       "lang": "en",
-      "media_type": "text/html"
+      "media_type": "text/html",
+      "hidden": false,
+      "aliases": [],
+      "multihash": "12202e425a2b85c42ab5015b917cb73d22b33a38bf9c31e9775c8836badeb7defccd"
     }
   ],
   "links": [
@@ -19,8 +22,15 @@
     }
   ],
   "people": [],
-  "identities": ["unmarried", "spinster"],
+  "identities": [
+    "unmarried",
+    "spinster"
+  ],
   "from_year": 1897,
-  "decades": [1890],
-  "aliases": []
+  "decades": [
+    1890
+  ],
+  "aliases": [],
+  "collections": [],
+  "id": "EPWAFivY7q78"
 }
