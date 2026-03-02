@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "slug": "the-spinster-in-society",
+  "title": "The Spinster in Society",
+  "summary": "An article from regional Victoria, Australia, praising the contributions that unmarried women make to society",
+  "files": [
+    {
+      "name": "Transcript",
+      "filename": "spinster-in-society-transcript.html",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/spinster-in-society-transcript.html",
+      "lang": "en",
+      "media_type": "text/html",
+      "hidden": false,
+      "aliases": [],
+      "multihash": "12202e425a2b85c42ab5015b917cb73d22b33a38bf9c31e9775c8836badeb7defccd"
+    }
+  ],
+  "links": [
+    {
+      "name": "Digital Scan (Trove)",
+      "url": "https://trove.nla.gov.au/newspaper/article/65529140"
+    }
+  ],
+  "people": [],
+  "identities": [
+    "unmarried",
+    "spinster"
+  ],
+  "from_year": 1897,
+  "decades": [
+    1890
+  ],
+  "aliases": [],
+  "collections": [],
+  "id": "EPWAFivY7q78"
+}
