@@ -11,11 +11,25 @@
       "url": "https://acezinearchive.wordpress.com/"
     }
   ],
-  "people": ["Olivia Montoya", "Omnes et Nihil"],
-  "identities": ["asexual", "aromantic"],
-  "collections": ["Catalogs and Bibliographies"],
+  "people": [
+    "Olivia Montoya",
+    "Omnes et Nihil"
+  ],
+  "identities": [
+    "asexual",
+    "aromantic"
+  ],
+  "collections": [
+    "Catalogs and Bibliographies"
+  ],
   "from_year": 1972,
   "to_year": 2022,
-  "decades": [1970, 2000, 2010, 2020],
-  "aliases": []
+  "decades": [
+    1970,
+    2000,
+    2010,
+    2020
+  ],
+  "aliases": [],
+  "id": "JtMGLLO4M3ME"
 }
