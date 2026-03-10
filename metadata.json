@@ -41,6 +41,11 @@
       "description": "Often defined as someone who does not experience romantic attraction."
     },
     {
+      "name": "allosexual",
+      "kind": "identity",
+      "description": "Someone who is not asexual."
+    },
+    {
       "name": "quoiromantic",
       "kind": "identity",
       "description": "Often defined as someone who does not differentiate between romantic and platonic attraction, also called WTFromantic."
