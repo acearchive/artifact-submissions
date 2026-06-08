@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "slug": "robinson-sexual-impotence",
+  "title": "*Sexual Impotence: A Practical Treatise on the Causes, Symptoms and Treatment of Sexual Impotence*",
+  "summary": "An early sexology text describing a range of sexual \"disorders\", including lack or loss of desire.",
+  "description": "An early sexology text describing a range of sexual \"disorders\", including lack or loss of desire. Published in the US and banned in Australia, as per Nicole Moore's dataset. Includes various anonymised case studies of people who may have been asexual, e.g. pages 205 and 206. (CW: medicalisation)",
+  "files": [
+    {
+      "name": "Digital Scan",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "filename": "sexual-impotence.pdf",
+      "media_type": "application/pdf",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-impotence.pdf",
+      "multihash": "12206983d2f0317c3075ae50c63f6d7adfcd2ca5914a370b079e91853b6f3c97d36f"
+    },
+    {
+      "name": "OCR Transcript",
+      "lang": "en",
+      "hidden": false,
+      "aliases": [],
+      "filename": "sexual-impotence-transcript.txt",
+      "media_type": "text/plain",
+      "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/sexual-impotence-transcript.txt",
+      "multihash": "1220c33fe9163a6aabc70b919d6cf49a09912f8c3e2be9a6832fa2ce5d7f981baf05"
+    }
+  ],
+  "links": [
+    {
+      "name": "Internet Archive",
+      "url": "https://archive.org/details/apracticaltreat00robigoog/"
+    }
+  ],
+  "people": [
+    "William J. Robinson"
+  ],
+  "identities": [
+    "asexual"
+  ],
+  "from_year": 1913,
+  "decades": [
+    1910
+  ],
+  "aliases": [],
+  "collections": [],
+  "id": "rQWU2NZGbMo1"
+}
