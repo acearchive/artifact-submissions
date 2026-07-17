@@ -11,14 +11,18 @@
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/aus-sexuality-inquiry-volume-3.pdf",
       "lang": "en",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "12202f98b0b94f82fcb9c476e3421e7835210a2bec4c57ec5dff31b926fc33153eb9"
     },
     {
       "name": "Volume 6, containing Mr Kendall's hearing",
       "filename": "aus-sexuality-inquiry-volume-6.pdf",
       "source_url": "https://pub-298bc938d7aa4d348b4556cf3caf11bd.r2.dev/aus-sexuality-inquiry-volume-6.pdf",
       "hidden": false,
-      "aliases": []
+      "aliases": [],
+      "media_type": "application/pdf",
+      "multihash": "12202a7515151abb452edfb082dc5bab0f80fbe081106188ee2f661f63edf0761b18"
     }
   ],
   "links": [
@@ -40,5 +44,7 @@
   "decades": [
     1990
   ],
-  "aliases": []
+  "aliases": [],
+  "collections": [],
+  "id": "vD1RWILfs7xh"
 }
