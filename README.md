@@ -1,3 +1,5 @@
+⚠️ **[DEPRECATED]: Migrating the project to [Omeka S](https://omeka.org/s/) has made this repo obsolete.**
+
 # artifact-submissions
 
 This repository is where submissions to add or modify artifacts in [Ace
